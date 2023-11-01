@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "98701ce96adcf537",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d227a515ffcf656",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1fcc34337d75e0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "奇安信培训/windows操作系统/9、telnet和rdp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de9367e22a867c77",
+    "type": "split",
+    "children": [
+      {
+        "id": "203e1a6c7645d1d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c219e8bb3c393526",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d36d865dd04b919",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#这里创建一个隐藏目录",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c34aec3a24577e90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78202cd5d314333d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b314306127aa3657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "445d74fc4a553ab5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "奇安信培训/windows操作系统/9、telnet和rdp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d09baaf33f1a64fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "奇安信培训/windows操作系统/9、telnet和rdp.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73c5e87b17b65ea9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e3ee5feb88ee586a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "奇安信培训/windows操作系统/9、telnet和rdp.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d1fcc34337d75e0c",
+  "lastOpenFiles": [
+    "README.md",
+    "奇安信培训/导航.md",
+    "奇安信培训/windows操作系统/8、smtp+pop3+imap.md",
+    "奇安信培训/windows操作系统/7、ftp.md",
+    "奇安信培训/windows操作系统/6、DHCP服务.md",
+    "奇安信培训/windows操作系统/5、dns服务器.md",
+    "奇安信培训/windows操作系统/4、共享文件.md",
+    "奇安信培训/windows操作系统/3、文件系统.md",
+    "奇安信培训/windows操作系统/2、dos命令+批处理.md",
+    "奇安信培训/windows操作系统/1、账户和组.md",
+    "随手记/随手.md",
+    "奇安信培训/windows操作系统/9、telnet和rdp.md",
+    "奇安信培训/img/Pasted image 20231101174740.png",
+    "奇安信培训/img/Pasted image 20231101172403.png",
+    "奇安信培训/img/Pasted image 20231101172048.png",
+    "奇安信培训/img/Pasted image 20231101171817.png",
+    "奇安信培训/img/Pasted image 20231101155819.png",
+    "奇安信培训/img/Pasted image 20231101155622.png",
+    "奇安信培训/img/Pasted image 20231101155519.png",
+    "奇安信培训/img/Pasted image 20231101154851.png",
+    "奇安信培训/img/Pasted image 20231101154801.png",
+    "奇安信培训/img/Pasted image 20231101154736.png",
+    "奇安信培训/img",
+    "随手记/网站cms识别.md",
+    "奇安信培训/windows操作系统",
+    "奇安信培训/source/10.31/set命令详解.md",
+    "奇安信培训/source/10.31/4.bat.md",
+    "奇安信培训/source/10.31/3.bat.md",
+    "奇安信培训/source/10.31/2.bat.md",
+    "奇安信培训/source/10.31/1.bat.md",
+    "奇安信培训/source/10.31",
+    "奇安信培训/source/2.txt.md",
+    "奇安信培训/source/2.txt",
+    "奇安信培训/source",
+    "奇安信培训",
+    "面经/2023网络安全面经.md",
+    "面经/anwser/和信息安全相关的返回respose的anwser.md",
+    "[RedTeamNotes/2023更新版大厂面经.pdf.md",
+    "收藏的文章或笔记/java安全.md",
+    "收藏的文章或笔记/技术教程文章.md",
+    "收藏的文章或笔记/成体系笔记.md",
+    "java反序列化漏洞学习/cc3链原理及利用.md",
+    "java反序列化漏洞学习",
+    "收藏的文章或笔记/java安全",
+    "收藏的文章或笔记",
+    "面经/source/2023更新版大厂面经.pdf"
+  ]
+}
