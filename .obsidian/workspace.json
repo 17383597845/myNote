@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/windows操作系统/1、账户和组.md",
+                "file": "随手记/随手.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/windows操作系统/1、账户和组.md",
+                "file": "随手记/随手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/windows操作系统/1、账户和组.md",
+                "file": "随手记/随手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/windows操作系统/1、账户和组.md"
+                "file": "随手记/随手.md"
               }
             }
           }
@@ -148,8 +149,19 @@
   },
   "active": "d1fcc34337d75e0c",
   "lastOpenFiles": [
-    "奇安信培训/windows操作系统/3、文件系统.md",
+    "Pasted image 20231102115821.png",
+    "Pasted image 20231102115728.png",
+    "Pasted image 20231102115654.png",
+    "Pasted image 20231102115641.png",
+    "Pasted image 20231102115419.png",
+    "Pasted image 20231102114856.png",
+    "Pasted image 20231102114442.png",
+    "Pasted image 20231102114426.png",
+    "Pasted image 20231102114402.png",
+    "Pasted image 20231102114105.png",
+    "Pasted image 20231102114039.png",
     "奇安信培训/windows操作系统/1、账户和组.md",
+    "奇安信培训/windows操作系统/3、文件系统.md",
     "奇安信培训/导航.md",
     "奇安信培训/windows操作系统/10、iis服务器搭建.md",
     "随手记/随手.md",
@@ -161,16 +173,6 @@
     "奇安信培训/windows操作系统/4、共享文件.md",
     "奇安信培训/windows操作系统/2、dos命令+批处理.md",
     "README.md",
-    "奇安信培训/img/Pasted image 20231101174740.png",
-    "奇安信培训/img/Pasted image 20231101172403.png",
-    "奇安信培训/img/Pasted image 20231101172048.png",
-    "奇安信培训/img/Pasted image 20231101171817.png",
-    "奇安信培训/img/Pasted image 20231101155819.png",
-    "奇安信培训/img/Pasted image 20231101155622.png",
-    "奇安信培训/img/Pasted image 20231101155519.png",
-    "奇安信培训/img/Pasted image 20231101154851.png",
-    "奇安信培训/img/Pasted image 20231101154801.png",
-    "奇安信培训/img/Pasted image 20231101154736.png",
     "奇安信培训/img",
     "随手记/网站cms识别.md",
     "奇安信培训/windows操作系统",
@@ -189,7 +191,6 @@
     "[RedTeamNotes/2023更新版大厂面经.pdf.md",
     "收藏的文章或笔记/java安全.md",
     "收藏的文章或笔记/技术教程文章.md",
-    "收藏的文章或笔记/成体系笔记.md",
     "java反序列化漏洞学习",
     "收藏的文章或笔记/java安全",
     "收藏的文章或笔记",
