@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "592e716604ae5e83",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20231102162106.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/windows操作系统/12、域.md",
+                "file": "Pasted image 20231102162106.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/windows操作系统/12、域.md",
+                "file": "Pasted image 20231102162106.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/windows操作系统/12、域.md"
+                "file": "Pasted image 20231102162106.png"
               }
             }
           }
@@ -147,22 +158,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "92b385dc736cb9fb",
+  "active": "592e716604ae5e83",
   "lastOpenFiles": [
+    "奇安信培训/windows操作系统/12、域.md",
+    "Pasted image 20231102162106.png",
+    "Pasted image 20231102162019.png",
+    "Pasted image 20231102160627.png",
     "Pasted image 20231102141732.png",
     "Pasted image 20231102140136.png",
     "随手记/随手.md",
-    "奇安信培训/windows操作系统/12、域.md",
     "奇安信培训/windows操作系统/11、本地安全策略.md",
     "奇安信培训/img/Pasted image 20231102115821.png",
     "奇安信培训/img/Pasted image 20231102115728.png",
     "奇安信培训/img/Pasted image 20231102115654.png",
     "奇安信培训/img/Pasted image 20231102115641.png",
     "奇安信培训/img/Pasted image 20231102115419.png",
-    "奇安信培训/img/Pasted image 20231102114856.png",
-    "奇安信培训/img/Pasted image 20231102114442.png",
-    "奇安信培训/img/Pasted image 20231102114426.png",
-    "奇安信培训/img/Pasted image 20231102114402.png",
     "奇安信培训/windows操作系统/1、账户和组.md",
     "奇安信培训/windows操作系统/3、文件系统.md",
     "奇安信培训/导航.md",
