@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/windows操作系统/12、域.md",
+                "file": "奇安信培训/windows操作系统/4、共享文件.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/windows操作系统/12、域.md",
+                "file": "奇安信培训/windows操作系统/4、共享文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/windows操作系统/12、域.md",
+                "file": "奇安信培训/windows操作系统/4、共享文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/windows操作系统/12、域.md"
+                "file": "奇安信培训/windows操作系统/4、共享文件.md"
               }
             }
           }
@@ -149,8 +148,8 @@
   },
   "active": "92b385dc736cb9fb",
   "lastOpenFiles": [
-    "Pasted image 20231102162106.png",
     "奇安信培训/windows操作系统/12、域.md",
+    "Pasted image 20231102162106.png",
     "Pasted image 20231102162019.png",
     "Pasted image 20231102160627.png",
     "Pasted image 20231102141732.png",
