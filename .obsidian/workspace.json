@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -148,6 +149,8 @@
   },
   "active": "92b385dc736cb9fb",
   "lastOpenFiles": [
+    "Pasted image 20231102141732.png",
+    "Pasted image 20231102140136.png",
     "随手记/随手.md",
     "奇安信培训/windows操作系统/12、域.md",
     "奇安信培训/windows操作系统/11、本地安全策略.md",
@@ -160,7 +163,6 @@
     "奇安信培训/img/Pasted image 20231102114442.png",
     "奇安信培训/img/Pasted image 20231102114426.png",
     "奇安信培训/img/Pasted image 20231102114402.png",
-    "奇安信培训/img/Pasted image 20231102114105.png",
     "奇安信培训/windows操作系统/1、账户和组.md",
     "奇安信培训/windows操作系统/3、文件系统.md",
     "奇安信培训/导航.md",
@@ -189,7 +191,6 @@
     "面经/2023网络安全面经.md",
     "面经/anwser/和信息安全相关的返回respose的anwser.md",
     "[RedTeamNotes/2023更新版大厂面经.pdf.md",
-    "收藏的文章或笔记/java安全.md",
     "java反序列化漏洞学习",
     "收藏的文章或笔记/java安全",
     "收藏的文章或笔记",
