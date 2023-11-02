@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/windows操作系统/9、telnet和rdp.md",
+                "file": "奇安信培训/windows操作系统/1、账户和组.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/windows操作系统/9、telnet和rdp.md",
+                "file": "奇安信培训/windows操作系统/1、账户和组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/windows操作系统/9、telnet和rdp.md",
+                "file": "奇安信培训/windows操作系统/1、账户和组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/windows操作系统/9、telnet和rdp.md"
+                "file": "奇安信培训/windows操作系统/1、账户和组.md"
               }
             }
           }
@@ -148,18 +148,19 @@
   },
   "active": "d1fcc34337d75e0c",
   "lastOpenFiles": [
-    "README.md",
+    "奇安信培训/windows操作系统/3、文件系统.md",
+    "奇安信培训/windows操作系统/1、账户和组.md",
     "奇安信培训/导航.md",
-    "奇安信培训/windows操作系统/8、smtp+pop3+imap.md",
-    "奇安信培训/windows操作系统/7、ftp.md",
+    "奇安信培训/windows操作系统/10、iis服务器搭建.md",
+    "随手记/随手.md",
     "奇安信培训/windows操作系统/6、DHCP服务.md",
     "奇安信培训/windows操作系统/5、dns服务器.md",
-    "奇安信培训/windows操作系统/4、共享文件.md",
-    "奇安信培训/windows操作系统/3、文件系统.md",
-    "奇安信培训/windows操作系统/2、dos命令+批处理.md",
-    "奇安信培训/windows操作系统/1、账户和组.md",
-    "随手记/随手.md",
     "奇安信培训/windows操作系统/9、telnet和rdp.md",
+    "奇安信培训/windows操作系统/8、smtp+pop3+imap.md",
+    "奇安信培训/windows操作系统/7、ftp.md",
+    "奇安信培训/windows操作系统/4、共享文件.md",
+    "奇安信培训/windows操作系统/2、dos命令+批处理.md",
+    "README.md",
     "奇安信培训/img/Pasted image 20231101174740.png",
     "奇安信培训/img/Pasted image 20231101172403.png",
     "奇安信培训/img/Pasted image 20231101172048.png",
@@ -189,7 +190,6 @@
     "收藏的文章或笔记/java安全.md",
     "收藏的文章或笔记/技术教程文章.md",
     "收藏的文章或笔记/成体系笔记.md",
-    "java反序列化漏洞学习/cc3链原理及利用.md",
     "java反序列化漏洞学习",
     "收藏的文章或笔记/java安全",
     "收藏的文章或笔记",
