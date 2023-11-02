@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "592e716604ae5e83",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20231102162106.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231102162106.png",
+                "file": "奇安信培训/windows操作系统/12、域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231102162106.png",
+                "file": "奇安信培训/windows操作系统/12、域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20231102162106.png"
+                "file": "奇安信培训/windows操作系统/12、域.md"
               }
             }
           }
@@ -158,10 +147,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "592e716604ae5e83",
+  "active": "92b385dc736cb9fb",
   "lastOpenFiles": [
-    "奇安信培训/windows操作系统/12、域.md",
     "Pasted image 20231102162106.png",
+    "奇安信培训/windows操作系统/12、域.md",
     "Pasted image 20231102162019.png",
     "Pasted image 20231102160627.png",
     "Pasted image 20231102141732.png",
