@@ -1,6 +1,8 @@
 
 ## 一、dos命令
 ncpa.cpl:打开网络适配器界面
+secpol.msc:打开本地安全策略
+
 用户：
 			非隐藏用户：net user
 			隐藏用户：
