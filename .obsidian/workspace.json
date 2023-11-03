@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da1db1e1ba74b79c",
+        "id": "63eb302495918c1f",
         "type": "tabs",
         "children": [
           {
-            "id": "b8c2c151a288ae25",
+            "id": "54d3dbdabce96816",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -147,21 +146,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b8c2c151a288ae25",
+  "active": "54d3dbdabce96816",
   "lastOpenFiles": [
-    "Pasted image 20231103160428.png",
-    "Pasted image 20231103160338.png",
-    "Pasted image 20231103160243.png",
-    "Pasted image 20231103160126.png",
-    "Pasted image 20231103160052.png",
-    "Pasted image 20231103155951.png",
-    "Pasted image 20231103153925.png",
-    "Pasted image 20231103150416.png",
-    "Pasted image 20231103150238.png",
-    "Pasted image 20231103142038.png",
-    "Pasted image 20231103142016.png",
-    "奇安信培训/windows操作系统/7、ftp.md",
+    "奇安信培训/windows操作系统/2、dos命令+批处理.md",
     "随手记/随手.md",
+    "奇安信培训/img/Pasted image 20231103095323.png",
+    "奇安信培训/img/Pasted image 20231103160428.png",
+    "奇安信培训/linux操作系统/未命名.md",
+    "奇安信培训/linux操作系统",
+    "奇安信培训/img/Pasted image 20231103160338.png",
+    "奇安信培训/img/Pasted image 20231103160243.png",
+    "奇安信培训/img/Pasted image 20231103160126.png",
+    "奇安信培训/img/Pasted image 20231103160052.png",
+    "奇安信培训/img/Pasted image 20231103155951.png",
+    "奇安信培训/img/Pasted image 20231103153925.png",
+    "奇安信培训/img/Pasted image 20231103150416.png",
+    "奇安信培训/img/Pasted image 20231103150238.png",
+    "奇安信培训/windows操作系统/7、ftp.md",
     "奇安信培训/windows操作系统/4、共享文件.md",
     "奇安信培训/导航.md",
     "奇安信培训/windows操作系统/12、域.md",
@@ -169,7 +170,6 @@
     "奇安信培训/windows操作系统/9、telnet和rdp.md",
     "奇安信培训/windows操作系统/10、iis服务器搭建.md",
     "奇安信培训/windows操作系统/11、本地安全策略.md",
-    "奇安信培训/windows操作系统/2、dos命令+批处理.md",
     "奇安信培训/windows操作系统/1、账户和组.md",
     "奇安信培训/windows操作系统/3、文件系统.md",
     "奇安信培训/windows操作系统/6、DHCP服务.md",
@@ -190,10 +190,8 @@
     "奇安信培训",
     "面经/2023网络安全面经.md",
     "面经/anwser/和信息安全相关的返回respose的anwser.md",
-    "[RedTeamNotes/2023更新版大厂面经.pdf.md",
     "java反序列化漏洞学习",
     "收藏的文章或笔记/java安全",
-    "收藏的文章或笔记",
-    "面经/source/2023更新版大厂面经.pdf"
+    "收藏的文章或笔记"
   ]
 }

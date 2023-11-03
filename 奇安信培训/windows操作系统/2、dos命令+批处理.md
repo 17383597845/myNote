@@ -2,6 +2,18 @@
 ## 一、dos命令
 ncpa.cpl:打开网络适配器界面
 secpol.msc:打开本地安全策略
+四个常用命令：ipconfig、ping、netstat、systeminfo
+文件夹相关命令：E:、cd、dir、mkdir（md）、rd
+文件相关命令：
+	添加文件：echo  >或>>  注：>是覆盖而>>是
+	查看文件：type
+	删除文件：del       /s/q：强制删除
+	复制文件：copy
+	移动文件：move
+	重命名：ren
+	修改关联：assoc   例如：assoc  .txt=exefile
+
+获取所有用户名（包括隐藏用户）：wmic useraccount get name
 
 用户：
 			非隐藏用户：net user
