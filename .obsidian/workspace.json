@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/windows操作系统/11、本地安全策略.md",
+                "file": "奇安信培训/windows操作系统/7、ftp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/windows操作系统/11、本地安全策略.md",
+                "file": "奇安信培训/windows操作系统/7、ftp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/windows操作系统/11、本地安全策略.md",
+                "file": "奇安信培训/windows操作系统/7、ftp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/windows操作系统/11、本地安全策略.md"
+                "file": "奇安信培训/windows操作系统/7、ftp.md"
               }
             }
           }
@@ -149,17 +149,20 @@
   "active": "390f09189462b109",
   "lastOpenFiles": [
     "奇安信培训/导航.md",
+    "奇安信培训/windows操作系统/7、ftp.md",
+    "奇安信培训/windows操作系统/8、smtp+pop3+imap.md",
+    "奇安信培训/windows操作系统/9、telnet和rdp.md",
+    "奇安信培训/windows操作系统/10、iis服务器搭建.md",
+    "奇安信培训/windows操作系统/11、本地安全策略.md",
+    "奇安信培训/windows操作系统/12、域.md",
+    "随手记/随手.md",
     "奇安信培训/img/Pasted image 20231102162106.png",
     "奇安信培训/img/Pasted image 20231102160627.png",
-    "奇安信培训/windows操作系统/11、本地安全策略.md",
-    "奇安信培训/windows操作系统/10、iis服务器搭建.md",
-    "奇安信培训/windows操作系统/12、域.md",
     "奇安信培训/windows操作系统/2、dos命令+批处理.md",
     "奇安信培训/windows操作系统/4、共享文件.md",
     "奇安信培训/img/Pasted image 20231102162019.png",
     "奇安信培训/img/Pasted image 20231102141732.png",
     "奇安信培训/img/Pasted image 20231102140136.png",
-    "随手记/随手.md",
     "奇安信培训/img/Pasted image 20231102115821.png",
     "奇安信培训/img/Pasted image 20231102115728.png",
     "奇安信培训/img/Pasted image 20231102115654.png",
@@ -169,9 +172,6 @@
     "奇安信培训/windows操作系统/3、文件系统.md",
     "奇安信培训/windows操作系统/6、DHCP服务.md",
     "奇安信培训/windows操作系统/5、dns服务器.md",
-    "奇安信培训/windows操作系统/9、telnet和rdp.md",
-    "奇安信培训/windows操作系统/8、smtp+pop3+imap.md",
-    "奇安信培训/windows操作系统/7、ftp.md",
     "README.md",
     "奇安信培训/img",
     "随手记/网站cms识别.md",
