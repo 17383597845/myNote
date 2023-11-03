@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/windows操作系统/7、ftp.md",
+                "file": "随手记/随手.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/windows操作系统/7、ftp.md",
+                "file": "随手记/随手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/windows操作系统/7、ftp.md",
+                "file": "随手记/随手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/windows操作系统/7、ftp.md"
+                "file": "随手记/随手.md"
               }
             }
           }
@@ -148,11 +149,13 @@
   },
   "active": "390f09189462b109",
   "lastOpenFiles": [
+    "Pasted image 20231103095611.png",
+    "Pasted image 20231103095323.png",
+    "奇安信培训/windows操作系统/7、ftp.md",
     "随手记/随手.md",
     "奇安信培训/windows操作系统/4、共享文件.md",
     "奇安信培训/导航.md",
     "奇安信培训/windows操作系统/12、域.md",
-    "奇安信培训/windows操作系统/7、ftp.md",
     "奇安信培训/windows操作系统/8、smtp+pop3+imap.md",
     "奇安信培训/windows操作系统/9、telnet和rdp.md",
     "奇安信培训/windows操作系统/10、iis服务器搭建.md",
@@ -167,7 +170,6 @@
     "奇安信培训/img/Pasted image 20231102115728.png",
     "奇安信培训/img/Pasted image 20231102115654.png",
     "奇安信培训/img/Pasted image 20231102115641.png",
-    "奇安信培训/img/Pasted image 20231102115419.png",
     "奇安信培训/windows操作系统/1、账户和组.md",
     "奇安信培训/windows操作系统/3、文件系统.md",
     "奇安信培训/windows操作系统/6、DHCP服务.md",
