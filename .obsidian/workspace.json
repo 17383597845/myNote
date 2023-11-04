@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随手记/随手.md",
+                "file": "随手记/随手2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随手记/随手.md",
+                "file": "随手记/随手2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随手记/随手.md",
+                "file": "随手记/随手2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随手记/随手.md"
+                "file": "随手记/随手2.md"
               }
             }
           }
@@ -146,15 +147,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c219e8bb3c393526",
+  "active": "54d3dbdabce96816",
   "lastOpenFiles": [
-    "随手记/随手2.md",
+    "奇安信培训/linux操作系统/linux.md",
     "随手记/随手.md",
+    "随手记/随手2.md",
     "随手记/网站cms识别.md",
     "奇安信培训/windows操作系统/2、dos命令+批处理.md",
     "奇安信培训/img/Pasted image 20231103095323.png",
     "奇安信培训/img/Pasted image 20231103160428.png",
-    "奇安信培训/linux操作系统/未命名.md",
     "奇安信培训/linux操作系统",
     "奇安信培训/img/Pasted image 20231103160338.png",
     "奇安信培训/img/Pasted image 20231103160243.png",
