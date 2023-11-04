@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "63eb302495918c1f",
+        "id": "e008d36235fcdae6",
         "type": "tabs",
         "children": [
           {
-            "id": "54d3dbdabce96816",
+            "id": "705d85a368201699",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "随手记/随手2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随手记/随手2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随手记/随手2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "随手记/随手2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,18 +138,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "54d3dbdabce96816",
+  "active": "705d85a368201699",
   "lastOpenFiles": [
+    "奇安信培训/img/Pasted image 20231104104601.png",
+    "随手记/随手2.md",
     "奇安信培训/linux操作系统/linux.md",
     "随手记/随手.md",
-    "随手记/随手2.md",
-    "Pasted image 20231104104601.png",
-    "Pasted image 20231104104404.png",
-    "Pasted image 20231104104234.png",
-    "Pasted image 20231104104149.png",
-    "Pasted image 20231104104046.png",
-    "Pasted image 20231104104018.png",
-    "Pasted image 20231104103806.png",
+    "奇安信培训/img/Pasted image 20231104104404.png",
+    "奇安信培训/img/Pasted image 20231104104234.png",
+    "奇安信培训/img/Pasted image 20231104104149.png",
+    "奇安信培训/img/Pasted image 20231104104046.png",
+    "奇安信培训/img/Pasted image 20231104104018.png",
+    "奇安信培训/img/Pasted image 20231104103806.png",
     "随手记/网站cms识别.md",
     "奇安信培训/windows操作系统/2、dos命令+批处理.md",
     "奇安信培训/img/Pasted image 20231103095323.png",
