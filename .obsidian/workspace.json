@@ -11,8 +11,12 @@
             "id": "705d85a368201699",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "随手记/随手2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "随手记/随手2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "随手记/随手2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "随手记/随手2.md"
+              }
             }
           }
         ]
@@ -140,6 +149,11 @@
   },
   "active": "705d85a368201699",
   "lastOpenFiles": [
+    "Pasted image 20231104142138.png",
+    "Pasted image 20231104141747.png",
+    "Pasted image 20231104141552.png",
+    "Pasted image 20231104140845.png",
+    "Pasted image 20231104140828.png",
     "奇安信培训/img/Pasted image 20231104104601.png",
     "随手记/随手2.md",
     "奇安信培训/linux操作系统/linux.md",
@@ -149,13 +163,9 @@
     "奇安信培训/img/Pasted image 20231104104149.png",
     "奇安信培训/img/Pasted image 20231104104046.png",
     "奇安信培训/img/Pasted image 20231104104018.png",
-    "奇安信培训/img/Pasted image 20231104103806.png",
     "随手记/网站cms识别.md",
     "奇安信培训/windows操作系统/2、dos命令+批处理.md",
-    "奇安信培训/img/Pasted image 20231103095323.png",
-    "奇安信培训/img/Pasted image 20231103160428.png",
     "奇安信培训/linux操作系统",
-    "奇安信培训/img/Pasted image 20231103160338.png",
     "奇安信培训/windows操作系统/7、ftp.md",
     "奇安信培训/windows操作系统/4、共享文件.md",
     "奇安信培训/导航.md",
