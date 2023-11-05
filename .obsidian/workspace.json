@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9cd0646fee68133c",
+        "id": "e08b3ec5f0544028",
         "type": "tabs",
         "children": [
           {
-            "id": "d659550f9bfc2b9d",
+            "id": "c06c00bf5544dad7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -159,22 +158,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d659550f9bfc2b9d",
+  "active": "c06c00bf5544dad7",
   "lastOpenFiles": [
-    "Pasted image 20231104170440.png",
-    "Pasted image 20231104164315.png",
-    "Pasted image 20231104163445.png",
-    "Pasted image 20231104163107.png",
-    "Pasted image 20231104163040.png",
-    "Pasted image 20231104163011.png",
     "奇安信培训/linux操作系统/linux.md",
+    "奇安信培训/img/Pasted image 20231104170440.png",
+    "随手记/随手.md",
+    "随手记/随手2.md",
+    "奇安信培训/img/Pasted image 20231104164315.png",
+    "奇安信培训/img/Pasted image 20231104163445.png",
+    "奇安信培训/img/Pasted image 20231104163107.png",
+    "奇安信培训/img/Pasted image 20231104163040.png",
+    "奇安信培训/img/Pasted image 20231104163011.png",
     "奇安信培训/img/Pasted image 20231104155626.png",
     "奇安信培训/img/Pasted image 20231104144030.png",
-    "随手记/随手2.md",
-    "随手记/随手.md",
     "奇安信培训/img/Pasted image 20231104144448.png",
     "奇安信培训/img/Pasted image 20231104144341.png",
-    "奇安信培训/img/Pasted image 20231104144301.png",
     "随手记/网站cms识别.md",
     "奇安信培训/windows操作系统/2、dos命令+批处理.md",
     "奇安信培训/linux操作系统",
