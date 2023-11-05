@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "e08b3ec5f0544028",
+        "id": "e32d244cdbd77ea8",
         "type": "tabs",
         "children": [
           {
-            "id": "c06c00bf5544dad7",
+            "id": "2cc7993ebad11adb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "随手记/随手.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5caf280e401ad45d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f05eea2c296c3d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "奇安信培训/linux操作系统/linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/linux操作系统/linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/linux操作系统/linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随手记/随手2.md"
+                "file": "奇安信培训/linux操作系统/linux.md"
               }
             }
           }
@@ -158,12 +176,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c06c00bf5544dad7",
+  "active": "8f05eea2c296c3d9",
   "lastOpenFiles": [
-    "奇安信培训/linux操作系统/linux.md",
-    "奇安信培训/img/Pasted image 20231104170440.png",
     "随手记/随手.md",
+    "奇安信培训/linux操作系统/linux.md",
     "随手记/随手2.md",
+    "奇安信培训/windows操作系统/2、dos命令+批处理.md",
+    "奇安信培训/windows操作系统/1、账户和组.md",
+    "奇安信培训/img/Pasted image 20231104170440.png",
     "奇安信培训/img/Pasted image 20231104164315.png",
     "奇安信培训/img/Pasted image 20231104163445.png",
     "奇安信培训/img/Pasted image 20231104163107.png",
@@ -174,7 +194,6 @@
     "奇安信培训/img/Pasted image 20231104144448.png",
     "奇安信培训/img/Pasted image 20231104144341.png",
     "随手记/网站cms识别.md",
-    "奇安信培训/windows操作系统/2、dos命令+批处理.md",
     "奇安信培训/linux操作系统",
     "奇安信培训/windows操作系统/7、ftp.md",
     "奇安信培训/windows操作系统/4、共享文件.md",
@@ -184,7 +203,6 @@
     "奇安信培训/windows操作系统/9、telnet和rdp.md",
     "奇安信培训/windows操作系统/10、iis服务器搭建.md",
     "奇安信培训/windows操作系统/11、本地安全策略.md",
-    "奇安信培训/windows操作系统/1、账户和组.md",
     "奇安信培训/windows操作系统/3、文件系统.md",
     "奇安信培训/windows操作系统/6、DHCP服务.md",
     "奇安信培训/windows操作系统/5、dns服务器.md",

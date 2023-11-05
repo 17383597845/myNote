@@ -39,7 +39,7 @@ wmic useraccount get name #查看隐藏用户（包括深隐藏和克隆用户�
 
 作业：
 ![[EJ2@9[]LV640CLXYFSK(HAB.png]]
-```
+```shell
 net localgroup student /add
 net localgroup teacher /add
 net user john 123456 /add
