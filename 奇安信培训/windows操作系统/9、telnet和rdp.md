@@ -15,7 +15,6 @@ telnet：底层是tcp协议
 2、新建用户，并将该用户添加到telnetclient组中，并将用户从原有组中移除（避免telnet用户有太高权限）
 打开本地用户和组：有一个telnetclients组
 3、使用 telnet  ip的方式连接
-	
 
 远程桌面怎么使用？
 1、添加一个新用户，移入remoteDesktopUsers组，并从原有组中移除他。
