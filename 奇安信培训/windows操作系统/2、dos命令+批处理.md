@@ -13,7 +13,7 @@ secpol.msc:打开本地安全策略
 	重命名：ren
 	修改关联：assoc   例如：assoc  .txt=exefile
 
-获取所有用户名（包括隐藏用户）：wmic useraccount get name
+获取所有用户名（包括隐藏用户）：wmic useraccount get name。。
 
 用户：
 			非隐藏用户：net user

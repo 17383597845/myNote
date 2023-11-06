@@ -47,15 +47,15 @@ linu域名解析顺序：
 ```bash
 	shutdown
 	poweroff
-	init0
+	init 0
 ```
 重启命令：
 ```bash
 	reboot
-	init6
+	init 6
 	shutdown -r
 ```
-隐藏权限
+隐藏权限：https://blog.51cto.com/u_15292540/3124767
 ```bash
 lsattr #用户查看文件的隐藏权限
 chattr +a 文件名  #修改文件的隐藏权限
@@ -68,6 +68,7 @@ chattr +a 文件名  #修改文件的隐藏权限
     `-v`：显示执行的操作。
 ```bash
 chgrp 组名 文件名 #修改文件或目录的所属组
+chown 属主:属组 文件名#用法和chgrp类似
 ```
 其他命令：
 ```bash
