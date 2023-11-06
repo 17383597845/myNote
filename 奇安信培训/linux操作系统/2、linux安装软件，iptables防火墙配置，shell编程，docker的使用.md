@@ -87,7 +87,7 @@ set password=password("Admin@123");
 更改本地yum源
 ```bash
 mkdir /mnt/cdrom  #创建挂载点
-mount /dev/sro /mnt/cdrom/ #将光盘挂载
+mount /dev/sr0 /mnt/cdrom/ #将光盘挂载
 mv CentOS-Base.repo CentOS-Bse.repo.163
 mv CentOS-Base.repo CentOS-Bse.repo.bak CentOS-Base.repo CentOS-Bse.repo
 vim CentOS-Base.repo 
