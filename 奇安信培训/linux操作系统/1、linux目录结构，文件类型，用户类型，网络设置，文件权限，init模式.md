@@ -1,5 +1,4 @@
 
-
 # 一、linux的init模式和关机命令（使用init 1找回密码）
 ### 1、linux的init模式：
 init0：系统停机模式，系统默认运行级别不能设置为0，否则系统不能正常启动，机器关闭
@@ -75,12 +74,40 @@ chgrp 组名 文件名 #修改文件或目录的所属组
 cd - #返回上一级工作目录
 last #查看近一个月登录者的信息
 gunzip#解压缩文件的程序
-tar -zcvf 1.rar 1.txt  #压缩文件
+tar -zcvf 1.rar 1.txt  #压缩1.txt文件到1.rar
+tar -zxvf 1.rar 1.txt #解压1.rar到1.txt
+ps #查看进程
+kill 参数 进程号#删除进程，强制用-9参数
+top#类似windows的任务管理器
+ifconfig ens33 down（up）#关闭（开启）网卡
+#netstat ：查看网络套接字状态** 查找结果：
+netstat -at  | grep  ssh
+head -n 文件#查看文件的前n行
+tail -n  文件#查看文件后n行
+cat -n/-b 文件名#查询结果按行编号
+find /home  -atime +10#查找前十天的内容
+date#显示当前服务器的时间
+	date +%Y-%m-%d %H:%M:%S  #以特定的格式展示时间
+	date -s "2024-11-3 16:40:00"  # 修改时间
+	ntpdate ntp2.aliyun.com          #在能够正常dns解析，并能正常出网的情况下可以使用和时间服务器同步时间
 
 
+wc -l 文件 #统计文件有多少行
+gpasswd -a和usermod -aG的区别：
+gpasswd -a是将用户添加到组，用户原有组不变，usermod -aG是将用户移入组，用户不再属于原有组
 ```
 netstat命令：
 ![[Pasted image 20231103115715.png]]
+磁盘空间查看：df命令
+![[Pasted image 20231103160243.png]]
+du：查看文件和目录的磁盘使用情况
+	du 选项  文件
+	![[Pasted image 20231103160338.png]]
+
+
+
+
+
 # 四、linux的目录结构、文件类型和用户类型
 ### 1、目录结构
 	1. `/`（根目录）：Linux文件系统的根目录，所有其他目录和文件都从这里开始。

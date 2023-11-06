@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "cfa66efafa7ab49f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "81a2e5c635e1d006",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "奇安信培训/linux操作系统/linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/linux操作系统/linux.md",
+                "file": "随手记/随手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/linux操作系统/linux.md",
+                "file": "随手记/随手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/linux操作系统/linux.md"
+                "file": "随手记/随手.md"
               }
             }
           }
@@ -176,11 +158,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "81a2e5c635e1d006",
+  "active": "2cc7993ebad11adb",
   "lastOpenFiles": [
-    "随手记/随手.md",
-    "奇安信培训/linux操作系统/linux.md",
+    "奇安信培训/linux操作系统/2、linux安装软件，iptables防火墙配置，shell编程，docker的使用.md",
     "随手记/随手2.md",
+    "随手记/网站cms识别.md",
+    "奇安信培训/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
+    "随手记/随手.md",
     "奇安信培训/windows操作系统/1、账户和组.md",
     "奇安信培训.rar",
     "奇安信培训/windows操作系统/11、本地安全策略.md",
@@ -197,7 +181,6 @@
     "奇安信培训/img/Pasted image 20231104144030.png",
     "奇安信培训/img/Pasted image 20231104144448.png",
     "奇安信培训/img/Pasted image 20231104144341.png",
-    "随手记/网站cms识别.md",
     "奇安信培训/linux操作系统",
     "奇安信培训/windows操作系统/7、ftp.md",
     "奇安信培训/windows操作系统/4、共享文件.md",
