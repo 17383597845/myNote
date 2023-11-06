@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/windows操作系统/7、ftp.md",
+                "file": "奇安信培训/windows操作系统/11、本地安全策略.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/windows操作系统/7、ftp.md",
+                "file": "奇安信培训/windows操作系统/11、本地安全策略.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/windows操作系统/7、ftp.md",
+                "file": "奇安信培训/windows操作系统/11、本地安全策略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/windows操作系统/7、ftp.md"
+                "file": "奇安信培训/windows操作系统/11、本地安全策略.md"
               }
             }
           }
@@ -160,11 +160,11 @@
   },
   "active": "2cc7993ebad11adb",
   "lastOpenFiles": [
+    "奇安信培训/windows操作系统/7、ftp.md",
     "奇安信培训/linux操作系统/2、linux安装软件，iptables防火墙配置，shell编程，docker的使用.md",
     "随手记/随手2.md",
     "奇安信培训/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
     "奇安信培训/windows操作系统/11、本地安全策略.md",
-    "奇安信培训/windows操作系统/7、ftp.md",
     "奇安信培训/windows操作系统/6、DHCP服务.md",
     "奇安信培训/windows操作系统/5、dns服务器.md",
     "奇安信培训/windows操作系统/4、共享文件.md",
