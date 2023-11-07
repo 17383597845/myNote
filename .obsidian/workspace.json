@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/windows操作系统/11、本地安全策略.md",
+                "file": "随手记/随手2.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/windows操作系统/11、本地安全策略.md",
+                "file": "随手记/随手2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/windows操作系统/11、本地安全策略.md",
+                "file": "随手记/随手2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/windows操作系统/11、本地安全策略.md"
+                "file": "随手记/随手2.md"
               }
             }
           }
@@ -160,22 +160,26 @@
   },
   "active": "2cc7993ebad11adb",
   "lastOpenFiles": [
-    "奇安信培训/windows操作系统/7、ftp.md",
-    "奇安信培训/linux操作系统/2、linux安装软件，iptables防火墙配置，shell编程，docker的使用.md",
+    "奇安信培训/操作系统/windows操作系统/11、本地安全策略.md",
     "随手记/随手2.md",
-    "奇安信培训/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
-    "奇安信培训/windows操作系统/11、本地安全策略.md",
-    "奇安信培训/windows操作系统/6、DHCP服务.md",
-    "奇安信培训/windows操作系统/5、dns服务器.md",
-    "奇安信培训/windows操作系统/4、共享文件.md",
-    "奇安信培训/windows操作系统/3、文件系统.md",
-    "奇安信培训/windows操作系统/2、dos命令+批处理.md",
-    "奇安信培训/windows操作系统/1、账户和组.md",
-    "随手记/随手.md",
+    "Pasted image 20231107093724.png",
+    "奇安信培训/操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
+    "奇安信培训/导航.md",
+    "奇安信培训/操作系统/windows操作系统/7、ftp.md",
     "随手记/网站cms识别.md",
+    "随手记/随手.md",
+    "奇安信培训/数通",
+    "奇安信培训/操作系统",
+    "奇安信培训/操作系统/linux操作系统/2、linux安装软件，iptables防火墙配置，shell编程，docker的使用.md",
+    "奇安信培训/操作系统/windows操作系统/6、DHCP服务.md",
+    "奇安信培训/操作系统/windows操作系统/5、dns服务器.md",
+    "奇安信培训/操作系统/windows操作系统/4、共享文件.md",
+    "奇安信培训/操作系统/windows操作系统/3、文件系统.md",
+    "奇安信培训/操作系统/windows操作系统/2、dos命令+批处理.md",
+    "奇安信培训/操作系统/windows操作系统/1、账户和组.md",
     "奇安信培训.rar",
-    "奇安信培训/windows操作系统/9、telnet和rdp.md",
-    "奇安信培训/windows操作系统/10、iis服务器搭建.md",
+    "奇安信培训/操作系统/windows操作系统/9、telnet和rdp.md",
+    "奇安信培训/操作系统/windows操作系统/10、iis服务器搭建.md",
     "奇安信培训/img/Pasted image 20231104170440.png",
     "奇安信培训/img/Pasted image 20231104164315.png",
     "奇安信培训/img/Pasted image 20231104163445.png",
@@ -185,14 +189,12 @@
     "奇安信培训/img/Pasted image 20231104155626.png",
     "奇安信培训/img/Pasted image 20231104144030.png",
     "奇安信培训/img/Pasted image 20231104144448.png",
-    "奇安信培训/img/Pasted image 20231104144341.png",
-    "奇安信培训/linux操作系统",
-    "奇安信培训/导航.md",
-    "奇安信培训/windows操作系统/12、域.md",
-    "奇安信培训/windows操作系统/8、smtp+pop3+imap.md",
+    "奇安信培训/操作系统/linux操作系统",
+    "奇安信培训/操作系统/windows操作系统/12、域.md",
+    "奇安信培训/操作系统/windows操作系统/8、smtp+pop3+imap.md",
     "README.md",
     "奇安信培训/img",
-    "奇安信培训/windows操作系统",
+    "奇安信培训/操作系统/windows操作系统",
     "奇安信培训/source/10.31/set命令详解.md",
     "奇安信培训/source/10.31/4.bat.md",
     "奇安信培训/source/10.31/3.bat.md",
@@ -202,9 +204,6 @@
     "奇安信培训/source/2.txt.md",
     "奇安信培训/source/2.txt",
     "奇安信培训/source",
-    "奇安信培训",
-    "面经/2023网络安全面经.md",
-    "java反序列化漏洞学习",
-    "收藏的文章或笔记/java安全"
+    "奇安信培训"
   ]
 }
