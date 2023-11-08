@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/导航.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/导航.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/导航.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随手记/随手2.md"
+                "file": "奇安信培训/导航.md"
               }
             }
           }
@@ -158,21 +158,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "415663c9a146f733",
+  "active": "c219e8bb3c393526",
   "lastOpenFiles": [
+    "随手记/随手2.md",
+    "奇安信培训/source/11.8",
+    "Pasted image 20231108173720.png",
     "Pasted image 20231108163858.png",
     "Pasted image 20231108163644.png",
     "Pasted image 20231108163215.png",
     "Pasted image 20231108161445.png",
     "奇安信培训/img/Pasted image 20231108161041.png",
-    "随手记/随手2.md",
     "奇安信培训/img/Pasted image 20231108154248.png",
     "奇安信培训/img/Pasted image 20231108145521.png",
     "奇安信培训/img/Pasted image 20231108145434.png",
     "未命名.md",
     "奇安信培训/img/Pasted image 20231108141540.png",
-    "奇安信培训/img/Pasted image 20231108141204.png",
-    "奇安信培训/img/Pasted image 20231108141003.png",
     "奇安信培训/数通/1、vpr系统.md",
     "随手记/网站cms识别.md",
     "随手记/随手.md",
@@ -204,7 +204,6 @@
     "奇安信培训/source/10.31/4.bat.md",
     "奇安信培训/source/10.31",
     "奇安信培训/source/2.txt",
-    "奇安信培训/source",
-    "奇安信培训"
+    "奇安信培训/source"
   ]
 }
