@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e147d53c3306efee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "随手记/随手2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,21 +158,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e147d53c3306efee",
+  "active": "415663c9a146f733",
   "lastOpenFiles": [
-    "Pasted image 20231108145521.png",
-    "Pasted image 20231108145434.png",
-    "未命名.md",
+    "Pasted image 20231108163858.png",
+    "Pasted image 20231108163644.png",
+    "Pasted image 20231108163215.png",
+    "Pasted image 20231108161445.png",
+    "奇安信培训/img/Pasted image 20231108161041.png",
     "随手记/随手2.md",
-    "Pasted image 20231108141540.png",
-    "Pasted image 20231108141204.png",
-    "Pasted image 20231108141003.png",
-    "Pasted image 20231108104441.png",
-    "Pasted image 20231108104417.png",
-    "Pasted image 20231108101301.png",
-    "Pasted image 20231108101045.png",
-    "Pasted image 20231108095231.png",
-    "Pasted image 20231108095050.png",
+    "奇安信培训/img/Pasted image 20231108154248.png",
+    "奇安信培训/img/Pasted image 20231108145521.png",
+    "奇安信培训/img/Pasted image 20231108145434.png",
+    "未命名.md",
+    "奇安信培训/img/Pasted image 20231108141540.png",
+    "奇安信培训/img/Pasted image 20231108141204.png",
+    "奇安信培训/img/Pasted image 20231108141003.png",
     "奇安信培训/数通/1、vpr系统.md",
     "随手记/网站cms识别.md",
     "随手记/随手.md",
