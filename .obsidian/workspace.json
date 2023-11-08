@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b262f4f1f2adf6e",
+        "id": "3606aeb776058c0a",
         "type": "tabs",
         "children": [
           {
-            "id": "b8cb1859ccb01f81",
+            "id": "415663c9a146f733",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,14 +158,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b8cb1859ccb01f81",
+  "active": "415663c9a146f733",
   "lastOpenFiles": [
+    "Pasted image 20231108104441.png",
+    "随手记/随手2.md",
+    "Pasted image 20231108104417.png",
     "Pasted image 20231108101301.png",
     "Pasted image 20231108101045.png",
     "Pasted image 20231108095231.png",
     "Pasted image 20231108095050.png",
     "奇安信培训/数通/1、vpr系统.md",
-    "随手记/随手2.md",
     "Pasted image 20231108084055.png",
     "奇安信培训/img/Pasted image 20231107154016.png",
     "随手记/网站cms识别.md",
@@ -175,9 +177,6 @@
     "奇安信培训/导航.md",
     "奇安信培训/img/Pasted image 20231107153856.png",
     "奇安信培训/img/Pasted image 20231107144015.png",
-    "奇安信培训/img/Pasted image 20231107143608.png",
-    "奇安信培训/img/Pasted image 20231107142310.png",
-    "奇安信培训/img/Pasted image 20231107141837.png",
     "奇安信培训/操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
     "奇安信培训/操作系统/windows操作系统/11、本地安全策略.md",
     "奇安信培训/操作系统/windows操作系统/7、ftp.md",
