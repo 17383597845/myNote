@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "26d9f21d2042105b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c09c79a04d3be81b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "随手记/随手2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "78202cd5d314333d",
