@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e147d53c3306efee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "随手记/随手2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,21 +171,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "415663c9a146f733",
+  "active": "e147d53c3306efee",
   "lastOpenFiles": [
+    "Pasted image 20231108145521.png",
+    "Pasted image 20231108145434.png",
+    "未命名.md",
+    "随手记/随手2.md",
     "Pasted image 20231108141540.png",
     "Pasted image 20231108141204.png",
     "Pasted image 20231108141003.png",
     "Pasted image 20231108104441.png",
-    "随手记/随手2.md",
     "Pasted image 20231108104417.png",
     "Pasted image 20231108101301.png",
     "Pasted image 20231108101045.png",
     "Pasted image 20231108095231.png",
     "Pasted image 20231108095050.png",
     "奇安信培训/数通/1、vpr系统.md",
-    "Pasted image 20231108084055.png",
-    "奇安信培训/img/Pasted image 20231107154016.png",
     "随手记/网站cms识别.md",
     "随手记/随手.md",
     "收藏的文章或笔记/成体系笔记.md",
@@ -201,7 +215,6 @@
     "奇安信培训/操作系统/windows操作系统",
     "奇安信培训/source/10.31/set命令详解.md",
     "奇安信培训/source/10.31/4.bat.md",
-    "奇安信培训/source/10.31/3.bat.md",
     "奇安信培训/source/10.31",
     "奇安信培训/source/2.txt",
     "奇安信培训/source",
