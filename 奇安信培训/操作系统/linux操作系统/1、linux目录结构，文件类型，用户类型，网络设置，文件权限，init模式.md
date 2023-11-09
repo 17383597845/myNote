@@ -37,7 +37,7 @@ route [add|del] [-net|host] target [netmask  Nm] [gw GW] [[dev] if]
 	3、创建a记录和ptr记录
 	![[Pasted image 20231103114010.png]]
 网卡配置文件的配置会覆盖方法二中的dns配置文件。
-linu域名解析顺序：
+linux域名解析顺序：
 	查找缓存——》hosts——》找dns服务器（网卡配置文件或dns配置文件找dns配置）
 	![[Pasted image 20231103114500.png]]
 
