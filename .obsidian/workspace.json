@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/数通/4、虚拟局域网络相关配置命令和案例.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/数通/4、虚拟局域网络相关配置命令和案例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/数通/4、虚拟局域网络相关配置命令和案例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随手记/随手2.md"
+                "file": "奇安信培训/数通/4、虚拟局域网络相关配置命令和案例.md"
               }
             }
           }
@@ -161,6 +160,9 @@
   },
   "active": "471d8623933680bd",
   "lastOpenFiles": [
+    "奇安信培训/数通/3、交换机工作原理与虚拟交换机.md",
+    "奇安信培训/数通/4、虚拟局域网络相关配置命令和案例.md",
+    "随手记/随手2.md",
     "Pasted image 20231109175226.png",
     "Pasted image 20231109143843.png",
     "Pasted image 20231109141558.png",
@@ -171,15 +173,11 @@
     "Pasted image 20231109095939.png",
     "Pasted image 20231109095801.png",
     "奇安信培训/img/Pasted image 20231109095205.png",
-    "随手记/随手2.md",
     "奇安信培训/操作系统/linux操作系统/2、linux安装软件，iptables防火墙配置，shell编程，docker的使用.md",
     "奇安信培训/操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
     "收藏的文章或笔记/java安全.md",
-    "奇安信培训/img/Pasted image 20231109092736.png",
     "随手记/随手.md",
     "奇安信培训/数通/2、网络设备儿和网络架构，tcp，arp，icmp+子网划分.md",
-    "奇安信培训/数通/3、交换机工作原理与虚拟交换机.md",
-    "奇安信培训/数通/4、虚拟局域网络相关配置命令和案例.md",
     "奇安信培训/数通/1、vpr系统初始.md",
     "奇安信培训/导航.md",
     "奇安信培训/source/11.8/2.topo",
