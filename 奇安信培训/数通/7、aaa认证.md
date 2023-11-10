@@ -20,6 +20,12 @@ AAA实现协议-radius（二层认证）
 准入系统
 ![[Pasted image 20231110100127.png]]
 ### 4、本地认证配置方法
+	进入aaa界面，
+	配置用户名密码，
+	给用户权限，
+	允许使用telnet服务，
+	配置vty线路：进入虚拟终端配置界面，允许通过 Telnet 协议可以远程登录到路由器的 VTY 线路，使用aaa认证
+
 ```bash
 aaa配置
 aaa #进入aaa界面
@@ -28,8 +34,8 @@ local-user yonhuming privilege level 15 #设置用户级别
 local-user yonhuming service-type telnet #设置允许的服务
 全局配置（系统视图）
 telnet server enable #开启telnet
-user-interface vty 0 4
-protocol inbound telnet #允许telnet可以控制0-4个终端
+user-interface vty 0 4#允许telnet可以控制0-4个终端
+protocol inbound telnet 
 authentication-mode aaa #使用aaa认证
 
 #本地验证
