@@ -27,23 +27,23 @@ acl的匹配机制：
 
 ![[Pasted image 20231110145605.png]]
 
-```
+```bash
 #拒绝流量的配置
-acl 2000
-rule deny source 10.0.0.2 0
-dis acl 2000
+acl 2000   #创建一个初级的acl工具对象
+rule deny source 10.0.0.2 0 #配置规则
+dis acl 2000 #查看acl2000的配置
 int g0/0/0
-traffic-filter inbound acl 2000
+traffic-filter inbound acl 2000 #进站流量绑定刚刚创建的2000对象
 
 #在telnet里的使用
-aaa
-local-user x password cipher x
-local-user x privilege level 15
-local-user x service-type telnet
-user-interface vty 0 4
-protocol inbound telnet
-authentication-mode aaa
-acl 2000 inbound
+aaa #进入aaa视图
+local-user x password cipher x #创建aaa用户并设置密码
+local-user x privilege level 15 #给创建的用户设置一个权限
+local-user x service-type telnet #允许该用户使用telnet服务
+user-interface vty 0 4  #user接口下配置虚拟终端
+protocol inbound telnet #配置允许远程登录方式
+authentication-mode aaa #配置认证方式
+acl 2000 inbound 
 #注意，acl末尾有一个隐藏的deny
 rule permit source any
 ```

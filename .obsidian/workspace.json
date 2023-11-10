@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/数通/8、acl.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/数通/8、acl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/数通/8、acl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随手记/随手2.md"
+                "file": "奇安信培训/数通/8、acl.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "d0e009ed42fca8fb",
   "lastOpenFiles": [
+    "随手记/随手2.md",
     "Pasted image 20231110174717.png",
     "Pasted image 20231110174420.png",
     "Pasted image 20231110174036.png",
@@ -170,13 +171,11 @@
     "Pasted image 20231110165102.png",
     "Pasted image 20231110164959.png",
     "Pasted image 20231110164903.png",
-    "Pasted image 20231110164634.png",
     "随手记/随手.md",
     "奇安信培训/操作系统/windows操作系统/6、DHCP服务.md",
     "奇安信培训/操作系统/windows操作系统/4、共享文件.md",
     "奇安信培训/操作系统/windows操作系统/8、smtp+pop3+imap.md",
     "奇安信培训/操作系统/windows操作系统/7、ftp.md",
-    "随手记/随手2.md",
     "奇安信培训/数通/4、虚拟局域网络相关配置命令和案例.md",
     "奇安信培训/数通/8、acl.md",
     "奇安信培训/数通/5、生成树.md",
