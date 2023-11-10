@@ -1,4 +1,4 @@
-https://cshihong.github.io/2018/10/15/DNS服务器搭建与配置/
+【uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuhttps://cshihong.github.io/2018/10/15/DNS服务器搭建与配置/
 https://ghh3809.github.io/2021/03/17/create-dns-server/#
 常见网络服务端口
 udp：
@@ -7,7 +7,8 @@ udp：
 	查询方式：递归（客户端和本地），迭代（本地dns和根，顶级，二级。。。）
 	解析方式：正向（a记录），反向（ptr记录）
 	记录：cname（用于记录别名），AAAA（记录ipv6的正向解析记录）
-    ![[Pasted image 20231101100240.png]]
+    ![[uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+Pasted image 20231101100240.png]]
 	dns劫持：让用户访问恶意网页，窃取用户的敏感信息
 	dns污染：让用户无法访问目标网站
 验证是否被dns污染：nslookup查看本地解析的结果和公网上的解析结果是否一致，如果不一致则更换dns服务器，不要再使用以前的dns服务器。
