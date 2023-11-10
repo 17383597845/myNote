@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/数通/8、acl.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/数通/8、acl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/数通/8、acl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随手记/随手2.md"
+                "file": "奇安信培训/数通/8、acl.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "d0e009ed42fca8fb",
   "lastOpenFiles": [
-    "奇安信培训/数通/3、交换机工作原理与虚拟交换机.md",
     "随手记/随手2.md",
+    "奇安信培训/数通/3、交换机工作原理与虚拟交换机.md",
     "奇安信培训/数通/7、aaa认证.md",
     "奇安信培训/数通/8、acl.md",
     "Pasted image 20231110174717.png",
