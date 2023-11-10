@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/数通/4、虚拟局域网络相关配置命令和案例.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/数通/4、虚拟局域网络相关配置命令和案例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/数通/4、虚拟局域网络相关配置命令和案例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随手记/随手2.md"
+                "file": "奇安信培训/数通/4、虚拟局域网络相关配置命令和案例.md"
               }
             }
           }
@@ -160,28 +160,29 @@
   },
   "active": "d0e009ed42fca8fb",
   "lastOpenFiles": [
+    "奇安信培训/数通/5、生成树.md",
+    "奇安信培训/数通/8、acl.md",
+    "随手记/随手2.md",
+    "奇安信培训/数通/7、aaa认证.md",
+    "奇安信培训/操作系统/windows操作系统/9、telnet和rdp.md",
     "Pasted image 20231110145605.png",
     "Pasted image 20231110144839.png",
     "Pasted image 20231110144817.png",
     "Pasted image 20231110144656.png",
     "奇安信培训/数通/4、虚拟局域网络相关配置命令和案例.md",
     "奇安信培训/数通/3、交换机工作原理与虚拟交换机.md",
-    "随手记/随手2.md",
     "奇安信培训/img/Pasted image 20231110142601.png",
     "奇安信培训/img/Pasted image 20231110142421.png",
     "奇安信培训/img/Pasted image 20231110142042.png",
     "奇安信培训/img/Pasted image 20231110141944.png",
     "奇安信培训/img/Pasted image 20231110141816.png",
     "奇安信培训/img/Pasted image 20231110141544.png",
-    "奇安信培训/img/Pasted image 20231110140843.png",
-    "奇安信培训/数通/7、aaa认证.md",
     "随手记/随手.md",
     "奇安信培训/操作系统/windows操作系统/5、dns服务器.md",
     "奇安信培训/操作系统/windows操作系统/7、ftp.md",
     "奇安信培训/数通/2、网络设备儿和网络架构，tcp，arp，icmp+子网划分.md",
     "奇安信培训/数通/1、vpr系统初始.md",
     "奇安信培训/数通/6、路由，静态路由和动态路由协议.md",
-    "奇安信培训/数通/5、生成树.md",
     "未命名.md",
     "().md",
     "奇安信培训/操作系统/linux操作系统/2、linux安装软件，iptables防火墙配置，shell编程，docker的使用.md",
@@ -199,7 +200,6 @@
     "奇安信培训/操作系统/windows操作系统/6、DHCP服务.md",
     "奇安信培训/操作系统/windows操作系统/4、共享文件.md",
     "奇安信培训/操作系统/windows操作系统/3、文件系统.md",
-    "奇安信培训/操作系统/windows操作系统/2、dos命令+批处理.md",
     "奇安信培训.rar",
     "奇安信培训/操作系统/linux操作系统",
     "奇安信培训/img",
