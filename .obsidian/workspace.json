@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随手记/随手.md",
+                "file": "奇安信培训/中间件/数据库/2、dml语句.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随手记/随手.md",
+                "file": "奇安信培训/中间件/数据库/2、dml语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随手记/随手.md",
+                "file": "奇安信培训/中间件/数据库/2、dml语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随手记/随手.md"
+                "file": "奇安信培训/中间件/数据库/2、dml语句.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "87d818ae58d04b73",
   "lastOpenFiles": [
+    "随手记/随手.md",
+    "奇安信培训/中间件/数据库/2、dml语句.md",
+    "奇安信培训/中间件/数据库/1、数据库概论.md",
     "Pasted image 20231113165107.png",
     "Pasted image 20231113164534.png",
     "Pasted image 20231113164500.png",
@@ -157,7 +160,6 @@
     "奇安信培训/数通/9、vpn.md",
     "奇安信培训/数通/1、vpr系统初始.md",
     "老杜/mysql数据库/2、day02.md",
-    "随手记/随手.md",
     "老杜/mysql数据库/3、day03.md",
     "老杜/mysql数据库/4、day04.md",
     "Pasted image 20231113154150.png",
@@ -168,7 +170,6 @@
     "Pasted image 20231113142746.png",
     "奇安信培训/source/内联注释的使用.md",
     "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
-    "奇安信培训/中间件/数据库/1、数据库概论.md",
     "奇安信培训/操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
     "随手记/数据库：.md",
     "奇安信培训/数通/10、dhcp和nat转换.md",
@@ -183,7 +184,6 @@
     "奇安信培训/数通/5、生成树.md",
     "奇安信培训/数通/8、acl.md",
     "奇安信培训/img/Pasted image 20231111091141.png",
-    "奇安信培训/img/Pasted image 20231111090823.png",
     "java反序列化漏洞学习/cc1链原理及利用.md",
     "java反序列化漏洞学习/cc3链原理及利用.md",
     "奇安信培训.rar",
