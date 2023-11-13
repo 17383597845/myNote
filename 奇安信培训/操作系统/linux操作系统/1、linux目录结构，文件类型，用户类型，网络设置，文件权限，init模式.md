@@ -79,7 +79,7 @@ tar -zxvf 1.rar 1.txt #解压1.rar到1.txt
 ps #查看进程
 kill 参数 进程号#删除进程，强制用-9参数
 top#类似windows的任务管理器
-ifconfig ens33 down（up）#关闭（开启）网卡
+ifconfig ens33 down（up）#关闭（开启）网卡9
 #netstat ：查看网络套接字状态** 查找结果：
 netstat -at  | grep  ssh
 head -n 文件#查看文件的前n行

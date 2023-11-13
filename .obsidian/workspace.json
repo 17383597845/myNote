@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "老杜/mysql数据库/4、day04.md",
+                "file": "奇安信培训/操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "老杜/mysql数据库/4、day04.md",
+                "file": "奇安信培训/操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "老杜/mysql数据库/4、day04.md",
+                "file": "奇安信培训/操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "老杜/mysql数据库/4、day04.md"
+                "file": "奇安信培训/操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "1154ae5dd2889450",
   "lastOpenFiles": [
-    "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
+    "奇安信培训/数通/1、vpr系统初始.md",
     "老杜/mysql数据库/4、day04.md",
+    "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
     "老杜/mysql数据库/3、day03.md",
     "老杜/mysql数据库/2、day02.md",
     "奇安信培训/数据库/1、数据库概论.md",
@@ -165,7 +166,6 @@
     "mysql数据库/老杜mysql",
     "奇安信培训/数据库",
     "随手记/总结.md",
-    "奇安信培训/数通/1、vpr系统初始.md",
     "奇安信培训/数通/5、生成树.md",
     "奇安信培训/数通/8、acl.md",
     "奇安信培训/数通/6、路由，静态路由和动态路由协议.md",
