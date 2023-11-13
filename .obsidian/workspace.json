@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/数据库/1、数据库概论.md",
+                "file": "老杜/mysql数据库/4、day04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/数据库/1、数据库概论.md",
+                "file": "老杜/mysql数据库/4、day04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/数据库/1、数据库概论.md",
+                "file": "老杜/mysql数据库/4、day04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/数据库/1、数据库概论.md"
+                "file": "老杜/mysql数据库/4、day04.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "1154ae5dd2889450",
   "lastOpenFiles": [
-    "随手记/随手.md",
+    "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
+    "老杜/mysql数据库/4、day04.md",
+    "老杜/mysql数据库/3、day03.md",
+    "老杜/mysql数据库/2、day02.md",
     "奇安信培训/数据库/1、数据库概论.md",
-    "老杜/mysql数据库/1、初识mysql—day01.md",
+    "随手记/随手.md",
     "随手记/数据库：.md",
     "奇安信培训/数通/10、dhcp和nat转换.md",
     "随手记/随手2.md",
@@ -186,9 +189,6 @@
     "奇安信培训/操作系统/windows操作系统/7、ftp.md",
     "奇安信培训/操作系统/windows操作系统/9、telnet和rdp.md",
     "奇安信培训/操作系统/windows操作系统/5、dns服务器.md",
-    "奇安信培训/数通/2、网络设备儿和网络架构，tcp，arp，icmp+子网划分.md",
-    "未命名.md",
-    "().md",
     "奇安信培训/source/11.8/2.topo",
     "奇安信培训/source/11.8",
     "奇安信培训/数通",
