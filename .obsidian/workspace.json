@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3defc445e95ecbd",
+        "id": "1dc28450c657a043",
         "type": "tabs",
         "children": [
           {
-            "id": "1154ae5dd2889450",
+            "id": "87d818ae58d04b73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
+                "file": "随手记/随手.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
+                "file": "随手记/随手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
+                "file": "随手记/随手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md"
+                "file": "随手记/随手.md"
               }
             }
           }
@@ -146,15 +146,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1154ae5dd2889450",
+  "active": "87d818ae58d04b73",
   "lastOpenFiles": [
-    "奇安信培训/数通/1、vpr系统初始.md",
-    "老杜/mysql数据库/4、day04.md",
+    "奇安信培训/数通/6、路由，静态路由和动态路由协议.md",
+    "README.md",
+    "随手记/随手.md",
+    "奇安信培训/中间件",
+    "Pasted image 20231113143336.png",
+    "Pasted image 20231113142746.png",
+    "奇安信培训/source/内联注释的使用.md",
     "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
+    "奇安信培训/中间件/数据库/1、数据库概论.md",
+    "老杜/mysql数据库/4、day04.md",
+    "奇安信培训/操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
+    "奇安信培训/数通/1、vpr系统初始.md",
     "老杜/mysql数据库/3、day03.md",
     "老杜/mysql数据库/2、day02.md",
-    "奇安信培训/数据库/1、数据库概论.md",
-    "随手记/随手.md",
     "随手记/数据库：.md",
     "奇安信培训/数通/10、dhcp和nat转换.md",
     "随手记/随手2.md",
@@ -164,11 +171,10 @@
     "Pasted image 20231113091906.png",
     "老杜/mysql数据库",
     "mysql数据库/老杜mysql",
-    "奇安信培训/数据库",
+    "奇安信培训/中间件/数据库",
     "随手记/总结.md",
     "奇安信培训/数通/5、生成树.md",
     "奇安信培训/数通/8、acl.md",
-    "奇安信培训/数通/6、路由，静态路由和动态路由协议.md",
     "奇安信培训/数通/4、虚拟局域网络相关配置命令和案例.md",
     "奇安信培训/img/Pasted image 20231111091141.png",
     "奇安信培训/img/Pasted image 20231111090823.png",
@@ -178,21 +184,15 @@
     "奇安信培训/img/Pasted image 20231111085852.png",
     "奇安信培训/img/Pasted image 20231111085205.png",
     "奇安信培训/img/Pasted image 20231111085003.png",
-    "奇安信培训/img/Pasted image 20231111084515.png",
-    "奇安信培训/img/Pasted image 20231111084447.png",
     "奇安信培训.rar",
     "奇安信培训/数通/3、交换机工作原理与虚拟交换机.md",
     "奇安信培训/数通/7、aaa认证.md",
     "奇安信培训/操作系统/windows操作系统/6、DHCP服务.md",
     "奇安信培训/操作系统/windows操作系统/4、共享文件.md",
     "奇安信培训/操作系统/windows操作系统/8、smtp+pop3+imap.md",
-    "奇安信培训/操作系统/windows操作系统/7、ftp.md",
-    "奇安信培训/操作系统/windows操作系统/9、telnet和rdp.md",
-    "奇安信培训/操作系统/windows操作系统/5、dns服务器.md",
     "奇安信培训/source/11.8/2.topo",
     "奇安信培训/source/11.8",
     "奇安信培训/数通",
-    "奇安信培训/操作系统",
-    "奇安信培训/操作系统/linux操作系统"
+    "奇安信培训/操作系统"
   ]
 }
