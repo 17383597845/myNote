@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
+                "file": "老杜/mysql数据库/2、day02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
+                "file": "老杜/mysql数据库/2、day02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
+                "file": "老杜/mysql数据库/2、day02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md"
+                "file": "老杜/mysql数据库/2、day02.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "68af39458c5183dc",
   "lastOpenFiles": [
+    "老杜/mysql数据库/3、day03.md",
+    "老杜/mysql数据库/4、day04.md",
+    "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
     "奇安信培训/中间件/数据库/Dql语句，条件转换.md",
     "Pasted image 20231114115457.png",
     "奇安信培训/中间件/数据库/2、常规操作和dml语句.md",
@@ -156,7 +159,6 @@
     "面经/source/2023更新版大厂面经.pdf",
     "奇安信培训/中间件/数据库/1、数据库概论.md",
     "java反序列化漏洞学习/cc1链原理及利用.md",
-    "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
     "奇安信培训.rar",
     "收藏的文章或笔记/java安全.md",
     "收藏的文章或笔记/技术教程文章.md",
@@ -171,8 +173,6 @@
     "奇安信培训/数通/9、vpn.md",
     "奇安信培训/数通/1、vpr系统初始.md",
     "老杜/mysql数据库/2、day02.md",
-    "老杜/mysql数据库/3、day03.md",
-    "老杜/mysql数据库/4、day04.md",
     "奇安信培训/img/Pasted image 20231113154150.png",
     "奇安信培训/数通/6、路由，静态路由和动态路由协议.md",
     "README.md",
