@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "老杜/mysql数据库/2、day02.md",
+                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "老杜/mysql数据库/2、day02.md",
+                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "老杜/mysql数据库/2、day02.md",
+                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "老杜/mysql数据库/2、day02.md"
+                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "lastOpenFiles": [
     "老杜/mysql数据库/3、day03.md",
     "老杜/mysql数据库/4、day04.md",
+    "老杜/mysql数据库/2、day02.md",
     "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
     "奇安信培训/中间件/数据库/Dql语句，条件转换.md",
     "Pasted image 20231114115457.png",
@@ -172,7 +173,6 @@
     "奇安信培训/数通/2、网络设备儿和网络架构，tcp，arp，icmp+子网划分.md",
     "奇安信培训/数通/9、vpn.md",
     "奇安信培训/数通/1、vpr系统初始.md",
-    "老杜/mysql数据库/2、day02.md",
     "奇安信培训/img/Pasted image 20231113154150.png",
     "奇安信培训/数通/6、路由，静态路由和动态路由协议.md",
     "README.md",
