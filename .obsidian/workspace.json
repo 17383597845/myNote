@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/中间件/数据库/Dql语句，条件转换.md",
+                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/中间件/数据库/Dql语句，条件转换.md",
+                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/中间件/数据库/Dql语句，条件转换.md",
+                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/中间件/数据库/Dql语句，条件转换.md"
+                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "68af39458c5183dc",
   "lastOpenFiles": [
+    "奇安信培训/中间件/数据库/Dql语句，条件转换.md",
     "Pasted image 20231114115457.png",
     "奇安信培训/中间件/数据库/2、常规操作和dml语句.md",
-    "奇安信培训/中间件/数据库/Dql语句，条件转换.md",
     "面经/anwser/和信息安全相关的返回respose的anwser.md",
     "面经/2023网络安全面经.md",
     "面经/source/2023更新版大厂面经.pdf",
@@ -190,7 +190,6 @@
     "老杜/mysql数据库",
     "mysql数据库/老杜mysql",
     "奇安信培训/中间件/数据库",
-    "奇安信培训/img/Pasted image 20231111091141.png",
     "奇安信培训/source/11.8/2.topo",
     "奇安信培训/source/11.8",
     "奇安信培训/数通"
