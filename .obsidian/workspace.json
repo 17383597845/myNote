@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/中间件/数据库/5、dcl语句.md",
+                "file": "奇安信培训/source/内联注释的使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/中间件/数据库/5、dcl语句.md",
+                "file": "奇安信培训/source/内联注释的使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/中间件/数据库/5、dcl语句.md",
+                "file": "奇安信培训/source/内联注释的使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/中间件/数据库/5、dcl语句.md"
+                "file": "奇安信培训/source/内联注释的使用.md"
               }
             }
           }
@@ -148,15 +148,18 @@
   },
   "active": "1728e9c2e6fc2a47",
   "lastOpenFiles": [
+    "奇安信培训/中间件/数据库/2、常规操作和dml语句.md",
+    "奇安信培训/中间件/数据库/1、数据库概论.md",
+    "奇安信培训/中间件/数据库/6、mysql数据的备份与恢复.md",
+    "Pasted image 20231115155121.png",
+    "奇安信培训/中间件/数据库/6、用户管理.md",
+    "奇安信培训/中间件/数据库/5、dcl语句.md",
     "Pasted image 20231115144227.png",
     "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
-    "奇安信培训/中间件/数据库/5、dcl语句.md",
     "奇安信培训/中间件/数据库/4、函数.md",
     "奇安信培训/中间件/数据库/3、Dql语句，条件转换.md",
     "Pasted image 20231115140852.png",
     "老杜/mysql数据库/2、day02.md",
-    "奇安信培训/中间件/数据库/1、数据库概论.md",
-    "奇安信培训/中间件/数据库/2、常规操作和dml语句.md",
     "老杜/mysql数据库/3、day03.md",
     "老杜/mysql数据库/4、day04.md",
     "Pasted image 20231114115457.png",
@@ -182,11 +185,7 @@
     "README.md",
     "奇安信培训/中间件",
     "奇安信培训/img/Pasted image 20231113143336.png",
-    "奇安信培训/img/Pasted image 20231113142746.png",
     "奇安信培训/source/内联注释的使用.md",
-    "奇安信培训/操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
-    "随手记/数据库：.md",
-    "奇安信培训/img/Pasted image 20231113093128.png",
     "老杜",
     "老杜/mysql数据库",
     "mysql数据库/老杜mysql",

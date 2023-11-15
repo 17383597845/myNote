@@ -28,11 +28,20 @@ select user,host from mysql.user;
 grant select,insert on school.* to 'user1'@'localhost' identified by 'Admin@123' with grant option;
 flush privileges;
 show grants for 'user1'@'localhost';
-
-grant update(sno,sname)
-
+-- 赋予user1用户school数据库下student表中sno和snmae的update权限
+grant update(sno,sname) on scholl.student to 'user1'@'localhost';
+-- user2账户允许任意地址登录，赋予user2账户school数据库下course表中cno和cname的select权限，并且使得该用户拥有将自己的权限赋予给其他人的能力，查看权限、查看用户
+grant select(cno,cname) on scholl.course to 'user2'@'%' identified 'Admin@123' with grant option;
 ```
 #### 2、revoke
+```sql
+-- 收回user2@%用户school数据库下course表的select权限
+revoke select on school.course from 'user2'@'%';
+flush privileges;
+-- 收回grant权限
+revoke grant option on school.course from 'user2'@'%';
+```
+
 
 commit
 rollback
