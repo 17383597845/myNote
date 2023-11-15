@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3b32ac245115409",
+        "id": "b8b12af6f00b7ecb",
         "type": "tabs",
         "children": [
           {
-            "id": "68af39458c5183dc",
+            "id": "1728e9c2e6fc2a47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/中间件/数据库/1、数据库概论.md",
+                "file": "奇安信培训/中间件/数据库/5、dcl语句.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 367.5
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/中间件/数据库/1、数据库概论.md",
+                "file": "奇安信培训/中间件/数据库/5、dcl语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/中间件/数据库/1、数据库概论.md",
+                "file": "奇安信培训/中间件/数据库/5、dcl语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/中间件/数据库/1、数据库概论.md"
+                "file": "奇安信培训/中间件/数据库/5、dcl语句.md"
               }
             }
           }
@@ -146,15 +146,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "68af39458c5183dc",
+  "active": "1728e9c2e6fc2a47",
   "lastOpenFiles": [
-    "奇安信培训/中间件/数据库/Dql语句，条件转换.md",
-    "奇安信培训/中间件/数据库/2、常规操作和dml语句.md",
-    "奇安信培训/中间件/数据库/1、数据库概论.md",
+    "Pasted image 20231115144227.png",
     "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
+    "奇安信培训/中间件/数据库/5、dcl语句.md",
+    "奇安信培训/中间件/数据库/4、函数.md",
+    "奇安信培训/中间件/数据库/3、Dql语句，条件转换.md",
+    "Pasted image 20231115140852.png",
+    "老杜/mysql数据库/2、day02.md",
+    "奇安信培训/中间件/数据库/1、数据库概论.md",
+    "奇安信培训/中间件/数据库/2、常规操作和dml语句.md",
     "老杜/mysql数据库/3、day03.md",
     "老杜/mysql数据库/4、day04.md",
-    "老杜/mysql数据库/2、day02.md",
     "Pasted image 20231114115457.png",
     "面经/anwser/和信息安全相关的返回respose的anwser.md",
     "面经/2023网络安全面经.md",
@@ -182,11 +186,8 @@
     "奇安信培训/source/内联注释的使用.md",
     "奇安信培训/操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
     "随手记/数据库：.md",
-    "奇安信培训/数通/10、dhcp和nat转换.md",
-    "随手记/随手2.md",
     "奇安信培训/img/Pasted image 20231113093128.png",
     "老杜",
-    "奇安信培训/img/Pasted image 20231113091906.png",
     "老杜/mysql数据库",
     "mysql数据库/老杜mysql",
     "奇安信培训/中间件/数据库",
