@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
+                "file": "奇安信培训/中间件/数据库/1、数据库概论.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
+                "file": "奇安信培训/中间件/数据库/1、数据库概论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
+                "file": "奇安信培训/中间件/数据库/1、数据库概论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md"
+                "file": "奇安信培训/中间件/数据库/1、数据库概论.md"
               }
             }
           }
@@ -148,17 +148,17 @@
   },
   "active": "68af39458c5183dc",
   "lastOpenFiles": [
+    "奇安信培训/中间件/数据库/Dql语句，条件转换.md",
+    "奇安信培训/中间件/数据库/2、常规操作和dml语句.md",
+    "奇安信培训/中间件/数据库/1、数据库概论.md",
+    "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
     "老杜/mysql数据库/3、day03.md",
     "老杜/mysql数据库/4、day04.md",
     "老杜/mysql数据库/2、day02.md",
-    "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
-    "奇安信培训/中间件/数据库/Dql语句，条件转换.md",
     "Pasted image 20231114115457.png",
-    "奇安信培训/中间件/数据库/2、常规操作和dml语句.md",
     "面经/anwser/和信息安全相关的返回respose的anwser.md",
     "面经/2023网络安全面经.md",
     "面经/source/2023更新版大厂面经.pdf",
-    "奇安信培训/中间件/数据库/1、数据库概论.md",
     "java反序列化漏洞学习/cc1链原理及利用.md",
     "奇安信培训.rar",
     "收藏的文章或笔记/java安全.md",
