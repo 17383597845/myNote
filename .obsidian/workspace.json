@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/source/内联注释的使用.md",
+                "file": "奇安信培训/中间件/数据库/7、练习.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/source/内联注释的使用.md",
+                "file": "奇安信培训/中间件/数据库/7、练习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/source/内联注释的使用.md",
+                "file": "奇安信培训/中间件/数据库/7、练习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/source/内联注释的使用.md"
+                "file": "奇安信培训/中间件/数据库/7、练习.md"
               }
             }
           }
@@ -148,12 +148,17 @@
   },
   "active": "1728e9c2e6fc2a47",
   "lastOpenFiles": [
-    "奇安信培训/中间件/数据库/2、常规操作和dml语句.md",
-    "奇安信培训/中间件/数据库/1、数据库概论.md",
     "奇安信培训/中间件/数据库/6、mysql数据的备份与恢复.md",
-    "Pasted image 20231115155121.png",
-    "奇安信培训/中间件/数据库/6、用户管理.md",
+    "奇安信培训/中间件/数据库/7、练习.md",
+    "奇安信培训/中间件/数据库/2、常规操作和dml语句.md",
     "奇安信培训/中间件/数据库/5、dcl语句.md",
+    "奇安信培训/中间件/数据库/6、用户管理.md",
+    "Pasted image 20231115161002.png",
+    "Pasted image 20231115160524.png",
+    "Pasted image 20231115160340.png",
+    "奇安信培训/source/内联注释的使用.md",
+    "奇安信培训/中间件/数据库/1、数据库概论.md",
+    "Pasted image 20231115155121.png",
     "Pasted image 20231115144227.png",
     "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
     "奇安信培训/中间件/数据库/4、函数.md",
@@ -175,17 +180,12 @@
     "随手记/随手.md",
     "奇安信培训/img/Pasted image 20231113164534.png",
     "奇安信培训/img/Pasted image 20231113164500.png",
-    "奇安信培训/img/Pasted image 20231113163446.png",
     "奇安信培训/数通/4、虚拟局域网络相关配置命令和案例.md",
     "奇安信培训/数通/2、网络设备儿和网络架构，tcp，arp，icmp+子网划分.md",
     "奇安信培训/数通/9、vpn.md",
     "奇安信培训/数通/1、vpr系统初始.md",
-    "奇安信培训/img/Pasted image 20231113154150.png",
     "奇安信培训/数通/6、路由，静态路由和动态路由协议.md",
-    "README.md",
     "奇安信培训/中间件",
-    "奇安信培训/img/Pasted image 20231113143336.png",
-    "奇安信培训/source/内联注释的使用.md",
     "老杜",
     "老杜/mysql数据库",
     "mysql数据库/老杜mysql",
