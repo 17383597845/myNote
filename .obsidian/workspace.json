@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/中间件/中间件/初识.md",
+                "file": "奇安信培训/操作系统/windows操作系统/5、dns服务器.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/中间件/中间件/初识.md",
+                "file": "奇安信培训/操作系统/windows操作系统/5、dns服务器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/中间件/中间件/初识.md",
+                "file": "奇安信培训/操作系统/windows操作系统/5、dns服务器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/中间件/中间件/初识.md"
+                "file": "奇安信培训/操作系统/windows操作系统/5、dns服务器.md"
               }
             }
           }
@@ -146,10 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1728e9c2e6fc2a47",
+  "active": "c219e8bb3c393526",
   "lastOpenFiles": [
+    "奇安信培训/操作系统/windows操作系统/4、共享文件.md",
+    "奇安信培训/操作系统/windows操作系统/3、文件系统.md",
+    "奇安信培训/操作系统/windows操作系统/2、dos命令+批处理.md",
+    "奇安信培训/操作系统/windows操作系统/1、账户和组.md",
+    "奇安信培训/中间件/中间件/2、nginx安装使用.md",
+    "Pasted image 20231116110005.png",
+    "奇安信培训/中间件/中间件/1、初识.md",
+    "Pasted image 20231116105218.png",
     "奇安信培训/中间件/数据库/1、数据库概论.md",
-    "奇安信培训/中间件/中间件/初识.md",
     "奇安信培训/中间件/数据库/2、常规操作和dml语句.md",
     "奇安信培训/中间件/数据库/6、用户管理.md",
     "奇安信培训/中间件/数据库/5、dcl语句.md",
@@ -176,15 +183,9 @@
     "Pasted image 20231115155121.png",
     "Pasted image 20231115144227.png",
     "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
-    "Pasted image 20231115140852.png",
     "老杜/mysql数据库/2、day02.md",
     "老杜/mysql数据库/3、day03.md",
-    "老杜/mysql数据库/4、day04.md",
-    "Pasted image 20231114115457.png",
-    "面经/anwser/和信息安全相关的返回respose的anwser.md",
-    "面经/2023网络安全面经.md",
     "面经/source/2023更新版大厂面经.pdf",
-    "java反序列化漏洞学习/cc1链原理及利用.md",
     "奇安信培训.rar",
     "奇安信培训/中间件",
     "老杜",
