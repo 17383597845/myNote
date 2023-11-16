@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/操作系统/windows操作系统/5、dns服务器.md",
+                "file": "奇安信培训/中间件/中间件/2、nginx安装使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/操作系统/windows操作系统/5、dns服务器.md",
+                "file": "奇安信培训/中间件/中间件/2、nginx安装使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/操作系统/windows操作系统/5、dns服务器.md",
+                "file": "奇安信培训/中间件/中间件/2、nginx安装使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/操作系统/windows操作系统/5、dns服务器.md"
+                "file": "奇安信培训/中间件/中间件/2、nginx安装使用.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c219e8bb3c393526",
+  "active": "1728e9c2e6fc2a47",
   "lastOpenFiles": [
+    "奇安信培训/操作系统/windows操作系统/5、dns服务器.md",
     "奇安信培训/操作系统/windows操作系统/4、共享文件.md",
     "奇安信培训/操作系统/windows操作系统/3、文件系统.md",
     "奇安信培训/操作系统/windows操作系统/2、dos命令+批处理.md",
@@ -184,7 +185,6 @@
     "Pasted image 20231115144227.png",
     "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
     "老杜/mysql数据库/2、day02.md",
-    "老杜/mysql数据库/3、day03.md",
     "面经/source/2023更新版大厂面经.pdf",
     "奇安信培训.rar",
     "奇安信培训/中间件",

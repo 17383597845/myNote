@@ -17,3 +17,9 @@ temp：存放临时文件
 	修改默认端口号
 	修改默认根目录
 	修改默认页面
+```bash
+tasklist | find "nginx.exe"
+nginx -s stop
+taskkill /f /t /im nginx.exe
+start nginx.exe
+```
