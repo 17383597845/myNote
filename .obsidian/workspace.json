@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/中间件/中间件/5、jboss.md",
+                "file": "java反序列化漏洞学习/cc1链原理及利用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/中间件/中间件/5、jboss.md",
+                "file": "java反序列化漏洞学习/cc1链原理及利用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/中间件/中间件/5、jboss.md",
+                "file": "java反序列化漏洞学习/cc1链原理及利用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/中间件/中间件/5、jboss.md"
+                "file": "java反序列化漏洞学习/cc1链原理及利用.md"
               }
             }
           }
@@ -148,16 +148,16 @@
   },
   "active": "599f814ddab947b4",
   "lastOpenFiles": [
+    "奇安信培训/中间件/中间件/5、jboss.md",
+    "奇安信培训/中间件/中间件/4、apache.md",
     "Pasted image 20231117144303.png",
     "Pasted image 20231117143810.png",
     "Pasted image 20231117142313.png",
     "奇安信培训/中间件/中间件/3、tomcat.md",
     "奇安信培训/中间件/中间件/2、nginx安装使用.md",
-    "奇安信培训/中间件/中间件/5、jboss.md",
     "Pasted image 20231117141344.png",
     "Pasted image 20231117140949.png",
     "奇安信培训/中间件/数据库/3、Dql语句，条件转换.md",
-    "奇安信培训/中间件/中间件/4、apache.md",
     "java反序列化漏洞学习/cc1链原理及利用.md",
     "Pasted image 20231117103758.png",
     "Pasted image 20231117103641.png",
@@ -166,7 +166,6 @@
     "奇安信培训/中间件/数据库/1、数据库概论.md",
     "Pasted image 20231116203000.png",
     "Pasted image 20231116202850.png",
-    "Pasted image 20231116202123.png",
     "奇安信培训/操作系统/windows操作系统/5、dns服务器.md",
     "奇安信培训/操作系统/windows操作系统/4、共享文件.md",
     "奇安信培训/操作系统/windows操作系统/3、文件系统.md",

@@ -15,7 +15,7 @@ standalone下的configuration目录下有一个standalone.xml文件：
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
 <jboss-web>
-;将当前目录作为根目录
+;将当前项目目录作为根目录
 	<context-root>/</context-root>
 </jboss-web>
 
