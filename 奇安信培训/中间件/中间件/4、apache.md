@@ -1,4 +1,5 @@
 ### 1、安装和使用
+	![[Pasted image 20231117102322.png]]
 首先apache要能解析php，然后给php添加mysql的扩展；怎么验证php是否可以使用mysql呢，使用phpmyadmin
 解析php配置步骤：
 	在httpd.conf中添加：
@@ -9,15 +10,27 @@
 		
 	b、添加解析类型
 ```
-	AddTp
+	AddType application/x-httpd-php .php
 ```
 	c、php家目录
+```
+	PHPInidir "C:/WAMP/php5"
+```
 	
-	![[Pasted image 20231117102322.png]]
+
 	
 添加连接mysql的扩展
-	a、扩展
-	b、添加扩展
+	a、配置文件
+	在php根目录有一个php.ini-development文件，将他改名为php.ini
+	b、扩展目录:php.ini
+```
+	extension_dir = "C:/WAMP/php5/ext"
+```
+		![[Pasted image 20231117103641.png]]
+	
+	b、添加扩展(取消两行注释即可)
+	
+	![[Pasted image 20231117103758.png]]
 apache原本只能处理静态的资源，但是添加了模块后可以支持动态资源
 目录：
 	conf:配置文件目录
