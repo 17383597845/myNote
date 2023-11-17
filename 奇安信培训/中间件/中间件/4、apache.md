@@ -1,5 +1,5 @@
 ### 1、安装和使用
-	![[Pasted image 20231117102322.png]]
+
 首先apache要能解析php，然后给php添加mysql的扩展；怎么验证php是否可以使用mysql呢，使用phpmyadmin
 解析php配置步骤：
 	在httpd.conf中添加：
@@ -16,9 +16,8 @@
 ```
 	PHPInidir "C:/WAMP/php5"
 ```
-	
-
-	
+	![[Pasted image 20231117102322.png]]
+```
 添加连接mysql的扩展
 	a、配置文件
 	在php根目录有一个php.ini-development文件，将他改名为php.ini
