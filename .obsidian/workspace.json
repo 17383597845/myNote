@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java反序列化漏洞学习/cc1链原理及利用.md",
+                "file": "老杜/mysql数据库/2、day02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java反序列化漏洞学习/cc1链原理及利用.md",
+                "file": "老杜/mysql数据库/2、day02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java反序列化漏洞学习/cc1链原理及利用.md",
+                "file": "老杜/mysql数据库/2、day02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java反序列化漏洞学习/cc1链原理及利用.md"
+                "file": "老杜/mysql数据库/2、day02.md"
               }
             }
           }
@@ -148,6 +148,16 @@
   },
   "active": "599f814ddab947b4",
   "lastOpenFiles": [
+    "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
+    "老杜/mysql数据库/2、day02.md",
+    "奇安信培训/中间件/数据库/7、练习.md",
+    "奇安信培训/中间件/数据库/6、mysql数据的备份与恢复.md",
+    "奇安信培训/中间件/数据库/6、用户管理.md",
+    "奇安信培训/中间件/数据库/5、dcl语句.md",
+    "奇安信培训/中间件/数据库/4、函数.md",
+    "奇安信培训/中间件/数据库/3、Dql语句，条件转换.md",
+    "奇安信培训/中间件/数据库/2、常规操作和dml语句.md",
+    "java反序列化漏洞学习/cc1链原理及利用.md",
     "奇安信培训/中间件/中间件/5、jboss.md",
     "奇安信培训/中间件/中间件/4、apache.md",
     "Pasted image 20231117144303.png",
@@ -157,8 +167,6 @@
     "奇安信培训/中间件/中间件/2、nginx安装使用.md",
     "Pasted image 20231117141344.png",
     "Pasted image 20231117140949.png",
-    "奇安信培训/中间件/数据库/3、Dql语句，条件转换.md",
-    "java反序列化漏洞学习/cc1链原理及利用.md",
     "Pasted image 20231117103758.png",
     "Pasted image 20231117103641.png",
     "Pasted image 20231117102322.png",
@@ -171,19 +179,12 @@
     "奇安信培训/操作系统/windows操作系统/3、文件系统.md",
     "奇安信培训/操作系统/windows操作系统/2、dos命令+批处理.md",
     "奇安信培训/操作系统/windows操作系统/1、账户和组.md",
-    "奇安信培训/中间件/数据库/2、常规操作和dml语句.md",
-    "奇安信培训/中间件/数据库/6、用户管理.md",
-    "奇安信培训/中间件/数据库/5、dcl语句.md",
-    "奇安信培训/中间件/数据库/4、函数.md",
     "奇安信培训/中间件/数据库/8、总结.md",
     "奇安信培训/中间件/未命名.md",
     "奇安信培训/中间件/中间件",
-    "奇安信培训/中间件/数据库/6、mysql数据的备份与恢复.md",
-    "奇安信培训/中间件/数据库/7、练习.md",
     "奇安信培训/source/10.31/3.bat.md",
     "奇安信培训/source/10.31/2.bat.md",
     "奇安信培训/source/10.31/1.bat.md",
-    "奇安信培训/操作系统/linux操作系统/2、linux安装软件，iptables防火墙配置，shell编程，docker的使用.md",
     "面经/source/2023更新版大厂面经.pdf",
     "奇安信培训.rar",
     "奇安信培训/中间件",
