@@ -97,6 +97,50 @@ create table 新表名 select * form 原表 where 1=1
 ![[Pasted image 20231113165107.png]]
 
 
+```sql
+create table 新表名 like 源表名      #只复制表结构，不复制表数据
+
+create table 新表名 select * from 源表名   #复制表中的数据，但是结构（约束条件）会改变或丢失
+或：
+create table 新表名 select * from 源表名 where 1=1
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 修改字段相关信息:  
 删除字段: alter table 表名 drop 字段名  
   
