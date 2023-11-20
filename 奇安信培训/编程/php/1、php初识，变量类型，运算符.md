@@ -9,6 +9,10 @@ php特点：
 	嵌入到html语言中
 	脚本语言
 	php不强制区分大小写，官方推荐小写
+配置var_dump输出格式：
+在php.ini中添加以下行（添加xdebug扩展）
+![[Pasted image 20231120142153.png]]
+php很多功能都是依赖扩展的，扩展在windows中存放在ext文件夹中，在这个文件夹中有的扩展在php.ini中正确配置后就可以使用了。
 ### 二、php数据类型
 #### 1、变量的声明：
 $变量名
@@ -37,7 +41,6 @@ $Float2 = 123e2
 $Float3=123e-3
 
 $Boolean1=true/false
-$Array1 = array("1","2","3")
 
 class car{
 	var $color;
@@ -87,6 +90,49 @@ unset:对变量使用后，这个变量的值变成空值。
 ```PHP
 __FILE__ //目录加脚本名
 __DIR__  //目录
+```
+#### 5、数组
+数组创建：
+```php
+//索引数组：key值全部为数字
+$Array1 = array("1","2","3");
+$Array3=['a','b','c'];#使用方括号创建索引数组
+var_dump($Array1);
+print_r($Array2);
+
+//关联数组:类似于map
+$Array2=array('001'=>'a','002'=>'b','003'=>'c');
+$Array4=['001'=>'a','002'=>'b','003'=>'c'];#使用方括号创建关联数组
+var_dump($Array2);
+//第三种创建数组的方式
+$Array5[]='a';
+$Array5['001']='a';
+$Array5[100]='b';
+$Array5['002']='b';
+$Array5[]='c';
+var_dump($Array5);
+结果：
+**array** _(size=5)_
+  0 => string 'a' _(length=1)_
+  '001' => string 'a' _(length=1)_
+  100 => string 'b' _(length=1)_
+  '002' => string 'b' _(length=1)_
+  101 => string 'c' _(length=1)_
+
+//二维数组以下面的例子类推
+$Array6 = ['1'=>[],'2'=>[]];
+/*
+内置数组：
+$_GET:处理get请求
+$_POST
+$_REQUEST
+$_SERVER
+$GLOBALS
+$_FILES
+$_COOKIE
+$_SESSION
+*/
+
 ```
 ### 三、运算符
 ```
