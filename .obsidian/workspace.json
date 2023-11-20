@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "07d94e1836f840fe",
+        "id": "0c1aa7db13fc6843",
         "type": "tabs",
         "children": [
           {
-            "id": "e0f5b2af8ed79618",
+            "id": "e13bd58e02ffd2bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/中间件/中间件/3、tomcat.md",
+                "file": "奇安信培训/编程/php/php初识.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/中间件/中间件/3、tomcat.md",
+                "file": "奇安信培训/编程/php/php初识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/中间件/中间件/3、tomcat.md",
+                "file": "奇安信培训/编程/php/php初识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/中间件/中间件/3、tomcat.md"
+                "file": "奇安信培训/编程/php/php初识.md"
               }
             }
           }
@@ -146,12 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e0f5b2af8ed79618",
+  "active": "e13bd58e02ffd2bf",
   "lastOpenFiles": [
+    "奇安信培训/编程/php/php初识.md",
+    "奇安信培训/编程/php",
+    "奇安信培训/编程",
+    "奇安信培训/中间件/中间件/3、tomcat.md",
     "奇安信培训/中间件/中间件/2、nginx安装使用.md",
     "奇安信培训/中间件/中间件/1、初识.md",
     "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
-    "奇安信培训/中间件/中间件/3、tomcat.md",
     "奇安信培训/中间件/中间件/4、apache.md",
     "奇安信培训/中间件/中间件/5、jboss.md",
     "奇安信培训/中间件/数据库/2、常规操作和dml语句.md",
@@ -190,8 +193,6 @@
     "老杜",
     "老杜/mysql数据库",
     "mysql数据库/老杜mysql",
-    "奇安信培训/中间件/数据库",
-    "奇安信培训/source/11.8/2.topo",
-    "奇安信培训/source/11.8"
+    "奇安信培训/中间件/数据库"
   ]
 }
