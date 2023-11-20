@@ -134,6 +134,53 @@ $_SESSION
 */
 
 ```
+数组遍历：
+```php
+//while  配合list函数和each函数遍历数组
+$a1 = ['tom',18,170];
+while(list($key,$value) = each($a1)){
+	echo $key,$value,'<br>';
+}
+//for  适合遍历索引数组 要知道数组长度,count函数可以返回数组的长度 
+for($i=0;i<count($a1);i++){
+	echo $a1[$i].'<br>';
+}
+//foreach
+//只遍历value
+foreach (a1 as $value){
+
+}
+//即遍历key值又遍历value值
+foreach（a1 as $key=>$value）{
+
+}
+//list()可以对数组进行解析
+list($name,$age,$heigt) = $a1;#将数组中的元素取到变量中
+
+
+//foreach遍历二维数组
+$array=[
+	[1,2],
+	[3,4],
+];
+foreach($array as list($a,$b)){
+	echo 'a = ' . $a .'b = ' . $b;
+}
+
+//each() 专业处理数组
+error_reporting(0);#报错信息不显示，在生产环境中报错信息不能给客户显示
+	$a2 = array('001'=>'a','002'=?'b','003'=>'c');
+var_dump(each($c));
+```
+数组方法：
+```php
+in_array()
+array_pop():弹出最后一个值，出栈
+array_push() ：压入一个值，入栈
+array_slice()：从数组中截取一段
+array_keys()：拿到数组所有的或部分的key值
+sort()：数组排序
+```
 ### 三、运算符
 ```
 其他的和java相同，需要注意的是==和===
