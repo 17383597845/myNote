@@ -102,3 +102,34 @@ $a=1;
 $a++;
 ++$a;
 ```
+
+### 时间格式化：
+```
+date('H:i:s Y-m-d',time());
+$hour = date('H');
+echo $hour;
+```
+
+### 四、分支语句,循环语句
+#### 1、swith case
+```
+swith($a){
+	case '100':
+		echo 'a';
+		break;
+	case '100s':
+		echo 'b';
+		break;
+	default:
+		echo 'c';
+}
+```
+#### 2、while循环
+```
+$out=0;
+while($out <= 10){
+
+
+$out++;
+}
+```
