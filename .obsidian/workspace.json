@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/编程/php/php初识.md",
+                "file": "奇安信培训/编程/php/1、php初识，变量类型，运算符.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/编程/php/php初识.md",
+                "file": "奇安信培训/编程/php/1、php初识，变量类型，运算符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/编程/php/php初识.md",
+                "file": "奇安信培训/编程/php/1、php初识，变量类型，运算符.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/编程/php/php初识.md"
+                "file": "奇安信培训/编程/php/1、php初识，变量类型，运算符.md"
               }
             }
           }
@@ -148,7 +148,8 @@
   },
   "active": "e13bd58e02ffd2bf",
   "lastOpenFiles": [
-    "奇安信培训/编程/php/php初识.md",
+    "Pasted image 20231120102138.png",
+    "奇安信培训/编程/php/1、php初识，变量类型，运算符.md",
     "奇安信培训/编程/php",
     "奇安信培训/编程",
     "奇安信培训/中间件/中间件/3、tomcat.md",
@@ -186,7 +187,6 @@
     "奇安信培训/中间件/未命名.md",
     "奇安信培训/中间件/中间件",
     "奇安信培训/source/10.31/3.bat.md",
-    "奇安信培训/source/10.31/2.bat.md",
     "面经/source/2023更新版大厂面经.pdf",
     "奇安信培训.rar",
     "奇安信培训/中间件",
