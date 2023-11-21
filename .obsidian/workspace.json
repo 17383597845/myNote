@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -148,6 +149,7 @@
   },
   "active": "e13bd58e02ffd2bf",
   "lastOpenFiles": [
+    "Pasted image 20231121141515.png",
     "Pasted image 20231121112015.png",
     "Pasted image 20231121092428.png",
     "Pasted image 20231121092113.png",
@@ -178,7 +180,6 @@
     "奇安信培训/img/Pasted image 20231117142313.png",
     "奇安信培训/img/Pasted image 20231117141344.png",
     "奇安信培训/img/Pasted image 20231117140949.png",
-    "奇安信培训/img/Pasted image 20231117103758.png",
     "奇安信培训/操作系统/windows操作系统/5、dns服务器.md",
     "奇安信培训/操作系统/windows操作系统/4、共享文件.md",
     "奇安信培训/操作系统/windows操作系统/3、文件系统.md",
