@@ -1,7 +1,8 @@
 ### 一、配置
 #### 1、启动mysql服务器
 可以使用phpstudy启动，也可以使用原本就有的mysql服务
-2、
+2、驱动配置
+在php.ini 中找到相关配置（搜索pdo或mysqi）
 
 ### 二、连接mysql
 ### 1、mysqli
@@ -58,5 +59,46 @@ mysqli中的相关方法
     die('数据库连接失败' . $e->getMessage());
  }
  var_dump($pdo);
+
+```
+![[Pasted image 20231122100445.png]]
+
+#### 4、预处理
+PDOstatement中的方法；
+
+参数占位：
+```php
+$sql = 'insert into contactInfo(name,address,phone) values(:name,:address,:phone)';
+$pdostat = $dbh->prepare($sql);
+//绑定参数到占位符
+$pdostat->bindParam(':name',$name);
+$pdostat->bindParam(":address",$address);
+$pdostat0->bindParam(":phone",$phone);
+//给参数赋值
+$name = 'tom';
+$address='xxxx';
+$phone = '1234xxxx';
+$pdostat->execute();
+
+```
+？占位：
+```php
+$sql = 'insert into contactInfo(name,address,phone) values(?,?,?)';
+$pdostat = $dbh->prepare($sql);
+//绑定参数到占位符
+$pdostat->bindParam(1,$name,PDO::PARAM_STR);
+$pdostat->bindParam(2,$address,PDO::PARAM_STR);
+$pdostat0->bindParam(3,$phone,PDO::PARAM_STR);
+//给参数赋值
+$name = 'tom';
+$address='xxxx';
+$phone = '1234xxxx';
+$pdostat->execute();
+
+```
+快捷语法：
+![[Pasted image 20231122101730.png]]
+```php
+
 
 ```
