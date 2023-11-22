@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/编程/php/3、php连接mysql.md",
+                "file": "奇安信培训/4、编程/php/4、cookie和session.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/编程/php/3、php连接mysql.md",
+                "file": "奇安信培训/4、编程/php/4、cookie和session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/编程/php/3、php连接mysql.md",
+                "file": "奇安信培训/4、编程/php/4、cookie和session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/编程/php/3、php连接mysql.md"
+                "file": "奇安信培训/4、编程/php/4、cookie和session.md"
               }
             }
           }
@@ -148,51 +148,51 @@
   },
   "active": "e13bd58e02ffd2bf",
   "lastOpenFiles": [
-    "奇安信培训/编程/php/4、cookie和session.md",
-    "奇安信培训/编程/php/3、php连接mysql.md",
+    "奇安信培训/4、编程/php/3、php连接mysql.md",
+    "奇安信培训/4、编程/php/4、cookie和session.md",
     "Pasted image 20231122101730.png",
     "Pasted image 20231122100445.png",
-    "奇安信培训/编程/php/2、函数，对象，文件上传文件包含.md",
-    "奇安信培训/编程/php/1、php初识，变量类型，运算符.md",
-    "奇安信培训/操作系统/windows操作系统/2、dos命令+批处理.md",
+    "奇安信培训/4、编程/php/2、函数，对象，文件上传文件包含.md",
+    "奇安信培训/4、编程/php/1、php初识，变量类型，运算符.md",
+    "奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
     "Pasted image 20231121141515.png",
     "Pasted image 20231121112015.png",
     "Pasted image 20231121092428.png",
     "Pasted image 20231121092113.png",
     "Pasted image 20231120142153.png",
     "Pasted image 20231120102138.png",
-    "奇安信培训/编程/php",
-    "奇安信培训/编程",
-    "奇安信培训/中间件/中间件/3、tomcat.md",
-    "奇安信培训/中间件/中间件/2、nginx安装使用.md",
-    "奇安信培训/中间件/中间件/1、初识.md",
+    "奇安信培训/4、编程/php",
+    "奇安信培训/4、编程",
+    "奇安信培训/3、中间件/中间件/3、tomcat.md",
+    "奇安信培训/3、中间件/中间件/2、nginx安装使用.md",
+    "奇安信培训/3、中间件/中间件/1、初识.md",
     "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
-    "奇安信培训/中间件/中间件/4、apache.md",
-    "奇安信培训/中间件/中间件/5、jboss.md",
-    "奇安信培训/中间件/数据库/2、常规操作和dml语句.md",
-    "奇安信培训/中间件/数据库/1、数据库概论.md",
-    "奇安信培训/中间件/数据库/6、mysql数据的备份与恢复.md",
-    "奇安信培训/中间件/数据库/6、用户管理.md",
-    "奇安信培训/中间件/数据库/5、dcl语句.md",
-    "奇安信培训/中间件/数据库/4、函数.md",
-    "奇安信培训/中间件/数据库/3、Dql语句，条件转换.md",
+    "奇安信培训/3、中间件/中间件/4、apache.md",
+    "奇安信培训/3、中间件/中间件/5、jboss.md",
+    "奇安信培训/3、中间件/数据库/2、常规操作和dml语句.md",
+    "奇安信培训/3、中间件/数据库/1、数据库概论.md",
+    "奇安信培训/3、中间件/数据库/6、mysql数据的备份与恢复.md",
+    "奇安信培训/3、中间件/数据库/6、用户管理.md",
+    "奇安信培训/3、中间件/数据库/5、dcl语句.md",
+    "奇安信培训/3、中间件/数据库/4、函数.md",
+    "奇安信培训/3、中间件/数据库/3、Dql语句，条件转换.md",
     "奇安信培训/img/Pasted image 20231117144303.png",
-    "奇安信培训/中间件/数据库/7、练习.md",
+    "奇安信培训/3、中间件/数据库/7、练习.md",
     "老杜/mysql数据库/2、day02.md",
     "java反序列化漏洞学习/cc1链原理及利用.md",
     "奇安信培训/img/Pasted image 20231117143810.png",
-    "奇安信培训/操作系统/windows操作系统/5、dns服务器.md",
-    "奇安信培训/操作系统/windows操作系统/4、共享文件.md",
-    "奇安信培训/操作系统/windows操作系统/3、文件系统.md",
-    "奇安信培训/操作系统/windows操作系统/1、账户和组.md",
-    "奇安信培训/中间件/数据库/8、总结.md",
-    "奇安信培训/中间件/中间件",
+    "奇安信培训/1、操作系统/windows操作系统/5、dns服务器.md",
+    "奇安信培训/1、操作系统/windows操作系统/4、共享文件.md",
+    "奇安信培训/1、操作系统/windows操作系统/3、文件系统.md",
+    "奇安信培训/1、操作系统/windows操作系统/1、账户和组.md",
+    "奇安信培训/3、中间件/数据库/8、总结.md",
+    "奇安信培训/3、中间件/中间件",
     "面经/source/2023更新版大厂面经.pdf",
     "奇安信培训.rar",
-    "奇安信培训/中间件",
+    "奇安信培训/3、中间件",
     "老杜",
     "老杜/mysql数据库",
     "mysql数据库/老杜mysql",
-    "奇安信培训/中间件/数据库"
+    "奇安信培训/3、中间件/数据库"
   ]
 }
