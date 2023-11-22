@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/编程/php/2、php连接mysql.md",
+                "file": "奇安信培训/编程/php/3、php连接mysql.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/编程/php/2、php连接mysql.md",
+                "file": "奇安信培训/编程/php/3、php连接mysql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/编程/php/2、php连接mysql.md",
+                "file": "奇安信培训/编程/php/3、php连接mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/编程/php/2、php连接mysql.md"
+                "file": "奇安信培训/编程/php/3、php连接mysql.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "e13bd58e02ffd2bf",
   "lastOpenFiles": [
+    "奇安信培训/编程/php/4、cookie和session.md",
+    "奇安信培训/编程/php/3、php连接mysql.md",
     "Pasted image 20231122101730.png",
     "Pasted image 20231122100445.png",
     "奇安信培训/编程/php/2、函数，对象，文件上传文件包含.md",
-    "奇安信培训/编程/php/2、php连接mysql.md",
     "奇安信培训/编程/php/1、php初识，变量类型，运算符.md",
     "奇安信培训/操作系统/windows操作系统/2、dos命令+批处理.md",
     "Pasted image 20231121141515.png",
@@ -180,7 +181,6 @@
     "老杜/mysql数据库/2、day02.md",
     "java反序列化漏洞学习/cc1链原理及利用.md",
     "奇安信培训/img/Pasted image 20231117143810.png",
-    "奇安信培训/img/Pasted image 20231117142313.png",
     "奇安信培训/操作系统/windows操作系统/5、dns服务器.md",
     "奇安信培训/操作系统/windows操作系统/4、共享文件.md",
     "奇安信培训/操作系统/windows操作系统/3、文件系统.md",
