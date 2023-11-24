@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3a77f39038679a15",
+        "id": "740dd3b77ce70910",
         "type": "tabs",
         "children": [
           {
-            "id": "4158528ac6b4a4dc",
+            "id": "b96bc51ba39cd935",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/4、编程/php/3、php连接mysql.md",
+                "file": "奇安信培训/4、编程/python/1、初始python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/4、编程/php/3、php连接mysql.md",
+                "file": "奇安信培训/4、编程/python/1、初始python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/4、编程/php/3、php连接mysql.md",
+                "file": "奇安信培训/4、编程/python/1、初始python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/4、编程/php/3、php连接mysql.md"
+                "file": "奇安信培训/4、编程/python/1、初始python.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4158528ac6b4a4dc",
+  "active": "b96bc51ba39cd935",
   "lastOpenFiles": [
-    "奇安信培训/4、编程/php/2、函数，对象，文件上传文件包含.md",
     "奇安信培训/4、编程/php/3、php连接mysql.md",
+    "奇安信培训/4、编程/python/1、初始python.md",
+    "奇安信培训/4、编程/python",
+    "奇安信培训/4、编程/php/2、函数，对象，文件上传文件包含.md",
     "奇安信培训/4、编程/php/4、cookie和session.md",
     "奇安信培训/4、编程/php/1、php初识，变量类型，运算符.md",
     "Pasted image 20231122172724.png",
@@ -191,7 +193,6 @@
     "奇安信培训/3、中间件",
     "老杜",
     "老杜/mysql数据库",
-    "mysql数据库/老杜mysql",
-    "奇安信培训/3、中间件/数据库"
+    "mysql数据库/老杜mysql"
   ]
 }
