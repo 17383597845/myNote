@@ -153,4 +153,11 @@ print(ls1)
 print([i**2 for i in range[100]])
 print([i for i in range(100) if i%2 == 0])
 print([(i,j) for i in range(10) for j in range(5)]) #这就类似于双重循环
+
+ls1 = ['a','b','c']
+ls2 = [1,2,3]
+#将ls1中的元素作为key值，将ls2中的元素作为value 建立一个字典
+
+
 ```
+#### 4、异常处理
