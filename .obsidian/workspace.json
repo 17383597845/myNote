@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/4、编程/python/3、两个实验.md",
+                "file": "奇安信培训/4、编程/python/2、文件读写，异常处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/4、编程/python/3、两个实验.md",
+                "file": "奇安信培训/4、编程/python/2、文件读写，异常处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/4、编程/python/3、两个实验.md",
+                "file": "奇安信培训/4、编程/python/2、文件读写，异常处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/4、编程/python/3、两个实验.md"
+                "file": "奇安信培训/4、编程/python/2、文件读写，异常处理.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c219e8bb3c393526",
+  "active": "b96bc51ba39cd935",
   "lastOpenFiles": [
-    "奇安信培训/source/11.25/firefox配置文件目录.md",
     "奇安信培训/4、编程/python/3、两个实验.md",
+    "奇安信培训/source/11.25/firefox配置文件目录.md",
     "奇安信培训/source/内联注释的使用.md",
     "奇安信培训/4、编程/python/练习.md",
     "奇安信培训/source/11.25",
     "Pasted image 20231125090512.png",
-    "奇安信培训/4、编程/python/2、文件读写.md",
+    "奇安信培训/4、编程/python/2、文件读写，异常处理.md",
     "Pasted image 20231124154613.png",
     "Pasted image 20231124154529.png",
     "奇安信培训/4、编程/python/1、初始python.md",
