@@ -161,3 +161,10 @@ ls2 = [1,2,3]
 
 ```
 #### 4、异常处理
+#### 5、格式化输出
+```python
+#使用f后{}内的内容将作为变量解析
+print(f'host:{host},name:{name},value:{value}')
+#第二种方式
+print('host:{},name:{},value:{}'.format(host,name,value))
+```
