@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/4、编程/python/练习.md",
+                "file": "奇安信培训/4、编程/python/3、两个实验.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/4、编程/python/练习.md",
+                "file": "奇安信培训/4、编程/python/3、两个实验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/4、编程/python/练习.md",
+                "file": "奇安信培训/4、编程/python/3、两个实验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/4、编程/python/练习.md"
+                "file": "奇安信培训/4、编程/python/3、两个实验.md"
               }
             }
           }
@@ -146,12 +146,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b96bc51ba39cd935",
+  "active": "c219e8bb3c393526",
   "lastOpenFiles": [
+    "奇安信培训/source/11.25/firefox配置文件目录.md",
+    "奇安信培训/4、编程/python/3、两个实验.md",
+    "奇安信培训/source/内联注释的使用.md",
+    "奇安信培训/4、编程/python/练习.md",
+    "奇安信培训/source/11.25",
+    "Pasted image 20231125090512.png",
+    "奇安信培训/4、编程/python/2、文件读写.md",
     "Pasted image 20231124154613.png",
     "Pasted image 20231124154529.png",
     "奇安信培训/4、编程/python/1、初始python.md",
-    "奇安信培训/4、编程/python/练习.md",
     "Pasted image 20231124142940.png",
     "奇安信培训/4、编程/php/3、php连接mysql.md",
     "奇安信培训/4、编程/python",
@@ -165,8 +171,6 @@
     "奇安信培训/img/Pasted image 20231121141515.png",
     "奇安信培训/img/Pasted image 20231121112015.png",
     "奇安信培训/img/Pasted image 20231121092428.png",
-    "奇安信培训/img/Pasted image 20231121092113.png",
-    "奇安信培训/img/Pasted image 20231120142153.png",
     "奇安信培训/4、编程/php",
     "奇安信培训/4、编程",
     "奇安信培训/3、中间件/中间件/3、tomcat.md",
@@ -184,15 +188,11 @@
     "奇安信培训/3、中间件/数据库/3、Dql语句，条件转换.md",
     "奇安信培训/3、中间件/数据库/7、练习.md",
     "老杜/mysql数据库/2、day02.md",
-    "java反序列化漏洞学习/cc1链原理及利用.md",
-    "奇安信培训/1、操作系统/windows操作系统/5、dns服务器.md",
-    "奇安信培训/1、操作系统/windows操作系统/4、共享文件.md",
     "奇安信培训/3、中间件/中间件",
     "面经/source/2023更新版大厂面经.pdf",
     "奇安信培训.rar",
     "奇安信培训/3、中间件",
     "老杜",
-    "老杜/mysql数据库",
-    "mysql数据库/老杜mysql"
+    "老杜/mysql数据库"
   ]
 }
