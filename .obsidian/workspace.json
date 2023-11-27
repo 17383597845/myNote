@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/4、编程/python/4、实验.md",
+                "file": "奇安信培训/4、编程/python/5、第三方模块.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/4、编程/python/4、实验.md",
+                "file": "奇安信培训/4、编程/python/5、第三方模块.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/4、编程/python/4、实验.md",
+                "file": "奇安信培训/4、编程/python/5、第三方模块.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/4、编程/python/4、实验.md"
+                "file": "奇安信培训/4、编程/python/5、第三方模块.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "b96bc51ba39cd935",
   "lastOpenFiles": [
-    "奇安信培训/4、编程/python/1、初始python.md",
     "奇安信培训/4、编程/python/4、实验.md",
+    "奇安信培训/4、编程/python/5、第三方模块.md",
+    "奇安信培训/4、编程/python/1、初始python.md",
     "奇安信培训/4、编程/python/3、python命令行编程和连接数据库.md",
     "奇安信培训/4、编程/python/2、文件读写，异常处理.md",
     "奇安信培训/source/11.25/firefox配置文件目录.md",
@@ -187,7 +188,6 @@
     "奇安信培训/3、中间件/数据库/5、dcl语句.md",
     "奇安信培训/3、中间件/数据库/4、函数.md",
     "奇安信培训/3、中间件/数据库/3、Dql语句，条件转换.md",
-    "奇安信培训/3、中间件/数据库/7、练习.md",
     "奇安信培训/3、中间件/中间件",
     "面经/source/2023更新版大厂面经.pdf",
     "奇安信培训.rar",
