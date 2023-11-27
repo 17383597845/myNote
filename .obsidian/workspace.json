@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "740dd3b77ce70910",
+        "id": "d85860749a8fb72a",
         "type": "tabs",
         "children": [
           {
-            "id": "b96bc51ba39cd935",
+            "id": "d8a78272cd59d5fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "奇安信培训/3、中间件/中间件/4、apache.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/3、中间件/中间件/4、apache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/3、中间件/中间件/4、apache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "奇安信培训/3、中间件/中间件/4、apache.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b96bc51ba39cd935",
+  "active": "d8a78272cd59d5fd",
   "lastOpenFiles": [
+    "奇安信培训/img/Pasted image 20231122172724.png",
+    "奇安信培训/3、中间件/中间件/4、apache.md",
     "奇安信培训/4、编程/php/1、php初识，变量类型，运算符.md",
     "奇安信培训/4、编程/python/5、第三方模块.md",
     "奇安信培训/4、编程/python/4、实验.md",
@@ -158,15 +152,14 @@
     "奇安信培训/source/内联注释的使用.md",
     "奇安信培训/4、编程/python/练习.md",
     "奇安信培训/source/11.25",
-    "Pasted image 20231125090512.png",
-    "Pasted image 20231124154613.png",
-    "Pasted image 20231124154529.png",
-    "Pasted image 20231124142940.png",
+    "奇安信培训/img/Pasted image 20231125090512.png",
+    "奇安信培训/img/Pasted image 20231124154613.png",
+    "奇安信培训/img/Pasted image 20231124154529.png",
+    "奇安信培训/img/Pasted image 20231124142940.png",
     "奇安信培训/4、编程/php/3、php连接mysql.md",
     "奇安信培训/4、编程/python",
     "奇安信培训/4、编程/php/2、函数，对象，文件上传文件包含.md",
     "奇安信培训/4、编程/php/4、cookie和session.md",
-    "Pasted image 20231122172724.png",
     "奇安信培训/img/Pasted image 20231122101730.png",
     "奇安信培训/img/Pasted image 20231122100445.png",
     "奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
@@ -179,7 +172,6 @@
     "奇安信培训/3、中间件/中间件/2、nginx安装使用.md",
     "奇安信培训/3、中间件/中间件/1、初识.md",
     "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
-    "奇安信培训/3、中间件/中间件/4、apache.md",
     "奇安信培训/3、中间件/中间件/5、jboss.md",
     "奇安信培训/3、中间件/数据库/2、常规操作和dml语句.md",
     "奇安信培训/3、中间件/数据库/1、数据库概论.md",
@@ -187,7 +179,6 @@
     "奇安信培训/3、中间件/数据库/6、用户管理.md",
     "奇安信培训/3、中间件/数据库/5、dcl语句.md",
     "奇安信培训/3、中间件/数据库/4、函数.md",
-    "奇安信培训/3、中间件/数据库/3、Dql语句，条件转换.md",
     "奇安信培训/3、中间件/中间件",
     "面经/source/2023更新版大厂面经.pdf",
     "奇安信培训.rar",
