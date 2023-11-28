@@ -162,6 +162,28 @@ ls2 = [1,2,3]
 
 ```
 #### 4、异常处理
+```python
+try ...except ...
+try ... except ... else ...
+try  ... except ... else ... finally
+#eg
+try:
+    # 一些可能引发异常的代码
+    result = 10 / 0
+except ZeroDivisionError:
+    # 处理特定类型的异常
+    print("除以零错误发生了！")
+except Exception as e:
+    # 处理其他类型的异常，并将异常信息存储在变量e中
+    print("发生了异常:", e)
+else:
+    # 如果没有发生异常，执行这个块
+    print("没有发生异常。")
+finally:
+    # 无论是否发生异常，都会执行这个块
+    print("这里的代码总是会执行。")
+
+```
 #### 5、格式化输出
 ```python
 #使用f后{}内的内容将作为变量解析
