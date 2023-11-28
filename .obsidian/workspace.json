@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/4、编程/python/1、初始python.md",
+                "file": "奇安信培训/4、编程/python/3、python命令行解析和连接数据库.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/4、编程/python/3、python命令行解析和连接数据库.md",
+                "file": "奇安信培训/4、编程/python/5、第三方模块.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/4、编程/python/1、初始python.md",
+                "file": "奇安信培训/4、编程/python/5、第三方模块.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/4、编程/python/1、初始python.md",
+                "file": "奇安信培训/4、编程/python/5、第三方模块.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/4、编程/python/1、初始python.md"
+                "file": "奇安信培训/4、编程/python/5、第三方模块.md"
               }
             }
           }
@@ -170,18 +171,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d8a78272cd59d5fd",
+  "active": "1cb49d36afd74b60",
   "lastOpenFiles": [
-    "奇安信培训/4、编程/python/复习总结.md",
-    "奇安信培训/source/11.28/optparse和argparse模块.md",
-    "奇安信培训/4、编程/python/3、python命令行解析和连接数据库.md",
+    "奇安信培训/4、编程/python/4、实验.md",
     "奇安信培训/4、编程/python/5、第三方模块.md",
+    "奇安信培训/4、编程/python/3、python命令行解析和连接数据库.md",
+    "奇安信培训/source/11.28/optparse和argparse模块.md",
     "奇安信培训/4、编程/python/2、文件读写，异常处理.md",
     "奇安信培训/4、编程/python/1、初始python.md",
+    "奇安信培训/4、编程/python/复习总结.md",
     "奇安信培训/source/11.28/connect_ex方法与connect方法的区别.md",
     "奇安信培训/source/11.25/firefox配置文件目录.md",
     "奇安信培训/source/11.28/创建socket的参数.md",
-    "奇安信培训/4、编程/python/4、实验.md",
     "奇安信培训/4、编程/python.rar",
     "奇安信培训/source/11.28/推导式.md",
     "奇安信培训/source/11.28",
