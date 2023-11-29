@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec2c7996f6799f88",
+        "id": "ae9f4e6107a18dde",
         "type": "tabs",
         "children": [
           {
-            "id": "8577b1211996611b",
+            "id": "221b8733334ca80b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/5、防火墙/1、防火墙设备系统管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/5、防火墙/1、防火墙设备系统管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随手记/随手2.md",
+                "file": "奇安信培训/5、防火墙/1、防火墙设备系统管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随手记/随手2.md"
+                "file": "奇安信培训/5、防火墙/1、防火墙设备系统管理.md"
               }
             }
           }
@@ -145,21 +145,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8577b1211996611b",
+  "active": "221b8733334ca80b",
   "lastOpenFiles": [
-    "Pasted image 20231129161657.png",
-    "Pasted image 20231129115123.png",
-    "Pasted image 20231129114411.png",
-    "Pasted image 20231129113808.png",
-    "随手记/随手.md",
+    "奇安信培训/source/11.29/首页.md",
+    "Pasted image 20231129172810.png",
+    "Pasted image 20231129172647.png",
+    "奇安信培训/5、防火墙/1、防火墙设备系统管理.md",
+    "奇安信培训/source/11.29",
+    "奇安信培训/img/Pasted image 20231129161657.png",
     "随手记/随手2.md",
-    "Pasted image 20231129113238.png",
-    "Pasted image 20231129113043.png",
-    "Pasted image 20231129112544.png",
-    "Pasted image 20231129112239.png",
-    "Pasted image 20231129105724.png",
-    "Pasted image 20231129105143.png",
-    "Pasted image 20231129104836.png",
+    "奇安信培训/img/Pasted image 20231129115123.png",
+    "奇安信培训/img/Pasted image 20231129114411.png",
+    "奇安信培训/img/Pasted image 20231129113808.png",
+    "随手记/随手.md",
+    "奇安信培训/img/Pasted image 20231129113238.png",
+    "奇安信培训/img/Pasted image 20231129113043.png",
+    "奇安信培训/img/Pasted image 20231129112544.png",
+    "奇安信培训/img/Pasted image 20231129112239.png",
     "奇安信培训/5、防火墙",
     "奇安信培训/4、编程/python/3、python命令行解析和连接数据库.md",
     "奇安信培训/4、编程/python/5、第三方模块.md",
@@ -188,10 +190,7 @@
     "奇安信培训/4、编程",
     "奇安信培训/3、中间件/中间件/3、tomcat.md",
     "奇安信培训/3、中间件/中间件/2、nginx安装使用.md",
-    "奇安信培训/3、中间件/中间件/1、初识.md",
-    "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
     "奇安信培训/3、中间件/中间件",
-    "面经/source/2023更新版大厂面经.pdf",
-    "奇安信培训.rar"
+    "面经/source/2023更新版大厂面经.pdf"
   ]
 }
