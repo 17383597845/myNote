@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/2、数通/10、dhcp和nat转换.md",
+                "file": "奇安信培训/1、操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/2、数通/10、dhcp和nat转换.md",
+                "file": "奇安信培训/1、操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/2、数通/10、dhcp和nat转换.md",
+                "file": "奇安信培训/1、操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/2、数通/10、dhcp和nat转换.md"
+                "file": "奇安信培训/1、操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "221b8733334ca80b",
   "lastOpenFiles": [
+    "奇安信培训/1、操作系统/linux操作系统/2、linux安装软件，iptables防火墙配置，shell编程，docker的使用.md",
+    "奇安信培训/2、数通/10、dhcp和nat转换.md",
     "奇安信培训/5、防火墙/1、防火墙设备系统管理.md",
     "奇安信培训/source/11.29/首页.md",
     "Pasted image 20231129172810.png",
@@ -189,7 +191,6 @@
     "奇安信培训/4、编程/php",
     "奇安信培训/4、编程",
     "奇安信培训/3、中间件/中间件/3、tomcat.md",
-    "奇安信培训/3、中间件/中间件/2、nginx安装使用.md",
     "奇安信培训/3、中间件/中间件",
     "面经/source/2023更新版大厂面经.pdf"
   ]
