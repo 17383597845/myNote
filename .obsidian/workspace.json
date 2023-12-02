@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/1、操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
+                "file": "奇安信培训/3、中间件/数据库/5、dcl语句.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/1、操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
+                "file": "奇安信培训/3、中间件/数据库/5、dcl语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/1、操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
+                "file": "奇安信培训/3、中间件/数据库/5、dcl语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/1、操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md"
+                "file": "奇安信培训/3、中间件/数据库/5、dcl语句.md"
               }
             }
           }
@@ -147,6 +147,9 @@
   },
   "active": "221b8733334ca80b",
   "lastOpenFiles": [
+    "奇安信培训/3、中间件/数据库/3、Dql语句，条件转换.md",
+    "奇安信培训/3、中间件/数据库/2、常规操作和dml语句.md",
+    "奇安信培训/1、操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
     "奇安信培训/1、操作系统/linux操作系统/2、linux安装软件，iptables防火墙配置，shell编程，docker的使用.md",
     "奇安信培训/2、数通/10、dhcp和nat转换.md",
     "奇安信培训/5、防火墙/1、防火墙设备系统管理.md",
@@ -186,11 +189,8 @@
     "奇安信培训/4、编程/php/3、php连接mysql.md",
     "奇安信培训/4、编程/python",
     "奇安信培训/4、编程/php/2、函数，对象，文件上传文件包含.md",
-    "奇安信培训/4、编程/php/4、cookie和session.md",
-    "奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
     "奇安信培训/4、编程/php",
     "奇安信培训/4、编程",
-    "奇安信培训/3、中间件/中间件/3、tomcat.md",
     "奇安信培训/3、中间件/中间件",
     "面经/source/2023更新版大厂面经.pdf"
   ]
