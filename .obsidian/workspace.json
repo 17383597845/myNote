@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/web/11.30.md",
+                "file": "zsource/sql注入绕过.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/web/11.30.md",
+                "file": "zsource/sql注入绕过.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/web/11.30.md",
+                "file": "zsource/sql注入绕过.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/web/11.30.md"
+                "file": "zsource/sql注入绕过.md"
               }
             }
           }
@@ -160,6 +160,9 @@
   },
   "active": "da364ae2a7472b0f",
   "lastOpenFiles": [
+    "zsource/sql注入fuzz手法和原理.md",
+    "zsource/fuzz字典.md",
+    "ctf练题/web/11.30.md",
     "收藏的文章或笔记/技术教程文章.md",
     "收藏的文章或笔记/java安全.md",
     "收藏的文章或笔记/成体系笔记.md",
@@ -168,7 +171,6 @@
     "达内笔记整理/sql注入/普通sql注入和盲注以及防护.md",
     "zsource/img/Pasted image 20231202214503.png",
     "zsource/img",
-    "ctf练题/web/11.30.md",
     "zsource/json web token绕过思路.md",
     "ctf练题/web/12.4.md",
     "面经/source/2023更新版大厂面经.pdf",
@@ -192,12 +194,10 @@
     "奇安信培训/1、操作系统/linux操作系统/2、linux安装软件，iptables防火墙配置，shell编程，docker的使用.md",
     "奇安信培训/2、数通/10、dhcp和nat转换.md",
     "奇安信培训/5、防火墙/1、防火墙设备系统管理.md",
-    "奇安信培训/source/11.29/首页.md",
     "zsource/img/Pasted image 20231129172810.png",
     "zsource/img/Pasted image 20231129172647.png",
     "奇安信培训/source/11.29",
     "奇安信培训/img/Pasted image 20231129161657.png",
-    "随手记/随手2.md",
     "奇安信培训/img/Pasted image 20231129115123.png",
     "奇安信培训/img/Pasted image 20231129114411.png",
     "奇安信培训/img/Pasted image 20231129113808.png",
