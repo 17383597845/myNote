@@ -23,9 +23,11 @@
             "id": "da364ae2a7472b0f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "面经/source/2023更新版大厂面经.pdf"
+                "file": "收藏的文章或笔记/技术教程文章.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面经/source/2023更新版大厂面经.pdf",
+                "file": "收藏的文章或笔记/技术教程文章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面经/source/2023更新版大厂面经.pdf",
+                "file": "收藏的文章或笔记/技术教程文章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面经/source/2023更新版大厂面经.pdf"
+                "file": "收藏的文章或笔记/技术教程文章.md"
               }
             }
           }
@@ -158,14 +160,23 @@
   },
   "active": "da364ae2a7472b0f",
   "lastOpenFiles": [
-    "面经/anwser/和信息安全相关的返回respose的anwser.md",
-    "面经/source/2023更新版大厂面经.pdf",
-    "面经/2023网络安全面经.md",
+    "收藏的文章或笔记/java安全.md",
+    "收藏的文章或笔记/技术教程文章.md",
+    "收藏的文章或笔记/成体系笔记.md",
+    "老杜/mysql数据库/4、day04.md",
+    "老杜/mysql数据库/2、day02.md",
+    "达内笔记整理/sql注入/普通sql注入和盲注以及防护.md",
+    "zsource/img/Pasted image 20231202214503.png",
+    "zsource/img",
     "ctf练题/web/11.30.md",
+    "zsource/json web token绕过思路.md",
+    "ctf练题/web/12.4.md",
+    "面经/source/2023更新版大厂面经.pdf",
+    "面经/anwser/和信息安全相关的返回respose的anwser.md",
+    "面经/2023网络安全面经.md",
     "zsource/whois题解.md",
-    "Pasted image 20231202214503.png",
-    "Pasted image 20231202214314.png",
-    "Pasted image 20231202214122.png",
+    "zsource/img/Pasted image 20231202214314.png",
+    "zsource/img/Pasted image 20231202214122.png",
     "ctf练题/web/1、lfi（本地文件包含）.md",
     "奇安信培训/4、编程/python/5、第三方模块.md",
     "zsource/baby lfi 2题解.md",
@@ -182,27 +193,18 @@
     "奇安信培训/2、数通/10、dhcp和nat转换.md",
     "奇安信培训/5、防火墙/1、防火墙设备系统管理.md",
     "奇安信培训/source/11.29/首页.md",
-    "Pasted image 20231129172810.png",
-    "Pasted image 20231129172647.png",
+    "zsource/img/Pasted image 20231129172810.png",
+    "zsource/img/Pasted image 20231129172647.png",
     "奇安信培训/source/11.29",
     "奇安信培训/img/Pasted image 20231129161657.png",
     "随手记/随手2.md",
     "奇安信培训/img/Pasted image 20231129115123.png",
     "奇安信培训/img/Pasted image 20231129114411.png",
     "奇安信培训/img/Pasted image 20231129113808.png",
-    "随手记/随手.md",
     "奇安信培训/img/Pasted image 20231129113238.png",
     "奇安信培训/5、防火墙",
-    "奇安信培训/4、编程/python/3、python命令行解析和连接数据库.md",
-    "奇安信培训/4、编程/python/2、文件读写，异常处理.md",
-    "奇安信培训/4、编程/python/4、实验.md",
-    "奇安信培训/source/11.28/optparse和argparse模块.md",
-    "奇安信培训/4、编程/python/1、初始python.md",
-    "奇安信培训/4、编程/python/复习总结.md",
-    "奇安信培训/source/11.28/connect_ex方法与connect方法的区别.md",
     "奇安信培训/4、编程/python.rar",
     "奇安信培训/source/11.28",
-    "奇安信培训/source/11.25",
-    "奇安信培训/4、编程/python"
+    "奇安信培训/source/11.25"
   ]
 }
