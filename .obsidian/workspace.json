@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/study/sqlilab通关教程.md",
+                "file": "ctf练题/study/1、sql注入.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/study/sqlilab通关教程.md",
+                "file": "ctf练题/study/1、sql注入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/study/sqlilab通关教程.md",
+                "file": "ctf练题/study/1、sql注入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/study/sqlilab通关教程.md"
+                "file": "ctf练题/study/1、sql注入.md"
               }
             }
           }
@@ -160,8 +160,10 @@
   },
   "active": "da364ae2a7472b0f",
   "lastOpenFiles": [
-    "ctf练题/study/xsslabs通关教程.md",
+    "zsource/sql注入fuzz手法和原理.md",
+    "ctf练题/study/1、sql注入.md",
     "ctf练题/study/sqlilab通关教程.md",
+    "ctf练题/study/xsslabs通关教程.md",
     "zsource/文件上传基础手法.md",
     "zsource/2、ctf-websqli-0x1-bugku题解.md",
     "ctf练题/study/文件上传漏洞.md",
@@ -176,7 +178,6 @@
     "奇安信培训/4、编程/python/3、python命令行解析和连接数据库.md",
     "zsource/sql注入绕过.md",
     "zsource/文件上传.md",
-    "zsource/sql注入fuzz手法和原理.md",
     "收藏的文章或笔记/技术教程文章.md",
     "收藏的文章或笔记/java安全.md",
     "收藏的文章或笔记/成体系笔记.md",
@@ -189,7 +190,6 @@
     "ctf练题/web/12.4.md",
     "面经/source/2023更新版大厂面经.pdf",
     "面经/anwser/和信息安全相关的返回respose的anwser.md",
-    "面经/2023网络安全面经.md",
     "zsource/img/Pasted image 20231202214314.png",
     "zsource/img/Pasted image 20231202214122.png",
     "zsource",
