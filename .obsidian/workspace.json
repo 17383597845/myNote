@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/study/xsslabs通关教程.md",
+                "file": "ctf练题/study/sqlilab通关教程.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/study/xsslabs通关教程.md",
+                "file": "ctf练题/study/sqlilab通关教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/study/xsslabs通关教程.md",
+                "file": "ctf练题/study/sqlilab通关教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/study/xsslabs通关教程.md"
+                "file": "ctf练题/study/sqlilab通关教程.md"
               }
             }
           }
@@ -160,9 +160,10 @@
   },
   "active": "da364ae2a7472b0f",
   "lastOpenFiles": [
+    "ctf练题/study/xsslabs通关教程.md",
+    "ctf练题/study/sqlilab通关教程.md",
     "zsource/文件上传基础手法.md",
     "zsource/2、ctf-websqli-0x1-bugku题解.md",
-    "ctf练题/study/xsslabs通关教程.md",
     "ctf练题/study/文件上传漏洞.md",
     "zsource/文件上传漏洞参考二.md",
     "zsource/文件上传绕过参考一.md",
@@ -191,7 +192,6 @@
     "面经/2023网络安全面经.md",
     "zsource/img/Pasted image 20231202214314.png",
     "zsource/img/Pasted image 20231202214122.png",
-    "ctf练题/web/1、lfi（本地文件包含）.md",
     "zsource",
     "ctf练题/web",
     "ctf练题",
