@@ -6,7 +6,7 @@
 └─# openssl enc -decrypt -in flag1.enc -inkey key.der -out fag.txt
 enc: Use -help for summary.
                                                                              
-┌──(root㉿kali)-[~/桌面]
+┌──(root㉿kali)-[~/桌面] 
 └─# openssl pkeyutl -decrypt -in flag1.enc -inkey key.der -out flag.txt
                                                                              
 ┌──(root㉿kali)-[~/桌面]
