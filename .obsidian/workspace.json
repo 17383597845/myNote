@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/study/crypto/3、openssl常用命令.md",
+                "file": "ctf练题/study/web/标识源地址的http请求头字段.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/study/crypto/3、openssl常用命令.md",
+                "file": "ctf练题/study/web/标识源地址的http请求头字段.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/study/crypto/3、openssl常用命令.md",
+                "file": "ctf练题/study/web/标识源地址的http请求头字段.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/study/crypto/3、openssl常用命令.md"
+                "file": "ctf练题/study/web/标识源地址的http请求头字段.md"
               }
             }
           }
@@ -161,11 +161,13 @@
   "active": "da364ae2a7472b0f",
   "lastOpenFiles": [
     "ctf练题/study/未命名.md",
+    "ctf练题/study/web/标识源地址的http请求头字段.md",
+    "ctf练题/study/web",
+    "ctf练题/study/crypto/3、openssl常用命令.md",
     "ctf练题/study/杂项/2、图片隐写术.md",
     "ctf练题/study/杂项/1、文件类型识别，分离和合并.md",
     "Pasted image 20231206161817.png",
     "ctf练题/study/杂项",
-    "ctf练题/study/crypto/3、openssl常用命令.md",
     "ctf练题/study/crypto/1、libnum常用函数.md",
     "ctf练题/study/crypto/2、gmpy2常用函数.md",
     "ctf练题/study/1、sql注入.md",
@@ -189,7 +191,6 @@
     "zsource/文件上传.md",
     "收藏的文章或笔记/技术教程文章.md",
     "收藏的文章或笔记/java安全.md",
-    "收藏的文章或笔记/成体系笔记.md",
     "zsource/img/Pasted image 20231202214503.png",
     "zsource/img",
     "面经/source/2023更新版大厂面经.pdf",
@@ -204,7 +205,6 @@
     "奇安信培训/img/Pasted image 20231129161657.png",
     "奇安信培训/img/Pasted image 20231129115123.png",
     "奇安信培训/img/Pasted image 20231129114411.png",
-    "奇安信培训/img/Pasted image 20231129113808.png",
-    "奇安信培训/5、防火墙"
+    "奇安信培训/img/Pasted image 20231129113808.png"
   ]
 }
