@@ -113,7 +113,6 @@ print(json1)
 resp = requests.post(url, headers=headers, data=json1)
 print(resp.content)
 ```
-![复制代码](https://common.cnblogs.com/images/copycode.gif)
 
 脚本2：headers中字段开头空格
 
