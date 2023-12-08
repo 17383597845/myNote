@@ -1,0 +1,24 @@
+**题目资源**：zsource/misc题目资源/catcatcat下
+
+```shell
+#查看图片里可打印的字符串
+strings  猫猫.jpg
+```
+这里拿到加密的密钥
+给的txt文件以u2开头猜测是rabbit加密
+```
+U2FsdGVkX1+tSId0YjfgHXk9G2lK4btrNHnqwQg7ctvl9nAtEObkSTr7O4PmxvCV
+3dskB4pRHYU8S2zNieY4Xlh2iAOzfK+Q4EVEmKSgkeTjRqqy0arvaJeXEwGZgj50
+aaONLB4YLdzx8IxbXFYmL7qdWhZsxEt+qaaDBpm8IX5KhuJV/YeG4AmQHVCUHwMd
+5J9TnMd6petLCyVDX7ihtwy589GXLCqMjVNBjXVOOkaqWehLZZpncBrGyNzKahFl
+AIL8QTSMSsokkGCaeMcL+b8Q3MrQjJHgnR12bVASu3nSE4s3HTYssTyvZXDnAUgv
+NeqFda/teBFiPf/bzxrrfrMAM9Bc0FYJ02XyAuGVCi6xIJcNa4S0x4fDzlgzhL8m
+a1IupTWju+T3KLWM2vA4mEUlrtifbI4FDJC/Sh4/oHlSNw+ABWYJqeZYbRLAmTNQ
+QFk4MEdFaBDDLH3KK+Azk3v5jTUfkW5ojQsJjxzpNJlQ3JXxewWtOEiinIA5x7o4
+srT7FkqBtobBjyWHBrYTVF5H21mewP98HawGQ06qrfo2dLy/jaEd4a3A+EsEG+hL
++E6pbI55OrhYuSGK6McNrm5VcO22QPREpE3WKbkrZnmMTl+OZEJLkH7fsqarmUL3
+uulBY0+i2fBChEfCtcOPsFGrmfYEWNrTpURQCq5tBa9SE+k4+pG++L5TkLHUdWFY
+mjAqatgy+t43PPDkE8YiKihvDT6rp1R388ozl42nOLTsVPJM8lpgrj1k7RMHD6ZJ
+VhI8wpI6m3ZDMyqOtuGxJ2Z5Hdu7Yw7WZ53iOuUT7xgOQ7g87pd95Q2GCJVbHaOj
+```
+解密后
