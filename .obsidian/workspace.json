@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/4、编程/python/1、初始python.md",
+                "file": "奇安信培训/1、操作系统/windows操作系统/3、文件系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/4、编程/python/1、初始python.md",
+                "file": "奇安信培训/1、操作系统/windows操作系统/3、文件系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/4、编程/python/1、初始python.md",
+                "file": "奇安信培训/1、操作系统/windows操作系统/3、文件系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/4、编程/python/1、初始python.md"
+                "file": "奇安信培训/1、操作系统/windows操作系统/3、文件系统.md"
               }
             }
           }
@@ -147,9 +147,18 @@
   },
   "active": "24c79ce760c912b8",
   "lastOpenFiles": [
+    "奇安信培训/1、操作系统/windows操作系统/10、iis服务器搭建.md",
+    "奇安信培训/3、中间件/数据库/1、数据库概论.md",
+    "奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
+    "奇安信培训/1、操作系统/linux操作系统/2、linux安装软件，iptables防火墙配置，shell编程，docker的使用.md",
+    "奇安信培训/1、操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
+    "奇安信培训/4、编程/php/4、cookie和session.md",
+    "奇安信培训/4、编程/php/3、php连接mysql.md",
+    "奇安信培训/4、编程/php/2、函数，对象，文件上传文件包含.md",
+    "奇安信培训/4、编程/php/1、php初识，变量类型，运算符.md",
+    "奇安信培训/4、编程/python/1、初始python.md",
     "奇安信培训/4、编程/python/2、文件读写，异常处理.md",
     "奇安信培训/4、编程/python/3、python命令行解析和连接数据库.md",
-    "奇安信培训/4、编程/python/1、初始python.md",
     "zsource/2、ctf-websqli-0x1-bugku题解.md",
     "ctf练题/题解目录/杂项题解.md",
     "ctf练题/study/杂项/5、异或加密.md",
@@ -164,9 +173,7 @@
     "ctf练题/study/web/3、标识源地址的http请求头字段.md",
     "zsource/sql注入绕过.md",
     "ctf练题/study/杂项/西卡语言.md",
-    "ctf练题/study/杂项/4、流量取证技术.md",
     "Pasted image 20231208151432.png",
-    "ctf练题/study/杂项/3、压缩文件处理.md",
     "Pasted image 20231208150336.png",
     "Pasted image 20231208145130.png",
     "Pasted image 20231208145036.png",
@@ -177,17 +184,10 @@
     "Pasted image 20231208143539.png",
     "Pasted image 20231208143433.png",
     "ctf练题/study/杂项/未命名",
-    "zsource/catcatcat.md",
     "zsource/misc题目资源/catcatcat/我养了一只叫兔子的91岁的猫猫.txt",
     "zsource/misc题目资源/catcatcat",
     "zsource/misc题目资源",
-    "zsource/unseping题解.md",
-    "zsource/ez_curl题解.md",
-    "奇安信培训/4、编程/python/5、第三方模块.md",
-    "ctf练题/题解目录/LFI和RFI利用技巧.md",
-    "ctf练题/study/未命名.md",
     "ctf练题/study/web",
-    "ctf练题/study/crypto/3、openssl常用命令.md",
     "ctf练题/study/杂项",
     "ctf练题/study/crypto",
     "ctf练题/study",
