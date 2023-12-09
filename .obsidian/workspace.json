@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/题解目录/做题题解.md",
+                "file": "ctf练题/study/杂项/2、图片隐写术.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/题解目录/做题题解.md",
+                "file": "ctf练题/study/杂项/2、图片隐写术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/题解目录/做题题解.md",
+                "file": "ctf练题/study/杂项/2、图片隐写术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/题解目录/做题题解.md"
+                "file": "ctf练题/study/杂项/2、图片隐写术.md"
               }
             }
           }
@@ -159,15 +159,16 @@
   },
   "active": "6869d2eac9d4d163",
   "lastOpenFiles": [
+    "ctf练题/study/杂项/1、文件类型识别，分离和合并.md",
+    "zsource/whois题解.md",
+    "ctf练题/题解目录/做题题解.md",
     "ctf练题/study/web/1、lfi（本地文件包含）.md",
     "ctf练题/study/1、sql注入.md",
     "zsource/1、baby lfi 2题解.md",
-    "ctf练题/题解目录/做题题解.md",
     "ctf练题/study/web/2、lfi2.md",
     "ctf练题/study/web/3、标识源地址的http请求头字段.md",
     "zsource/2、ctf-websqli-0x1-bugku题解.md",
     "zsource/sql注入绕过.md",
-    "ctf练题/study/杂项/1、文件类型识别，分离和合并.md",
     "ctf练题/study/杂项/西卡语言.md",
     "ctf练题/study/杂项/2、图片隐写术.md",
     "ctf练题/study/杂项/4、流量取证技术.md",
@@ -201,7 +202,6 @@
     "ctf练题/study/crypto",
     "zsource/sql注入fuzz手法和原理.md",
     "ctf练题/study/sqlilab通关教程.md",
-    "ctf练题/study/xsslabs通关教程.md",
     "ctf练题/study",
     "zsource/img",
     "面经/source/2023更新版大厂面经.pdf"
