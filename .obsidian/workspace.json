@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6869d2eac9d4d163",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ctf练题/题解目录/杂项题解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "24c79ce760c912b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zsource/2、ctf-websqli-0x1-bugku题解.md",
+                "file": "奇安信培训/4、编程/python/1、初始python.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/题解目录/杂项题解.md",
+                "file": "奇安信培训/4、编程/python/1、初始python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/题解目录/杂项题解.md",
+                "file": "奇安信培训/4、编程/python/1、初始python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/题解目录/杂项题解.md"
+                "file": "奇安信培训/4、编程/python/1、初始python.md"
               }
             }
           }
@@ -157,8 +145,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6869d2eac9d4d163",
+  "active": "24c79ce760c912b8",
   "lastOpenFiles": [
+    "奇安信培训/4、编程/python/2、文件读写，异常处理.md",
+    "奇安信培训/4、编程/python/3、python命令行解析和连接数据库.md",
+    "奇安信培训/4、编程/python/1、初始python.md",
+    "zsource/2、ctf-websqli-0x1-bugku题解.md",
+    "ctf练题/题解目录/杂项题解.md",
     "ctf练题/study/杂项/5、异或加密.md",
     "ctf练题/study/杂项/1、文件类型识别，分离和合并.md",
     "ctf练题/study/杂项/2、图片隐写术.md",
@@ -169,7 +162,6 @@
     "zsource/1、baby lfi 2题解.md",
     "ctf练题/study/web/2、lfi2.md",
     "ctf练题/study/web/3、标识源地址的http请求头字段.md",
-    "zsource/2、ctf-websqli-0x1-bugku题解.md",
     "zsource/sql注入绕过.md",
     "ctf练题/study/杂项/西卡语言.md",
     "ctf练题/study/杂项/4、流量取证技术.md",
@@ -189,7 +181,6 @@
     "zsource/misc题目资源/catcatcat/我养了一只叫兔子的91岁的猫猫.txt",
     "zsource/misc题目资源/catcatcat",
     "zsource/misc题目资源",
-    "ctf练题/题解目录/杂项题解.md",
     "zsource/unseping题解.md",
     "zsource/ez_curl题解.md",
     "奇安信培训/4、编程/python/5、第三方模块.md",
@@ -198,10 +189,7 @@
     "ctf练题/study/web",
     "ctf练题/study/crypto/3、openssl常用命令.md",
     "ctf练题/study/杂项",
-    "ctf练题/study/crypto/1、libnum常用函数.md",
-    "ctf练题/study/crypto/2、gmpy2常用函数.md",
     "ctf练题/study/crypto",
-    "zsource/sql注入fuzz手法和原理.md",
     "ctf练题/study",
     "zsource/img",
     "面经/source/2023更新版大厂面经.pdf"
