@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/1、操作系统/windows操作系统/3、文件系统.md",
+                "file": "zsource/json web token绕过思路.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/1、操作系统/windows操作系统/3、文件系统.md",
+                "file": "zsource/json web token绕过思路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/1、操作系统/windows操作系统/3、文件系统.md",
+                "file": "zsource/json web token绕过思路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/1、操作系统/windows操作系统/3、文件系统.md"
+                "file": "zsource/json web token绕过思路.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "24c79ce760c912b8",
   "lastOpenFiles": [
+    "zsource/img/Pasted image 20231208151432.png",
+    "奇安信培训/1、操作系统/windows操作系统/3、文件系统.md",
     "奇安信培训/1、操作系统/windows操作系统/10、iis服务器搭建.md",
     "奇安信培训/3、中间件/数据库/1、数据库概论.md",
     "奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
@@ -171,18 +173,15 @@
     "zsource/1、baby lfi 2题解.md",
     "ctf练题/study/web/2、lfi2.md",
     "ctf练题/study/web/3、标识源地址的http请求头字段.md",
-    "zsource/sql注入绕过.md",
-    "ctf练题/study/杂项/西卡语言.md",
-    "Pasted image 20231208151432.png",
-    "Pasted image 20231208150336.png",
-    "Pasted image 20231208145130.png",
-    "Pasted image 20231208145036.png",
-    "Pasted image 20231208144947.png",
-    "Pasted image 20231208144946.png",
-    "Pasted image 20231208144757.png",
-    "Pasted image 20231208144728.png",
-    "Pasted image 20231208143539.png",
-    "Pasted image 20231208143433.png",
+    "zsource/img/Pasted image 20231208150336.png",
+    "zsource/img/Pasted image 20231208145130.png",
+    "zsource/img/Pasted image 20231208145036.png",
+    "zsource/img/Pasted image 20231208144947.png",
+    "zsource/img/Pasted image 20231208144946.png",
+    "zsource/img/Pasted image 20231208144757.png",
+    "zsource/img/Pasted image 20231208144728.png",
+    "zsource/img/Pasted image 20231208143539.png",
+    "zsource/img/Pasted image 20231208143433.png",
     "ctf练题/study/杂项/未命名",
     "zsource/misc题目资源/catcatcat/我养了一只叫兔子的91岁的猫猫.txt",
     "zsource/misc题目资源/catcatcat",
