@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/3、中间件/中间件/4、apache.md",
+                "file": "ctf练题/study/杂项/2、图片隐写术.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/3、中间件/中间件/4、apache.md",
+                "file": "ctf练题/study/杂项/2、图片隐写术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/3、中间件/中间件/4、apache.md",
+                "file": "ctf练题/study/杂项/2、图片隐写术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/3、中间件/中间件/4、apache.md"
+                "file": "ctf练题/study/杂项/2、图片隐写术.md"
               }
             }
           }
@@ -147,6 +148,7 @@
   },
   "active": "24c79ce760c912b8",
   "lastOpenFiles": [
+    "奇安信培训/3、中间件/中间件/4、apache.md",
     "CTF总结/杂记/1、sql注入.md",
     "CTF总结/刷题记录/moectf/moeCTF.md",
     "CTF总结/刷题记录/攻防世界/dirsearch基本使用.md",
@@ -191,7 +193,6 @@
     "CTF总结",
     "zsource/unseping题解.md",
     "zsource/json web token绕过思路.md",
-    "奇安信培训/1、操作系统/windows操作系统/3、文件系统.md",
     "ctf练题/study/杂项/未命名"
   ]
 }
