@@ -3,8 +3,6 @@
 
 //highlight_file(__FILE__);
 
-  
-
 class ease{
 
     private $method;
