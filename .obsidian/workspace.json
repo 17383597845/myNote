@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/study/杂项/8、图片文件的头和尾.md",
+                "file": "ctf练题/study/杂项/8、图片文件的结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/study/杂项/8、图片文件的头和尾.md",
+                "file": "ctf练题/study/杂项/8、图片文件的结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/study/杂项/8、图片文件的头和尾.md",
+                "file": "ctf练题/study/杂项/8、图片文件的结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/study/杂项/8、图片文件的头和尾.md"
+                "file": "ctf练题/study/杂项/8、图片文件的结构.md"
               }
             }
           }
@@ -147,8 +147,21 @@
   },
   "active": "24c79ce760c912b8",
   "lastOpenFiles": [
+    "zsource/gif格式详解.md",
+    "ctf练题/study/杂项/8、图片文件的结构.md",
+    "zsource/bmp格式详解.md",
+    "zsource/jpeg格式概述.md",
+    "zsource/png图片格式详解.md",
+    "zsource/unseping题解.md",
+    "zsource/sql注入绕过.md",
+    "zsource/catcatcat.md",
+    "zsource/文件上传漏洞参考二.md",
+    "zsource/文件上传基础手法.md",
+    "zsource/2、ctf-websqli-0x1-bugku题解.md",
+    "zsource/1、baby lfi 2题解.md",
+    "奇安信培训/6、攻防基础/1、信息收集.md",
+    "奇安信培训/6、攻防基础",
     "CTF总结/刷题记录/moectf/moeCTF.md",
-    "ctf练题/study/杂项/8、图片文件的头和尾.md",
     "CTF总结/刷题记录/SWPU/刷题记录/SWPUCTF  新生赛.md",
     "CTF总结/刷题记录/攻防世界/刷题记录.md",
     "ctf练题/study/web/3、标识源地址的http请求头字段.md",
@@ -159,21 +172,9 @@
     "奇安信培训/3、中间件/中间件/4、apache.md",
     "CTF总结/杂记/1、sql注入.md",
     "CTF总结/刷题记录/攻防世界/dirsearch基本使用.md",
-    "zsource/1、baby lfi 2题解.md",
     "CTF总结/刷题记录/SWPU/简单协议和RCE.md",
     "CTF总结/刷题记录/SWPU/刷题记录",
     "CTF总结/刷题记录/SWPU/sqlmap.md",
-    "CTF总结/刷题记录/SWPU/pop例子.md",
-    "CTF总结/杂记/9、 preg_replace()、.md",
-    "CTF总结/杂记/php反序列化绕过weakup.md",
-    "CTF总结/杂记/8、Python模块注入.md",
-    "CTF总结/杂记/7、phar反序列化.md",
-    "CTF总结/杂记/6、topcode敲击码.md",
-    "CTF总结/杂记/5、文件上传.md",
-    "CTF总结/杂记/4、thinkphp V5漏洞.md",
-    "CTF总结/杂记/3、ffifdyop绕过md5进行sql注入.md",
-    "CTF总结/杂记/2、md5绕过和pop.md",
-    "CTF总结/杂记/11、python模块注入绕过.md",
     "CTF总结/刷题记录/攻防世界",
     "CTF总结/刷题记录/SWPU",
     "CTF总结/刷题记录/moectf",
@@ -191,7 +192,6 @@
     "CTF总结/整理",
     "CTF总结/刷题记录",
     "CTF总结/source",
-    "CTF总结",
-    "ctf练题/study/杂项/未命名"
+    "CTF总结"
   ]
 }
