@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/study/杂项/2、图片隐写术.md",
+                "file": "ctf练题/study/杂项/9、pyc反编译.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/study/杂项/2、图片隐写术.md",
+                "file": "ctf练题/study/杂项/9、pyc反编译.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/study/杂项/2、图片隐写术.md",
+                "file": "ctf练题/study/杂项/9、pyc反编译.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/study/杂项/2、图片隐写术.md"
+                "file": "ctf练题/study/杂项/9、pyc反编译.md"
               }
             }
           }
@@ -147,9 +147,10 @@
   },
   "active": "82c8689e3bb89037",
   "lastOpenFiles": [
+    "ctf练题/study/杂项/2、图片隐写术.md",
+    "ctf练题/study/杂项/9、pyc反编译.md",
     "奇安信培训/6、攻防基础/1、信息收集.md",
     "ctf练题/study/杂项/3、压缩文件处理.md",
-    "ctf练题/study/杂项/2、图片隐写术.md",
     "奇安信培训/source/域名泛解析.md",
     "zsource/tiff文件格式详解.md",
     "ctf练题/study/杂项/8、图片文件的结构.md",
@@ -173,7 +174,6 @@
     "ctf练题/study/杂项/6、rar文件格式.md",
     "奇安信培训/1、操作系统/linux操作系统/1、linux目录结构，文件类型，用户类型，网络设置，文件权限，init模式.md",
     "奇安信培训/3、中间件/中间件/4、apache.md",
-    "CTF总结/杂记/1、sql注入.md",
     "CTF总结/刷题记录/SWPU/刷题记录",
     "CTF总结/刷题记录/攻防世界",
     "CTF总结/刷题记录/SWPU",
