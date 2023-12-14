@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "19845cb00cd320fa",
+        "id": "13b57182af3ed4f4",
         "type": "tabs",
         "children": [
           {
-            "id": "00c7f6c56b941f27",
+            "id": "e5cc4667bf68dfb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/study/杂项/8、图片文件的结构.md",
+                "file": "zsource/CaptfEncoder.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/study/杂项/8、图片文件的结构.md",
+                "file": "zsource/CaptfEncoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/study/杂项/8、图片文件的结构.md",
+                "file": "zsource/CaptfEncoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/study/杂项/8、图片文件的结构.md"
+                "file": "zsource/CaptfEncoder.md"
               }
             }
           }
@@ -145,10 +145,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "00c7f6c56b941f27",
+  "active": "e5cc4667bf68dfb6",
   "lastOpenFiles": [
-    "ctf练题/study/杂项/3、压缩文件处理.md",
     "ctf练题/study/杂项/11111、工具使用.md",
+    "ctf练题/study/crypto/3、openssl常用命令.md",
+    "ctf练题/study/杂项/8、图片文件的结构.md",
+    "ctf练题/study/杂项/3、压缩文件处理.md",
     "zsource/CaptfEncoder.md",
     "zsource/rsa加密过程.md",
     "Pasted image 20231214165821.png",
@@ -156,7 +158,6 @@
     "ctf练题/study/文件上传漏洞.md",
     "ctf练题/study/xsslabs通关教程.md",
     "ctf练题/study/杂项/2、图片隐写术.md",
-    "ctf练题/study/杂项/8、图片文件的结构.md",
     "ctf练题/study/杂项/9、pyc反编译.md",
     "奇安信培训/6、攻防基础/1、信息收集.md",
     "奇安信培训/source/域名泛解析.md",
@@ -174,7 +175,6 @@
     "zsource/1、baby lfi 2题解.md",
     "奇安信培训/6、攻防基础",
     "CTF总结/刷题记录/moectf/moeCTF.md",
-    "CTF总结/刷题记录/SWPU/刷题记录/SWPUCTF  新生赛.md",
     "CTF总结/刷题记录/SWPU/刷题记录",
     "CTF总结/刷题记录/攻防世界",
     "CTF总结/刷题记录/SWPU",
