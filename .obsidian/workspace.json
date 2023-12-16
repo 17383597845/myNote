@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "ctf练题/study/杂项/3、压缩文件处理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7bf3be6be0127ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "ctf练题/study/杂项/11111、工具使用.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,11 +158,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e5cc4667bf68dfb6",
+  "active": "d7bf3be6be0127ac",
   "lastOpenFiles": [
+    "zsource/6、rar文件格式.md",
+    "ctf练题/study/杂项/9、pyc反编译.md",
+    "ctf练题/study/杂项/3、压缩文件处理.md",
+    "ctf练题/study/杂项/2、图片隐写术.md",
+    "ctf练题/study/杂项/11111、工具使用.md",
     "ctf练题/study/杂项/8、图片文件的结构.md",
     "zsource/CaptfEncoder.md",
-    "ctf练题/study/杂项/11111、工具使用.md",
     "ctf练题/study/crypto/3、openssl常用命令.md",
     "ctf练题/study/web/思路.md",
     "CTF总结/刷题记录/攻防世界/刷题记录.md",
@@ -157,16 +174,12 @@
     "zsource/jpeg格式概述.md",
     "CTF总结/刷题记录/SWPU/简单协议和RCE.md",
     "达内笔记整理/sql注入/普通sql注入和盲注以及防护.md",
-    "zsource/6、rar文件格式.md",
-    "ctf练题/study/杂项/3、压缩文件处理.md",
     "ctf练题/study/杂项/7、base64隐写.md",
     "zsource/rsa加密过程.md",
     "Pasted image 20231214165821.png",
     "zsource/rsa工具集使用.md",
     "ctf练题/study/文件上传漏洞.md",
     "ctf练题/study/xsslabs通关教程.md",
-    "ctf练题/study/杂项/2、图片隐写术.md",
-    "ctf练题/study/杂项/9、pyc反编译.md",
     "奇安信培训/6、攻防基础/1、信息收集.md",
     "奇安信培训/source/域名泛解析.md",
     "zsource/tiff文件格式详解.md",
