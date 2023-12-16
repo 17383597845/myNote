@@ -181,6 +181,11 @@ JavaScript 中所有的对象都有一个内置属性，称为它的 **prototyp
 ## ezphp
 ![[Pasted image 20231206141711.png]]
 
+
+
+
+
+
 ?a=flag&flag=a
 
 
