@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF总结/刷题记录/攻防世界/刷题记录.md",
+                "file": "CTF总结/杂记/18、http请求头.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF总结/刷题记录/攻防世界/刷题记录.md",
+                "file": "CTF总结/杂记/18、http请求头.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF总结/刷题记录/攻防世界/刷题记录.md",
+                "file": "CTF总结/杂记/18、http请求头.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF总结/刷题记录/攻防世界/刷题记录.md"
+                "file": "CTF总结/杂记/18、http请求头.md"
               }
             }
           }
@@ -159,6 +159,16 @@
   },
   "active": "e5cc4667bf68dfb6",
   "lastOpenFiles": [
+    "CTF总结/杂记/12、php反序列化绕过weakup.md",
+    "CTF总结/杂记/11、python模块注入绕过.md",
+    "CTF总结/杂记/9、 preg_replace()、.md",
+    "CTF总结/杂记/8、Python模块注入.md",
+    "CTF总结/杂记/7、phar反序列化.md",
+    "CTF总结/杂记/6、topcode敲击码.md",
+    "CTF总结/杂记/4、thinkphp V5漏洞.md",
+    "CTF总结/杂记/3、ffifdyop绕过md5进行sql注入.md",
+    "CTF总结/杂记/1、sql注入.md",
+    "CTF总结/刷题记录/攻防世界/刷题记录.md",
     "ctf练题/study/web/思路.md",
     "ctf练题/study/web/4、构造优质的uploadfuzz字典.md",
     "ctf练题/study/web/3、标识源地址的http请求头字段.md",
@@ -175,18 +185,8 @@
     "ctf练题/study/杂项/7、base64隐写.md",
     "ctf练题/study/杂项/5、异或加密.md",
     "ctf练题/study/杂项/4、流量取证技术.md",
-    "ctf练题/study/杂项/2、图片隐写术.md",
-    "ctf练题/study/杂项/1、文件类型识别，分离和合并.md",
-    "ctf练题/study/杂项/9、pyc反编译.md",
     "Pasted image 20231216171016.png",
-    "CTF总结/刷题记录/攻防世界/刷题记录.md",
-    "CTF总结/刷题记录/SWPU/刷题记录/SWPUCTF  新生赛.md",
-    "CTF总结/刷题记录/NSSCTF/刷题记录.md",
-    "CTF总结/刷题记录/moectf/moeCTF.md",
-    "CTF总结/刷题记录/攻防世界/dirsearch基本使用.md",
-    "CTF总结/整理/sql盲注.md",
     "CTF总结.zip",
-    "zsource/6、rar文件格式.md",
     "Pasted image 20231214165821.png",
     "奇安信培训/6、攻防基础",
     "CTF总结/刷题记录/SWPU/刷题记录",
