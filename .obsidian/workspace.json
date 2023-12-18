@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/study/web/思路.md",
+                "file": "CTF总结/刷题记录/攻防世界/刷题记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/study/web/思路.md",
+                "file": "CTF总结/刷题记录/攻防世界/刷题记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/study/web/思路.md",
+                "file": "CTF总结/刷题记录/攻防世界/刷题记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/study/web/思路.md"
+                "file": "CTF总结/刷题记录/攻防世界/刷题记录.md"
               }
             }
           }
@@ -159,6 +159,7 @@
   },
   "active": "e5cc4667bf68dfb6",
   "lastOpenFiles": [
+    "ctf练题/study/web/思路.md",
     "ctf练题/study/web/4、构造优质的uploadfuzz字典.md",
     "ctf练题/study/web/3、标识源地址的http请求头字段.md",
     "ctf练题/study/web/2、lfi2.md",
@@ -183,7 +184,6 @@
     "CTF总结/刷题记录/NSSCTF/刷题记录.md",
     "CTF总结/刷题记录/moectf/moeCTF.md",
     "CTF总结/刷题记录/攻防世界/dirsearch基本使用.md",
-    "ctf练题/study/web/思路.md",
     "CTF总结/整理/sql盲注.md",
     "CTF总结.zip",
     "zsource/6、rar文件格式.md",
