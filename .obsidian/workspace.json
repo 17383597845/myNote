@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13b57182af3ed4f4",
+        "id": "a64cee621edd7fc2",
         "type": "tabs",
         "children": [
           {
-            "id": "e5cc4667bf68dfb6",
+            "id": "586c3f42951c02f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/study/杂项/1、文件类型识别，分离和合并.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7bf3be6be0127ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zsource/png图片格式详解.md",
+                "file": "ctf练题/study/web/5、题解.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 373.5
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/study/杂项/1、文件类型识别，分离和合并.md",
+                "file": "ctf练题/study/web/5、题解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/study/杂项/1、文件类型识别，分离和合并.md",
+                "file": "ctf练题/study/web/5、题解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/study/杂项/1、文件类型识别，分离和合并.md"
+                "file": "ctf练题/study/web/5、题解.md"
               }
             }
           }
@@ -157,8 +145,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e5cc4667bf68dfb6",
+  "active": "586c3f42951c02f2",
   "lastOpenFiles": [
+    "zsource/ezbypass-cat.md",
+    "Pasted image 20231220131555.png",
+    "Pasted image 20231220131535.png",
+    "ctf练题/study/web/5、题解.md",
+    "ctf练题/study/杂项/11111、工具使用.md",
+    "CTF总结/刷题记录/攻防世界/dirsearch基本使用.md",
+    "ctf练题/study/杂项/1、文件类型识别，分离和合并.md",
     "ctf练题/题解目录/LFI和RFI利用技巧.md",
     "zsource/1、baby lfi 2题解.md",
     "CTF总结/杂记/19、简单协议和RCE.md",
@@ -178,13 +173,7 @@
     "ctf练题/study/web/3、标识源地址的http请求头字段.md",
     "ctf练题/study/crypto/1、libnum常用函数.md",
     "ctf练题/study/杂项/西卡语言.md",
-    "ctf练题/study/杂项/11111、工具使用.md",
     "ctf练题/study/杂项/7、base64隐写.md",
-    "ctf练题/study/杂项/8、图片文件的结构.md",
-    "ctf练题/study/杂项/9、pyc反编译.md",
-    "面经/2023网络安全面经.md",
-    "面经/anwser/和信息安全相关的返回respose的anwser.md",
-    "CTF总结/刷题记录/moectf/moeCTF.md",
     "Pasted image 20231216171016.png",
     "CTF总结.zip",
     "Pasted image 20231214165821.png",
@@ -199,8 +188,6 @@
     "CTF总结/source/Pasted image 20231209103504.png",
     "CTF总结/source/Pasted image 20231209103419.png",
     "CTF总结/source/Pasted image 20231209103343.png",
-    "CTF总结/source/Pasted image 20231209103306.png",
-    "CTF总结/source/Pasted image 20231209103325.png",
     "CTF总结/杂记",
     "CTF总结/整理",
     "CTF总结/刷题记录",
