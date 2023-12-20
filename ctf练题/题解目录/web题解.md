@@ -1,7 +1,7 @@
 1、[[ezbypass-cat]] ----白名单目录穿透
 2、[[very_easy_sql]]  ----------[[ssrf]]利用gopher协议+sql注入的cookie盲注
 		参考文章： https://blog.51cto.com/u_15437432/6717316
-
+3、[[mfw]]    ---------------- git源码泄露 + assert拼接
 
 
 

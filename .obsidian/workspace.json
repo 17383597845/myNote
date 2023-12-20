@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zsource/source/json web token绕过思路.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "726ddb2acdffecd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ctf练题/study/web/1、lfi（本地文件包含）.md",
+                "file": "ctf练题/题解目录/web题解.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/study/web/1、lfi（本地文件包含）.md",
+                "file": "ctf练题/题解目录/web题解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/study/web/1、lfi（本地文件包含）.md",
+                "file": "ctf练题/题解目录/web题解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/study/web/1、lfi（本地文件包含）.md"
+                "file": "ctf练题/题解目录/web题解.md"
               }
             }
           }
@@ -158,16 +145,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "726ddb2acdffecd5",
+  "active": "586c3f42951c02f2",
   "lastOpenFiles": [
-    "zsource/source/ctf中截断在文件包含中的应用.md",
-    "ctf练题/study/web/1、lfi（本地文件包含）.md",
+    "zsource/source/mfw.md",
+    "Pasted image 20231220155815.png",
+    "Pasted image 20231220155755.png",
+    "Pasted image 20231220155735.png",
+    "Pasted image 20231220155700.png",
+    "Pasted image 20231220155640.png",
+    "Pasted image 20231220155618.png",
     "ctf练题/题解目录/web题解.md",
+    "ctf练题/题解目录/做题题解.md",
+    "zsource/source/json web token绕过思路.md",
+    "ctf练题/study/web/1、lfi（本地文件包含）.md",
+    "zsource/source/ctf中截断在文件包含中的应用.md",
     "ctf练题/study/web/ssrf.md",
     "zsource/source/very_easy_sql.md",
-    "zsource/source/json web token绕过思路.md",
     "zsource/source/ezbypass-cat.md",
-    "ctf练题/题解目录/做题题解.md",
     "zsource/img/Pasted image 20231220141546.png",
     "zsource/source/whois题解.md",
     "zsource/source/1、baby lfi 2题解.md",
@@ -176,9 +170,6 @@
     "zsource/img/Pasted image 20231216171016.png",
     "zsource/source/ssrf伪协议和绕过方式1.md",
     "zsource/img/Pasted image 20231220141532.png",
-    "zsource/img/Pasted image 20231220141512.png",
-    "zsource/img/Pasted image 20231220131555.png",
-    "zsource/img/Pasted image 20231220131535.png",
     "ctf练题/study/杂项/11111、工具使用.md",
     "CTF总结/刷题记录/攻防世界/dirsearch基本使用.md",
     "ctf练题/study/杂项/1、文件类型识别，分离和合并.md",
@@ -192,17 +183,12 @@
     "CTF总结/刷题记录/SWPU/刷题记录/SWPUCTF  新生赛.md",
     "CTF总结/刷题记录/SWPU/sqlmap.md",
     "CTF总结/刷题记录/SWPU/pop例子.md",
-    "CTF总结/刷题记录/NSSCTF/刷题记录.md",
-    "奇安信培训/6、攻防基础/1、信息收集.md",
     "CTF总结.zip",
     "奇安信培训/6、攻防基础",
     "CTF总结/刷题记录/SWPU/刷题记录",
     "CTF总结/刷题记录/攻防世界",
     "CTF总结/刷题记录/SWPU",
     "CTF总结/刷题记录/moectf",
-    "CTF总结/source/Pasted image 20231209154227.png",
-    "CTF总结/source/Pasted image 20231209103438.png",
-    "CTF总结/source/Pasted image 20231209103517.png",
     "CTF总结/杂记",
     "CTF总结/整理",
     "CTF总结/刷题记录"
