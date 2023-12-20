@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/study/web/5、题解.md",
+                "file": "zsource/source/json web token绕过思路.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "726ddb2acdffecd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ctf练题/题解目录/web题解.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/study/web/5、题解.md",
+                "file": "ctf练题/题解目录/web题解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/study/web/5、题解.md",
+                "file": "ctf练题/题解目录/web题解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/study/web/5、题解.md"
+                "file": "ctf练题/题解目录/web题解.md"
               }
             }
           }
@@ -145,17 +158,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "586c3f42951c02f2",
+  "active": "726ddb2acdffecd5",
   "lastOpenFiles": [
-    "zsource/ezbypass-cat.md",
-    "Pasted image 20231220131555.png",
-    "Pasted image 20231220131535.png",
-    "ctf练题/study/web/5、题解.md",
+    "ctf练题/study/web/ssrf.md",
+    "ctf练题/题解目录/web题解.md",
+    "zsource/source/very_easy_sql.md",
+    "zsource/source/json web token绕过思路.md",
+    "zsource/source/ezbypass-cat.md",
+    "ctf练题/题解目录/做题题解.md",
+    "zsource/img/Pasted image 20231220141546.png",
+    "zsource/source/whois题解.md",
+    "zsource/source/1、baby lfi 2题解.md",
+    "zsource/img/Pasted image 20231214165821.png",
+    "zsource/source",
+    "zsource/img/Pasted image 20231216171016.png",
+    "zsource/source/ssrf伪协议和绕过方式1.md",
+    "zsource/img/Pasted image 20231220141532.png",
+    "zsource/img/Pasted image 20231220141512.png",
+    "zsource/img/Pasted image 20231220131555.png",
+    "zsource/img/Pasted image 20231220131535.png",
     "ctf练题/study/杂项/11111、工具使用.md",
     "CTF总结/刷题记录/攻防世界/dirsearch基本使用.md",
     "ctf练题/study/杂项/1、文件类型识别，分离和合并.md",
     "ctf练题/题解目录/LFI和RFI利用技巧.md",
-    "zsource/1、baby lfi 2题解.md",
     "CTF总结/杂记/19、简单协议和RCE.md",
     "CTF总结/杂记/16、pre_match回溯绕过.md",
     "CTF总结/杂记/5、文件上传.md",
@@ -169,14 +194,7 @@
     "奇安信培训/6、攻防基础/1、信息收集.md",
     "奇安信培训/导航.md",
     "CTF总结/杂记/8、Python模块注入.md",
-    "CTF总结/杂记/18、http请求头.md",
-    "ctf练题/study/web/3、标识源地址的http请求头字段.md",
-    "ctf练题/study/crypto/1、libnum常用函数.md",
-    "ctf练题/study/杂项/西卡语言.md",
-    "ctf练题/study/杂项/7、base64隐写.md",
-    "Pasted image 20231216171016.png",
     "CTF总结.zip",
-    "Pasted image 20231214165821.png",
     "奇安信培训/6、攻防基础",
     "CTF总结/刷题记录/SWPU/刷题记录",
     "CTF总结/刷题记录/攻防世界",
@@ -185,12 +203,8 @@
     "CTF总结/source/Pasted image 20231209154227.png",
     "CTF总结/source/Pasted image 20231209103438.png",
     "CTF总结/source/Pasted image 20231209103517.png",
-    "CTF总结/source/Pasted image 20231209103504.png",
-    "CTF总结/source/Pasted image 20231209103419.png",
-    "CTF总结/source/Pasted image 20231209103343.png",
     "CTF总结/杂记",
     "CTF总结/整理",
-    "CTF总结/刷题记录",
-    "CTF总结/source"
+    "CTF总结/刷题记录"
   ]
 }
