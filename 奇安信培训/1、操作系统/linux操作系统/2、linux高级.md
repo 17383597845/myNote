@@ -1,4 +1,4 @@
-# 一、安装软件
+### 一、安装软件
 ### 1、源码安装：
 		编译：使用gcc编译器将源码编译成目标文件
 		链接：再次使用gcc编译器将目标文件链接成二进制文件
@@ -151,8 +151,8 @@ mysql修改启动用户
 ## ssh服务：
 	配置文件位置：/etc/ssh/sshd_config
 	![[Pasted image 20231104155626.png]]
-# 二、iptables防火墙
-## iptables防火墙：
+### 二、iptables防火墙
+#### iptables防火墙：
 工作在网络层，针对tcp/ip数据包实施过滤和限制，是典型的包过滤防火墙
 ![[Pasted image 20231104142138.png]]
 四表，五链。
@@ -195,7 +195,7 @@ history | grep iptables #查看带有iptables的历史指令
 
 
 
-# 三、shell编程
+### 三、shell编程
 
 ![[Pasted image 20231104163040.png]]
 ![[Pasted image 20231104163107.png]]
@@ -204,6 +204,6 @@ history | grep iptables #查看带有iptables的历史指令
 
 ![[Pasted image 20231104170440.png]]
 
-## Docker：
+#### Docker：
 
 配置
