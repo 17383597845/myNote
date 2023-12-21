@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/6、攻防基础/3、xss注入漏洞.md",
+                "file": "奇安信培训/6、攻防基础/4、xxe漏洞.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/6、攻防基础/3、xss注入漏洞.md",
+                "file": "奇安信培训/6、攻防基础/4、xxe漏洞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/6、攻防基础/3、xss注入漏洞.md",
+                "file": "奇安信培训/6、攻防基础/4、xxe漏洞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/6、攻防基础/3、xss注入漏洞.md"
+                "file": "奇安信培训/6、攻防基础/4、xxe漏洞.md"
               }
             }
           }
@@ -147,12 +147,12 @@
   },
   "active": "f29951375b849bf0",
   "lastOpenFiles": [
+    "奇安信培训/6、攻防基础/3、xss注入漏洞.md",
     "Pasted image 20231221164858.png",
     "Pasted image 20231221164830.png",
     "Pasted image 20231221164611.png",
     "奇安信培训/6、攻防基础/4、xxe漏洞.md",
     "奇安信培训/6、攻防基础/反序列化漏洞.md",
-    "奇安信培训/6、攻防基础/3、xss注入漏洞.md",
     "Pasted image 20231221161421.png",
     "Pasted image 20231221161326.png",
     "Pasted image 20231221161227.png",
@@ -162,7 +162,6 @@
     "Pasted image 20231221160246.png",
     "zsource/img/Pasted image 20231221144307.png",
     "Pasted image 20231221152617.png",
-    "Pasted image 20231221152545.png",
     "奇安信培训/导航.md",
     "收藏的文章或笔记/java安全.md",
     "收藏的文章或笔记/技术教程文章.md",
