@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "930449addb469da2",
+            "id": "f29951375b849bf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/6、攻防基础/4、xxe漏洞.md",
+                "file": "奇安信培训/source/伪协议.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/6、攻防基础/4、xxe漏洞.md",
+                "file": "奇安信培训/source/伪协议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/6、攻防基础/4、xxe漏洞.md",
+                "file": "奇安信培训/source/伪协议.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/6、攻防基础/4、xxe漏洞.md"
+                "file": "奇安信培训/source/伪协议.md"
               }
             }
           }
@@ -145,45 +146,45 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "930449addb469da2",
+  "active": "f29951375b849bf0",
   "lastOpenFiles": [
+    "奇安信培训/6、攻防基础/文件包含漏洞.md",
+    "奇安信培训/source/伪协议.md",
+    "奇安信培训/导航.md",
+    "zsource/img/Pasted image 20231221144307.png",
+    "收藏的文章或笔记/java安全.md",
+    "收藏的文章或笔记/技术教程文章.md",
+    "收藏的文章或笔记/成体系笔记.md",
+    "zsource/img/Pasted image 20231220155618.png",
+    "zsource/source/unseping题解.md",
+    "zsource/source/ssrf伪协议和绕过方式1.md",
+    "zsource/source/ctf中截断在文件包含中的应用.md",
+    "奇安信培训/6、攻防基础/反序列化漏洞.md",
+    "zsource/img/Pasted image 20231221143607.png",
+    "奇安信培训/6、攻防基础/4、xxe漏洞.md",
     "奇安信培训/1、操作系统/windows和Linux下的敏感文件.md",
     "奇安信培训/1、操作系统/windows操作系统/3、文件系统.md",
     "奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
     "奇安信培训/1、操作系统/windows操作系统/1、账户和组.md",
     "奇安信培训/1、操作系统/linux操作系统/2、linux高级.md",
     "奇安信培训/1、操作系统/linux操作系统/1、linux基础内容.md",
-    "奇安信培训/6、攻防基础/4、xxe漏洞.md",
-    "Pasted image 20231221102131.png",
-    "Pasted image 20231221101755.png",
-    "Pasted image 20231221101242.png",
-    "奇安信培训/6、攻防基础/文件包含漏洞.md",
-    "Pasted image 20231221092252.png",
-    "Pasted image 20231221092209.png",
-    "Pasted image 20231221091721.png",
-    "Pasted image 20231221091455.png",
-    "Pasted image 20231221090530.png",
-    "Pasted image 20231221090308.png",
+    "zsource/img/Pasted image 20231221102131.png",
+    "zsource/img/Pasted image 20231221101755.png",
+    "zsource/img/Pasted image 20231221101242.png",
+    "zsource/img/Pasted image 20231221092252.png",
+    "zsource/img/Pasted image 20231221092209.png",
+    "zsource/img/Pasted image 20231221091721.png",
+    "zsource/img/Pasted image 20231221091455.png",
     "ctf练题/题解目录/web题解.md",
     "zsource/source/mfw.md",
-    "Pasted image 20231220155815.png",
     "ctf练题/题解目录/做题题解.md",
     "zsource/source/json web token绕过思路.md",
     "ctf练题/study/web/1、lfi（本地文件包含）.md",
-    "zsource/source/ctf中截断在文件包含中的应用.md",
     "ctf练题/study/web/ssrf.md",
     "zsource/source/very_easy_sql.md",
     "zsource/source/ezbypass-cat.md",
     "zsource/source/whois题解.md",
-    "zsource/source/1、baby lfi 2题解.md",
     "zsource/source",
-    "zsource/source/ssrf伪协议和绕过方式1.md",
-    "ctf练题/study/杂项/11111、工具使用.md",
-    "CTF总结/刷题记录/攻防世界/dirsearch基本使用.md",
-    "ctf练题/study/杂项/1、文件类型识别，分离和合并.md",
-    "ctf练题/题解目录/LFI和RFI利用技巧.md",
-    "CTF总结/杂记/19、简单协议和RCE.md",
-    "CTF总结/杂记/16、pre_match回溯绕过.md",
     "CTF总结.zip",
     "奇安信培训/6、攻防基础",
     "CTF总结/刷题记录/SWPU/刷题记录",

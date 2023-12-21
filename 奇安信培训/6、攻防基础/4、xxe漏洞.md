@@ -143,3 +143,5 @@ http://172.168.20.210:84/vul/xxe/xxe_1.php
 拿shell:
     http://172.168.20.250/(xxe+Struts2漏洞)
 ```
+
+
