@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF总结/杂记/15、最详细的php反序列化.md",
+                "file": "CTF总结/杂记/12、php反序列化绕过weakup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF总结/杂记/15、最详细的php反序列化.md",
+                "file": "CTF总结/杂记/12、php反序列化绕过weakup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF总结/杂记/15、最详细的php反序列化.md",
+                "file": "CTF总结/杂记/12、php反序列化绕过weakup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF总结/杂记/15、最详细的php反序列化.md"
+                "file": "CTF总结/杂记/12、php反序列化绕过weakup.md"
               }
             }
           }
@@ -147,12 +147,14 @@
   },
   "active": "f29951375b849bf0",
   "lastOpenFiles": [
+    "奇安信培训/6、攻防基础/7、反序列化漏洞.md",
+    "CTF总结/杂记/12、php反序列化绕过weakup.md",
+    "CTF总结/杂记/15、最详细的php反序列化.md",
+    "CTF总结/杂记/未命名.md",
     "CTF总结/杂记/7、phar反序列化.md",
     "CTF总结/刷题记录/SWPU/pop例子.md",
-    "奇安信培训/6、攻防基础/7、反序列化漏洞.md",
     "ctf练题/study/web/1、lfi（本地文件包含）.md",
     "ctf练题/SNERT2023.md",
-    "CTF总结/杂记/15、最详细的php反序列化.md",
     "ctf练题/题解目录/web题解.md",
     "zsource/source/warmup.md",
     "zsource/img/Pasted image 20231221200308.png",
@@ -181,8 +183,6 @@
     "zsource/source/ctf中截断在文件包含中的应用.md",
     "奇安信培训/1、操作系统/windows和Linux下的敏感文件.md",
     "奇安信培训/1、操作系统/windows操作系统/3、文件系统.md",
-    "奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
-    "奇安信培训/1、操作系统/windows操作系统/1、账户和组.md",
     "zsource/source",
     "CTF总结.zip",
     "奇安信培训/6、攻防基础",
