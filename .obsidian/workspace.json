@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/6、攻防基础/6、文件包含漏洞.md",
+                "file": "奇安信培训/6、攻防基础/9、逻辑漏洞.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/6、攻防基础/6、文件包含漏洞.md",
+                "file": "奇安信培训/6、攻防基础/9、逻辑漏洞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/6、攻防基础/6、文件包含漏洞.md",
+                "file": "奇安信培训/6、攻防基础/9、逻辑漏洞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/6、攻防基础/6、文件包含漏洞.md"
+                "file": "奇安信培训/6、攻防基础/9、逻辑漏洞.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "f29951375b849bf0",
   "lastOpenFiles": [
-    "奇安信培训/6、攻防基础/9、逻辑漏洞.md",
     "奇安信培训/6、攻防基础/6、文件包含漏洞.md",
+    "奇安信培训/6、攻防基础/9、逻辑漏洞.md",
     "奇安信培训/6、攻防基础/5、代码执行、命令执行.md",
     "Pasted image 20231221200308.png",
     "奇安信培训/6、攻防基础/8、xxe漏洞.md",
