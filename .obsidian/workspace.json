@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/6、攻防基础/7、反序列化漏洞.md",
+                "file": "CTF总结/杂记/15、最详细的php反序列化.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/6、攻防基础/7、反序列化漏洞.md",
+                "file": "CTF总结/杂记/15、最详细的php反序列化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/6、攻防基础/7、反序列化漏洞.md",
+                "file": "CTF总结/杂记/15、最详细的php反序列化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/6、攻防基础/7、反序列化漏洞.md"
+                "file": "CTF总结/杂记/15、最详细的php反序列化.md"
               }
             }
           }
@@ -147,6 +147,11 @@
   },
   "active": "f29951375b849bf0",
   "lastOpenFiles": [
+    "CTF总结/杂记/7、phar反序列化.md",
+    "CTF总结/刷题记录/SWPU/pop例子.md",
+    "奇安信培训/6、攻防基础/7、反序列化漏洞.md",
+    "ctf练题/study/web/1、lfi（本地文件包含）.md",
+    "ctf练题/SNERT2023.md",
     "CTF总结/杂记/15、最详细的php反序列化.md",
     "ctf练题/题解目录/web题解.md",
     "zsource/source/warmup.md",
@@ -163,7 +168,6 @@
     "zsource/img/Pasted image 20231221194205.png",
     "zsource/img/Pasted image 20231221194138.png",
     "zsource/img/Pasted image 20231221193905.png",
-    "奇安信培训/6、攻防基础/7、反序列化漏洞.md",
     "奇安信培训/6、攻防基础/3、xss注入漏洞.md",
     "zsource/img/Pasted image 20231221164858.png",
     "zsource/img/Pasted image 20231221164830.png",
@@ -179,10 +183,6 @@
     "奇安信培训/1、操作系统/windows操作系统/3、文件系统.md",
     "奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
     "奇安信培训/1、操作系统/windows操作系统/1、账户和组.md",
-    "奇安信培训/1、操作系统/linux操作系统/2、linux高级.md",
-    "奇安信培训/1、操作系统/linux操作系统/1、linux基础内容.md",
-    "zsource/source/mfw.md",
-    "ctf练题/题解目录/做题题解.md",
     "zsource/source",
     "CTF总结.zip",
     "奇安信培训/6、攻防基础",
