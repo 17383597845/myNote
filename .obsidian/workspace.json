@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/6、攻防基础/5、代码执行、命令执行.md",
+                "file": "zsource/source/攻防世界-fileinclude.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/6、攻防基础/5、代码执行、命令执行.md",
+                "file": "zsource/source/攻防世界-fileinclude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/6、攻防基础/5、代码执行、命令执行.md",
+                "file": "zsource/source/攻防世界-fileinclude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/6、攻防基础/5、代码执行、命令执行.md"
+                "file": "zsource/source/攻防世界-fileinclude.md"
               }
             }
           }
@@ -147,9 +147,13 @@
   },
   "active": "f29951375b849bf0",
   "lastOpenFiles": [
-    "zsource/source/攻防世界-Web-ics-05.md",
-    "奇安信培训/6、攻防基础/5、代码执行、命令执行.md",
+    "奇安信培训/6、攻防基础/6、文件包含漏洞.md",
+    "zsource/source/攻防世界-fileinclude.md",
+    "ctf练题/study/web/1、lfi（本地文件包含）.md",
+    "zsource/source/easytornado.md",
     "ctf练题/study/web/5、模板注入.md",
+    "奇安信培训/6、攻防基础/5、代码执行、命令执行.md",
+    "zsource/source/攻防世界-Web-ics-05.md",
     "zsource/source/Web_python_template_injection.md",
     "ctf练题/study/web/工具使用.md",
     "zsource/source/Tplmap使用教程.md",
@@ -170,10 +174,6 @@
     "CTF总结/杂记/15、最详细的php反序列化.md",
     "CTF总结/杂记/未命名.md",
     "CTF总结/杂记/7、phar反序列化.md",
-    "CTF总结/刷题记录/SWPU/pop例子.md",
-    "ctf练题/study/web/1、lfi（本地文件包含）.md",
-    "ctf练题/SNERT2023.md",
-    "ctf练题/题解目录/web题解.md",
     "zsource/img/Pasted image 20231221200308.png",
     "zsource/img/Pasted image 20231221195615.png",
     "zsource/img/Pasted image 20231221195525.png",
