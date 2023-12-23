@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/study/专业编程/python下载网站下所有文件.md",
+                "file": "ctf练题/study/web/5、模板注入.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/study/专业编程/python下载网站下所有文件.md",
+                "file": "ctf练题/study/web/5、模板注入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/study/专业编程/python下载网站下所有文件.md",
+                "file": "ctf练题/study/web/5、模板注入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/study/专业编程/python下载网站下所有文件.md"
+                "file": "ctf练题/study/web/5、模板注入.md"
               }
             }
           }
@@ -147,8 +147,12 @@
   },
   "active": "f29951375b849bf0",
   "lastOpenFiles": [
-    "ctf练题/study/专业编程/beautifulsoup.md",
+    "zsource/source/了解SSTI和所有常见payload.md",
+    "ctf练题/study/web/5、模板注入.md",
+    "奇安信培训/4、编程/python/1、初始python.md",
+    "ctf练题/study/专业编程/python遍历本地文件目录.md",
     "ctf练题/study/专业编程/python下载网站下所有文件.md",
+    "ctf练题/study/专业编程/beautifulsoup.md",
     "ctf练题/study/文件上传漏洞.md",
     "ctf练题/study/专业编程",
     "ctf练题/study/未命名.md",
@@ -171,19 +175,15 @@
     "奇安信培训/source/伪协议.md",
     "奇安信培训/6、攻防基础/9、逻辑漏洞.md",
     "奇安信培训/6、攻防基础/5、代码执行、命令执行.md",
-    "奇安信培训/6、攻防基础/8、xxe漏洞.md",
-    "奇安信培训/6、攻防基础/4、csrf和ssrf.md",
     "zsource/img/Pasted image 20231221195615.png",
     "zsource/img/Pasted image 20231221195525.png",
     "zsource/img/Pasted image 20231221194249.png",
     "zsource/img/Pasted image 20231221194205.png",
     "zsource/img/Pasted image 20231221194138.png",
     "zsource/img/Pasted image 20231221193905.png",
-    "奇安信培训/6、攻防基础/3、xss注入漏洞.md",
     "zsource/img/Pasted image 20231221164858.png",
     "zsource/img/Pasted image 20231221164830.png",
     "zsource/img/Pasted image 20231221164611.png",
-    "奇安信培训/导航.md",
     "zsource/source",
     "CTF总结.zip",
     "奇安信培训/6、攻防基础",
