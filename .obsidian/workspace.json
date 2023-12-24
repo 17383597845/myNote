@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/study/内网/dc1-dc9.md",
+                "file": "zsource/source/了解SSTI和所有常见payload.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/study/内网/dc1-dc9.md",
+                "file": "zsource/source/了解SSTI和所有常见payload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/study/内网/dc1-dc9.md",
+                "file": "zsource/source/了解SSTI和所有常见payload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/study/内网/dc1-dc9.md"
+                "file": "zsource/source/了解SSTI和所有常见payload.md"
               }
             }
           }
@@ -147,9 +147,19 @@
   },
   "active": "f29951375b849bf0",
   "lastOpenFiles": [
+    "ctf练题/study/web/5、模板注入.md",
+    "CTF总结/杂记/10、render python SSTI tornado render模板注入.md",
+    "CTF总结/杂记/11、python模块注入绕过.md",
+    "ctf练题/study/内网/Cat.md",
+    "ctf练题/study/web/2、lfi2.md",
+    "ctf练题/study/web/3、标识源地址的http请求头字段.md",
+    "ctf练题/study/web/4、构造优质的uploadfuzz字典.md",
+    "ctf练题/study/web/思路.md",
+    "ctf练题/study/web/ssrf.md",
+    "ctf练题/study/1、sql注入.md",
+    "ctf练题/study/内网/dc1-dc9.md",
     "ctf练题/study/内网/dc1-dc7.md",
     "ctf练题/study/内网/linux下常见日志文件位置.md",
-    "ctf练题/study/内网/dc1-dc9.md",
     "ctf练题/study/内网/ctf内网渗透例题1.md",
     "奇安信培训/source/伪协议.md",
     "奇安信培训/6、攻防基础/6、文件包含漏洞.md",
@@ -164,16 +174,6 @@
     "zsource/source/攻防世界-fileinclude.md",
     "ctf练题/study/内网",
     "zsource/source/easytornado.md",
-    "ctf练题/study/web/5、模板注入.md",
-    "奇安信培训/6、攻防基础/5、代码执行、命令执行.md",
-    "zsource/source/攻防世界-Web-ics-05.md",
-    "zsource/source/Web_python_template_injection.md",
-    "zsource/source/了解SSTI和所有常见payload.md",
-    "奇安信培训/4、编程/python/1、初始python.md",
-    "ctf练题/study/专业编程/python遍历本地文件目录.md",
-    "ctf练题/study/专业编程/python下载网站下所有文件.md",
-    "ctf练题/study/专业编程/beautifulsoup.md",
-    "ctf练题/study/文件上传漏洞.md",
     "ctf练题/study/专业编程",
     "zsource/img/Pasted image 20231221200308.png",
     "zsource/img/Pasted image 20231221195615.png",
