@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "达内笔记整理/msf基础操作.md",
+                "file": "奇安信培训/source/伪协议.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "达内笔记整理/msf基础操作.md",
+                "file": "奇安信培训/source/伪协议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "达内笔记整理/msf基础操作.md",
+                "file": "奇安信培训/source/伪协议.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "达内笔记整理/msf基础操作.md"
+                "file": "奇安信培训/source/伪协议.md"
               }
             }
           }
@@ -147,6 +147,9 @@
   },
   "active": "f29951375b849bf0",
   "lastOpenFiles": [
+    "奇安信培训/6、攻防基础/6、文件包含漏洞.md",
+    "ctf练题/study/web/1、lfi（本地文件包含）.md",
+    "达内笔记整理/msf基础操作.md",
     "ctf练题/工具使用.md",
     "zsource/Mimikatz使用.md",
     "zsource/source/Tplmap使用教程.md",
@@ -155,8 +158,6 @@
     "ctf练题/study/内网/内网体系建设.md",
     "zsource/source/攻防世界-fileinclude.md",
     "ctf练题/study/内网",
-    "奇安信培训/6、攻防基础/6、文件包含漏洞.md",
-    "ctf练题/study/web/1、lfi（本地文件包含）.md",
     "zsource/source/easytornado.md",
     "ctf练题/study/web/5、模板注入.md",
     "奇安信培训/6、攻防基础/5、代码执行、命令执行.md",
@@ -174,7 +175,6 @@
     "CTF总结/刷题记录/攻防世界/刷题记录.md",
     "CTF总结/杂记/17、sql注入常见实用payload.md",
     "CTF总结/杂记/1、sql注入.md",
-    "CTF总结/杂记/12、php反序列化绕过weakup.md",
     "zsource/img/Pasted image 20231221200308.png",
     "zsource/img/Pasted image 20231221195615.png",
     "zsource/img/Pasted image 20231221195525.png",
