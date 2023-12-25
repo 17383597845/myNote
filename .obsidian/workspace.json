@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/study/rePwn/pwn/level2.md",
+                "file": "ctf练题/study/rePwn/pwn/guess_num.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/study/rePwn/pwn/level2.md",
+                "file": "ctf练题/study/rePwn/pwn/guess_num.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/study/rePwn/pwn/level2.md",
+                "file": "ctf练题/study/rePwn/pwn/guess_num.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/study/rePwn/pwn/level2.md"
+                "file": "ctf练题/study/rePwn/pwn/guess_num.md"
               }
             }
           }
@@ -148,14 +148,16 @@
   },
   "active": "f29951375b849bf0",
   "lastOpenFiles": [
-    "ctf练题/工具使用.md",
+    "ctf练题/SNERT2023.md",
+    "ctf练题/study/rePwn/pwn/guess_num.md",
+    "ctf练题/study/rePwn/pwn/CGfsb  ---- printf格式化漏洞.md",
     "ctf练题/study/rePwn/pwn/level2.md",
+    "ctf练题/工具使用.md",
     "zsource/source/Mimikatz使用.md",
     "zsource/source/level2最佳解法.md",
     "ctf练题/study/rePwn/pwn/level0.md",
     "ctf练题/study/rePwn/未命名.md",
     "ctf练题/study/rePwn/Gdb命令.md",
-    "ctf练题/SNERT2023.md",
     "ctf练题/study/rePwn/pwn/hello_pwn.md",
     "ctf练题/study/rePwn/re/逆向-攻防世界-logmein.md",
     "ctf练题/study/rePwn/re",
@@ -175,8 +177,6 @@
     "ctf练题/study/web/3、标识源地址的http请求头字段.md",
     "ctf练题/study/web/4、构造优质的uploadfuzz字典.md",
     "ctf练题/study/web/思路.md",
-    "ctf练题/study/web/ssrf.md",
-    "ctf练题/study/内网/dc1-dc9.md",
     "ctf练题/study/内网",
     "ctf练题/study/专业编程",
     "zsource/img/Pasted image 20231221200308.png",
