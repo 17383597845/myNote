@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/SNERT2023.md",
+                "file": "ctf练题/study/rePwn/pwn/level2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/SNERT2023.md",
+                "file": "ctf练题/study/rePwn/pwn/level2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/SNERT2023.md",
+                "file": "ctf练题/study/rePwn/pwn/level2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/SNERT2023.md"
+                "file": "ctf练题/study/rePwn/pwn/level2.md"
               }
             }
           }
@@ -148,10 +148,20 @@
   },
   "active": "f29951375b849bf0",
   "lastOpenFiles": [
-    "ctf练题/study/rePwn/攻防世界--no-strings-attached.md",
+    "ctf练题/工具使用.md",
+    "ctf练题/study/rePwn/pwn/level2.md",
+    "zsource/source/Mimikatz使用.md",
+    "zsource/source/level2最佳解法.md",
+    "ctf练题/study/rePwn/pwn/level0.md",
+    "ctf练题/study/rePwn/未命名.md",
     "ctf练题/study/rePwn/Gdb命令.md",
-    "ctf练题/study/rePwn/逆向-攻防世界-logmein.md",
-    "zsource/fakebook.md",
+    "ctf练题/SNERT2023.md",
+    "ctf练题/study/rePwn/pwn/hello_pwn.md",
+    "ctf练题/study/rePwn/re/逆向-攻防世界-logmein.md",
+    "ctf练题/study/rePwn/re",
+    "ctf练题/study/rePwn/pwn",
+    "ctf练题/study/rePwn/re/攻防世界--no-strings-attached.md",
+    "zsource/source/fakebook.md",
     "ctf练题/study/rePwn",
     "ctf练题/study/1、sql注入.md",
     "CTF总结/杂记/19、简单协议和RCE.md",
@@ -167,14 +177,6 @@
     "ctf练题/study/web/思路.md",
     "ctf练题/study/web/ssrf.md",
     "ctf练题/study/内网/dc1-dc9.md",
-    "ctf练题/study/内网/dc1-dc7.md",
-    "ctf练题/study/内网/linux下常见日志文件位置.md",
-    "ctf练题/study/内网/ctf内网渗透例题1.md",
-    "奇安信培训/source/伪协议.md",
-    "奇安信培训/6、攻防基础/6、文件包含漏洞.md",
-    "ctf练题/study/web/1、lfi（本地文件包含）.md",
-    "达内笔记整理/msf基础操作.md",
-    "ctf练题/工具使用.md",
     "ctf练题/study/内网",
     "ctf练题/study/专业编程",
     "zsource/img/Pasted image 20231221200308.png",
@@ -191,8 +193,6 @@
     "CTF总结.zip",
     "奇安信培训/6、攻防基础",
     "CTF总结/刷题记录/SWPU/刷题记录",
-    "CTF总结/刷题记录/攻防世界",
-    "CTF总结/刷题记录/SWPU",
-    "CTF总结/刷题记录/moectf"
+    "CTF总结/刷题记录/攻防世界"
   ]
 }
