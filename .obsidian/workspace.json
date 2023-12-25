@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/study/rePwn/攻防世界--no-strings-attached.md",
+                "file": "ctf练题/SNERT2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/study/rePwn/攻防世界--no-strings-attached.md",
+                "file": "ctf练题/SNERT2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/study/rePwn/攻防世界--no-strings-attached.md",
+                "file": "ctf练题/SNERT2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/study/rePwn/攻防世界--no-strings-attached.md"
+                "file": "ctf练题/SNERT2023.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "f29951375b849bf0",
   "lastOpenFiles": [
-    "ctf练题/study/rePwn/Gdb命令.md",
     "ctf练题/study/rePwn/攻防世界--no-strings-attached.md",
+    "ctf练题/study/rePwn/Gdb命令.md",
     "ctf练题/study/rePwn/逆向-攻防世界-logmein.md",
     "zsource/fakebook.md",
     "ctf练题/study/rePwn",
