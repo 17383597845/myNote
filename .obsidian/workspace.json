@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇安信培训/4、编程/python/3、python命令行解析和连接数据库.md",
+                "file": "奇安信培训/4、编程/python/爬取页面url中的资源.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/4、编程/python/3、python命令行解析和连接数据库.md",
+                "file": "奇安信培训/4、编程/python/爬取页面url中的资源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/4、编程/python/3、python命令行解析和连接数据库.md",
+                "file": "奇安信培训/4、编程/python/爬取页面url中的资源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/4、编程/python/3、python命令行解析和连接数据库.md"
+                "file": "奇安信培训/4、编程/python/爬取页面url中的资源.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "f29951375b849bf0",
   "lastOpenFiles": [
+    "奇安信培训/4、编程/python/判断回文字符串.md",
+    "奇安信培训/4、编程/python/遍历目录，查看文件内容.md",
+    "奇安信培训/4、编程/python/爬取页面url中的资源.md",
+    "奇安信培训/4、编程/python/3、python命令行解析和连接数据库.md",
+    "blog/redis/redis.MD",
+    "blog/redis/Rddis 管理工具.MD",
+    "blog/redis",
     "奇安信培训/4、编程/python/2、文件读写，异常处理.md",
     "ctf练题/工具使用.md",
     "zsource/source/Tplmap使用教程.md",
@@ -169,12 +176,6 @@
     "blog/其他/十一月肖邦.MD",
     "blog/其他/不开心的时候请假装乐观,装着装着可能就像了.MD",
     "blog/其他/一些问题.MD",
-    "blog/其他/Y.MD",
-    "blog/其他/ssh 无密码登录要.MD",
-    "blog/其他/windows下安装docker.MD",
-    "blog/其他/sqlite 教程.MD",
-    "blog/其他/ruby下的mkmf.rb can't find header files for ruby at.MD",
-    "blog/其他/Python代码实现一个神经网络.MD",
     "blog/其他",
     "blog/python",
     "blog/php",
@@ -183,7 +184,6 @@
     "blog/nodejs",
     "blog/mysql",
     "blog/mongodb",
-    "blog/MAC",
     "zsource/img/Pasted image 20231221200308.png",
     "zsource/img/Pasted image 20231221195615.png",
     "zsource/img/Pasted image 20231221195525.png",
