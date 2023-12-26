@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF总结/刷题记录/moectf/moeCTF.md",
+                "file": "CTF总结/pwn/栈溢出3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c42d581d7f7d8b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ctf练题/study/rePwn/re/迷宫题2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF总结/刷题记录/moectf/moeCTF.md",
+                "file": "ctf练题/study/rePwn/re/迷宫题2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF总结/刷题记录/moectf/moeCTF.md",
+                "file": "ctf练题/study/rePwn/re/迷宫题2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF总结/刷题记录/moectf/moeCTF.md"
+                "file": "ctf练题/study/rePwn/re/迷宫题2.md"
               }
             }
           }
@@ -148,6 +161,16 @@
   },
   "active": "c219e8bb3c393526",
   "lastOpenFiles": [
+    "ctf练题/study/rePwn/re/迷宫类题目1.md",
+    "ctf练题/study/rePwn/re/迷宫题2.md",
+    "ctf练题/study/rePwn/未命名.md",
+    "CTF总结/pwn/栈溢出1.md",
+    "CTF总结/pwn/栈溢出3.md",
+    "CTF总结/刷题记录/NSSCTF/刷题记录.md",
+    "CTF总结/刷题记录/moectf/moeCTF.md",
+    "CTF总结/刷题记录/攻防世界/dirsearch基本使用.md",
+    "CTF总结/刷题记录/攻防世界/刷题记录.md",
+    "CTF总结/内网渗透/红日靶场04.md",
     "CTF总结/SNERT2023.md",
     "CTF总结/pwn.md",
     "CTF总结/杂记/30、uploadslab通关笔记.md",
@@ -161,22 +184,12 @@
     "CTF总结/杂记/22、模板注入.md",
     "CTF总结/杂记/21、xxe漏洞利用.md",
     "CTF总结/杂记/20、echo被禁用就用printf.md",
-    "CTF总结/内网渗透/红日靶场04.md",
     "CTF总结/内网渗透",
     "CTF总结/pwn/栈溢出2.md",
-    "CTF总结/pwn/栈溢出1.md",
     "CTF总结/pwn",
     "CTF总结/MISC杂项/做题思路.md",
     "CTF总结/MISC杂项",
     "CTF总结/BUUCTF/朱雀组phpweb 1.md",
-    "CTF总结/BUUCTF/禁止套娃.md",
-    "CTF总结/BUUCTF/ZJCTF，不过如此原理.md",
-    "CTF总结/BUUCTF/ZJCTF，不过如此.md",
-    "CTF总结/BUUCTF/Online Tool.md",
-    "CTF总结/BUUCTF/Had a bad day.md",
-    "CTF总结/BUUCTF/fakebook.md",
-    "CTF总结/BUUCTF/exit.md",
-    "CTF总结/BUUCTF/cve-2018-12613-PhpMyadmin后台文件包含漏洞.md",
     "CTF总结/BUUCTF",
     "CTF总结/BUUCTF.zip",
     "blog/redis",
