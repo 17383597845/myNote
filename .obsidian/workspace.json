@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf练题/study/内网/Cat.md",
+                "file": "奇安信培训/4、编程/python/2、文件读写，异常处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf练题/study/内网/Cat.md",
+                "file": "奇安信培训/4、编程/python/2、文件读写，异常处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf练题/study/内网/Cat.md",
+                "file": "奇安信培训/4、编程/python/2、文件读写，异常处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf练题/study/内网/Cat.md"
+                "file": "奇安信培训/4、编程/python/2、文件读写，异常处理.md"
               }
             }
           }
@@ -174,6 +174,10 @@
   "active": "87f71bdf6f8d6946",
   "lastOpenFiles": [
     "ctf练题/study/内网/ctf内网渗透例题1.md",
+    "ctf练题/study/内网/Cat.md",
+    "ctf练题/study/杂项/1、文件类型识别，分离和合并.md",
+    "ctf练题/study/杂项/3、压缩文件处理.md",
+    "CTF总结/刷题记录/moectf/moeCTF.md",
     "ctf练题/study/1、sql注入.md",
     "ctf练题/study/sqlilab通关教程.md",
     "zsource/source/level2最佳解法.md",
@@ -195,10 +199,6 @@
     "ctf练题/study/rePwn/pwn/hello_pwn.md",
     "ctf练题/study/rePwn/re/迷宫类题目1.md",
     "CTF总结/pwn/栈溢出3.md",
-    "ctf练题/study/rePwn/re/迷宫题2.md",
-    "ctf练题/study/rePwn/未命名.md",
-    "CTF总结/pwn/栈溢出1.md",
-    "CTF总结/刷题记录/moectf/moeCTF.md",
     "CTF总结/内网渗透",
     "CTF总结/pwn",
     "CTF总结/MISC杂项",
