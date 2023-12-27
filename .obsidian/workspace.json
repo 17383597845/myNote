@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF总结/杂记/19、简单协议和RCE.md",
+                "file": "zsource/msf使用教程.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF总结/杂记/19、简单协议和RCE.md",
+                "file": "zsource/msf使用教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF总结/杂记/19、简单协议和RCE.md",
+                "file": "zsource/msf使用教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF总结/杂记/19、简单协议和RCE.md"
+                "file": "zsource/msf使用教程.md"
               }
             }
           }
@@ -173,6 +173,11 @@
   },
   "active": "87f71bdf6f8d6946",
   "lastOpenFiles": [
+    "zsource/source/文件上传漏洞参考二.md",
+    "ctf练题/study/文件上传漏洞.md",
+    "zsource/source/文件上传基础手法.md",
+    "ctf练题/SNERT2023.md",
+    "CTF总结/杂记/19、简单协议和RCE.md",
     "blog/LINUX+架构/ssh 根据私钥生成 公钥.MD",
     "blog/LINUX+架构/ssh 通过key登录 免密码登录.MD",
     "blog/LINUX+架构/利用 ssh 的用户配置文件 config 管理 ssh 会话.MD",
@@ -183,7 +188,6 @@
     "ctf练题/study/1、sql注入.md",
     "奇安信培训/6、攻防基础/8、xxe漏洞.md",
     "CTF总结/杂记/18、http请求头.md",
-    "ctf练题/study/文件上传漏洞.md",
     "CTF总结/BUUCTF/ZJCTF，不过如此原理.md",
     "CTF总结/BUUCTF/ZJCTF，不过如此.md",
     "CTF总结/BUUCTF/Online Tool.md",
@@ -195,10 +199,6 @@
     "CTF总结/BUUCTF/禁止套娃.md",
     "奇安信培训/4、编程/python/2、文件读写，异常处理.md",
     "ctf练题/study/内网/ctf内网渗透例题1.md",
-    "ctf练题/study/内网/Cat.md",
-    "ctf练题/study/杂项/1、文件类型识别，分离和合并.md",
-    "ctf练题/study/杂项/3、压缩文件处理.md",
-    "CTF总结/刷题记录/moectf/moeCTF.md",
     "CTF总结/内网渗透",
     "CTF总结/pwn",
     "CTF总结/MISC杂项",
