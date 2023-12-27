@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF总结/杂记/4、thinkphp V5漏洞.md",
+                "file": "奇安信培训/1、操作系统/linux操作系统/1、linux基础内容.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF总结/杂记/4、thinkphp V5漏洞.md",
+                "file": "奇安信培训/1、操作系统/linux操作系统/1、linux基础内容.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF总结/杂记/4、thinkphp V5漏洞.md",
+                "file": "奇安信培训/1、操作系统/linux操作系统/1、linux基础内容.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF总结/杂记/4、thinkphp V5漏洞.md"
+                "file": "奇安信培训/1、操作系统/linux操作系统/1、linux基础内容.md"
               }
             }
           }
@@ -173,10 +173,22 @@
   },
   "active": "87f71bdf6f8d6946",
   "lastOpenFiles": [
+    "奇安信培训/1、操作系统/windows和Linux下的敏感文件.md",
+    "奇安信培训/1、操作系统/linux操作系统/2、linux高级.md",
+    "奇安信培训/1、操作系统/linux操作系统/1、linux基础内容.md",
+    "blog/LINUX+架构/IIS webconfig.MD",
+    "blog/LINUX+架构/iftop 查看网络负载.MD",
+    "blog/LINUX+架构/Hydra 破解 ssh.MD",
+    "blog/LINUX+架构/centos 没有 shasum 命令.MD",
+    "ctf练题/study/1、sql注入.md",
+    "ctf练题/study/sqlilab通关教程.md",
+    "CTF总结/web题目的做题模板.md",
+    "zsource/msf使用教程.md",
+    "CTF总结/MISC杂项/做题思路.md",
+    "CTF总结/杂记/4、thinkphp V5漏洞.md",
     "ctf练题/study/内网/ctf内网渗透例题1.md",
     "ctf练题/study/内网/Cat.md",
     "ctf练题/study/内网/内网体系建设.md",
-    "zsource/msf使用教程.md",
     "zsource/source/文件上传漏洞参考二.md",
     "ctf练题/study/文件上传漏洞.md",
     "zsource/source/文件上传基础手法.md",
@@ -186,19 +198,7 @@
     "blog/LINUX+架构/ssh 通过key登录 免密码登录.MD",
     "blog/LINUX+架构/利用 ssh 的用户配置文件 config 管理 ssh 会话.MD",
     "blog/LINUX+架构/利用shell获取指定日期前N天的日期.MD",
-    "blog/LINUX+架构/Hydra 破解 ssh.MD",
     "达内笔记整理/nmap常用命令+hping使用.md",
-    "达内笔记整理/msf基础操作.md",
-    "ctf练题/study/1、sql注入.md",
-    "奇安信培训/6、攻防基础/8、xxe漏洞.md",
-    "CTF总结/杂记/18、http请求头.md",
-    "CTF总结/BUUCTF/ZJCTF，不过如此原理.md",
-    "CTF总结/BUUCTF/ZJCTF，不过如此.md",
-    "CTF总结/BUUCTF/Online Tool.md",
-    "CTF总结/BUUCTF/Had a bad day.md",
-    "CTF总结/BUUCTF/fakebook.md",
-    "CTF总结/BUUCTF/exit.md",
-    "CTF总结/BUUCTF/cve-2018-12613-PhpMyadmin后台文件包含漏洞.md",
     "CTF总结/内网渗透",
     "CTF总结/pwn",
     "CTF总结/MISC杂项",
