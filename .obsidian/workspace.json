@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zsource/msf使用教程.md",
+                "file": "CTF总结/杂记/4、thinkphp V5漏洞.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zsource/msf使用教程.md",
+                "file": "CTF总结/杂记/4、thinkphp V5漏洞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zsource/msf使用教程.md",
+                "file": "CTF总结/杂记/4、thinkphp V5漏洞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zsource/msf使用教程.md"
+                "file": "CTF总结/杂记/4、thinkphp V5漏洞.md"
               }
             }
           }
@@ -173,6 +173,10 @@
   },
   "active": "87f71bdf6f8d6946",
   "lastOpenFiles": [
+    "ctf练题/study/内网/ctf内网渗透例题1.md",
+    "ctf练题/study/内网/Cat.md",
+    "ctf练题/study/内网/内网体系建设.md",
+    "zsource/msf使用教程.md",
     "zsource/source/文件上传漏洞参考二.md",
     "ctf练题/study/文件上传漏洞.md",
     "zsource/source/文件上传基础手法.md",
@@ -195,10 +199,6 @@
     "CTF总结/BUUCTF/fakebook.md",
     "CTF总结/BUUCTF/exit.md",
     "CTF总结/BUUCTF/cve-2018-12613-PhpMyadmin后台文件包含漏洞.md",
-    "CTF总结/BUUCTF/朱雀组phpweb 1.md",
-    "CTF总结/BUUCTF/禁止套娃.md",
-    "奇安信培训/4、编程/python/2、文件读写，异常处理.md",
-    "ctf练题/study/内网/ctf内网渗透例题1.md",
     "CTF总结/内网渗透",
     "CTF总结/pwn",
     "CTF总结/MISC杂项",
