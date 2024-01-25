@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "48b946a2c89dbd97",
+        "id": "77f0f6b3da56b39f",
         "type": "tabs",
         "children": [
           {
-            "id": "f29951375b849bf0",
+            "id": "3aab28d3b3d3199d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF总结/pwn/栈溢出3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c42d581d7f7d8b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ctf练题/study/rePwn/pwn/level2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87f71bdf6f8d6946",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "奇安信培训/6、攻防基础/6、文件包含漏洞.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +142,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "87f71bdf6f8d6946",
+  "active": "c219e8bb3c393526",
   "lastOpenFiles": [
     "奇安信培训/6、攻防基础/5、代码执行、命令执行.md",
     "CTF总结/杂记/1、sql注入.md",
