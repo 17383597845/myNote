@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "77f0f6b3da56b39f",
+        "id": "a21d8f11e95ffe1a",
         "type": "tabs",
         "children": [
           {
-            "id": "3aab28d3b3d3199d",
+            "id": "d16adc66e04a7d1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "收藏的文章或笔记/工具使用/2、git常用命令.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇安信培训/6、攻防基础/6、文件包含漏洞.md",
+                "file": "收藏的文章或笔记/工具使用/2、git常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇安信培训/6、攻防基础/6、文件包含漏洞.md",
+                "file": "收藏的文章或笔记/工具使用/2、git常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇安信培训/6、攻防基础/6、文件包含漏洞.md"
+                "file": "收藏的文章或笔记/工具使用/2、git常用命令.md"
               }
             }
           }
@@ -142,44 +146,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c219e8bb3c393526",
+  "active": "d16adc66e04a7d1f",
   "lastOpenFiles": [
+    "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md",
+    "收藏的文章或笔记/工具使用/2、git常用命令.md",
+    "收藏的文章或笔记/技术教程文章.md",
+    "收藏的文章或笔记/成体系笔记.md",
+    "随手记/总结.md",
+    "随手记/随手.md",
+    "随手记/随手2.md",
+    "随手记/网站cms识别.md",
+    "outdated",
+    "outdated/ctf练题/题解目录/web题解.md",
+    "outdated/ctf练题/题解目录/杂项题解.md",
+    "outdated/ctf练题/题解目录/LFI和RFI利用技巧.md",
+    "收藏的文章或笔记/工具使用",
+    "奇安信培训/6、攻防基础/6、文件包含漏洞.md",
     "奇安信培训/6、攻防基础/5、代码执行、命令执行.md",
-    "CTF总结/杂记/1、sql注入.md",
-    "ctf练题/study/1、sql注入.md",
-    "CTF总结/杂记/18、http请求头.md",
-    "CTF总结/杂记/17、sql注入常见实用payload.md",
-    "CTF总结/BUUCTF/ZJCTF，不过如此原理.md",
-    "CTF总结/BUUCTF/ZJCTF，不过如此.md",
-    "CTF总结/BUUCTF/fakebook.md",
-    "CTF总结/BUUCTF/朱雀组phpweb 1.md",
-    "CTF总结/BUUCTF/禁止套娃.md",
-    "CTF总结/杂记/4、thinkphp V5漏洞.md",
-    "CTF总结/杂记/3、ffifdyop绕过md5进行sql注入.md",
-    "CTF总结/杂记/2、md5绕过和pop.md",
-    "CTF总结/刷题记录/NSSCTF/刷题记录.md",
-    "CTF总结/刷题记录/SWPU/pop例子.md",
-    "CTF总结/刷题记录/SWPU/刷题记录/SWPUCTF  新生赛.md",
-    "CTF总结/刷题记录/moectf/moeCTF.md",
-    "CTF总结/刷题记录/攻防世界/dirsearch基本使用.md",
-    "CTF总结/刷题记录/攻防世界/刷题记录.md",
-    "奇安信培训/1、操作系统/linux操作系统/1、linux基础内容.md",
-    "奇安信培训/1、操作系统/windows和Linux下的敏感文件.md",
-    "奇安信培训/1、操作系统/linux操作系统/2、linux高级.md",
-    "blog/LINUX+架构/IIS webconfig.MD",
-    "blog/LINUX+架构/iftop 查看网络负载.MD",
-    "blog/LINUX+架构/Hydra 破解 ssh.MD",
-    "blog/LINUX+架构/centos 没有 shasum 命令.MD",
-    "CTF总结/内网渗透",
-    "CTF总结/pwn",
-    "CTF总结/MISC杂项",
-    "CTF总结/BUUCTF",
+    "outdated/CTF总结/杂记/1、sql注入.md",
+    "outdated/ctf练题/study/1、sql注入.md",
+    "outdated/CTF总结/杂记/18、http请求头.md",
+    "outdated/CTF总结/杂记/17、sql注入常见实用payload.md",
+    "outdated/CTF总结/BUUCTF/ZJCTF，不过如此原理.md",
+    "outdated/CTF总结/BUUCTF/ZJCTF，不过如此.md",
+    "outdated/CTF总结/BUUCTF/fakebook.md",
+    "outdated/CTF总结/BUUCTF/朱雀组phpweb 1.md",
+    "outdated/CTF总结/BUUCTF/禁止套娃.md",
+    "outdated/CTF总结/杂记/4、thinkphp V5漏洞.md",
+    "outdated/CTF总结/杂记/3、ffifdyop绕过md5进行sql注入.md",
+    "outdated/CTF总结/杂记/2、md5绕过和pop.md",
+    "outdated/CTF总结/刷题记录/NSSCTF/刷题记录.md",
+    "outdated/CTF总结/内网渗透",
+    "outdated/CTF总结/pwn",
+    "outdated/CTF总结/MISC杂项",
+    "outdated/CTF总结/BUUCTF",
     "CTF总结/BUUCTF.zip",
     "blog/redis",
     "blog/常用工具",
     "blog/其他",
-    "blog/python",
-    "blog/php",
     "zsource/img/Pasted image 20231221200308.png",
     "zsource/img/Pasted image 20231221195615.png",
     "zsource/img/Pasted image 20231221195525.png",
