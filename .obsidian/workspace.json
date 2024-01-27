@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/2、git常用命令.md",
+                "file": "收藏的文章或笔记/工具使用/3、adb工具使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/2、git常用命令.md",
+                "file": "收藏的文章或笔记/工具使用/3、adb工具使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/2、git常用命令.md",
+                "file": "收藏的文章或笔记/工具使用/3、adb工具使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/2、git常用命令.md"
+                "file": "收藏的文章或笔记/工具使用/3、adb工具使用.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "d16adc66e04a7d1f",
   "lastOpenFiles": [
-    "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md",
     "收藏的文章或笔记/工具使用/2、git常用命令.md",
+    "收藏的文章或笔记/工具使用/3、adb工具使用.md",
+    "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md",
     "收藏的文章或笔记/技术教程文章.md",
     "收藏的文章或笔记/成体系笔记.md",
     "随手记/总结.md",
@@ -175,7 +176,6 @@
     "outdated/CTF总结/杂记/4、thinkphp V5漏洞.md",
     "outdated/CTF总结/杂记/3、ffifdyop绕过md5进行sql注入.md",
     "outdated/CTF总结/杂记/2、md5绕过和pop.md",
-    "outdated/CTF总结/刷题记录/NSSCTF/刷题记录.md",
     "outdated/CTF总结/内网渗透",
     "outdated/CTF总结/pwn",
     "outdated/CTF总结/MISC杂项",
