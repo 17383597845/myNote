@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/3、adb工具使用.md",
+                "file": "达内笔记整理/nmap常用命令+hping使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/3、adb工具使用.md",
+                "file": "达内笔记整理/nmap常用命令+hping使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/3、adb工具使用.md",
+                "file": "达内笔记整理/nmap常用命令+hping使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/3、adb工具使用.md"
+                "file": "达内笔记整理/nmap常用命令+hping使用.md"
               }
             }
           }
@@ -148,11 +148,24 @@
   },
   "active": "d16adc66e04a7d1f",
   "lastOpenFiles": [
-    "收藏的文章或笔记/工具使用/2、git常用命令.md",
-    "收藏的文章或笔记/工具使用/3、adb工具使用.md",
-    "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md",
+    "达内笔记整理/msf基础操作.md",
+    "达内笔记整理/linux常用命令.md",
+    "达内笔记整理/google搜索.md",
+    "达内笔记整理/sql注入/bp操作.md",
+    "老杜/mysql数据库/2、day02.md",
+    "老杜/mysql数据库/4、day04.md",
+    "老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
+    "README.md",
+    "收藏的文章或笔记/java安全.md",
     "收藏的文章或笔记/技术教程文章.md",
     "收藏的文章或笔记/成体系笔记.md",
+    "收藏的文章或笔记/工具使用/3、adb工具使用.md",
+    "收藏的文章或笔记/工具使用/2、git常用命令.md",
+    "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md",
+    "奇安信培训/1、操作系统/windows操作系统/1、账户和组.md",
+    "奇安信培训/1、操作系统/windows操作系统/3、文件系统.md",
+    "奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
+    "奇安信培训/1、操作系统/linux操作系统/2、linux高级.md",
     "随手记/总结.md",
     "随手记/随手.md",
     "随手记/随手2.md",
@@ -163,19 +176,6 @@
     "outdated/ctf练题/题解目录/LFI和RFI利用技巧.md",
     "收藏的文章或笔记/工具使用",
     "奇安信培训/6、攻防基础/6、文件包含漏洞.md",
-    "奇安信培训/6、攻防基础/5、代码执行、命令执行.md",
-    "outdated/CTF总结/杂记/1、sql注入.md",
-    "outdated/ctf练题/study/1、sql注入.md",
-    "outdated/CTF总结/杂记/18、http请求头.md",
-    "outdated/CTF总结/杂记/17、sql注入常见实用payload.md",
-    "outdated/CTF总结/BUUCTF/ZJCTF，不过如此原理.md",
-    "outdated/CTF总结/BUUCTF/ZJCTF，不过如此.md",
-    "outdated/CTF总结/BUUCTF/fakebook.md",
-    "outdated/CTF总结/BUUCTF/朱雀组phpweb 1.md",
-    "outdated/CTF总结/BUUCTF/禁止套娃.md",
-    "outdated/CTF总结/杂记/4、thinkphp V5漏洞.md",
-    "outdated/CTF总结/杂记/3、ffifdyop绕过md5进行sql注入.md",
-    "outdated/CTF总结/杂记/2、md5绕过和pop.md",
     "outdated/CTF总结/内网渗透",
     "outdated/CTF总结/pwn",
     "outdated/CTF总结/MISC杂项",
