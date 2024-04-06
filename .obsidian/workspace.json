@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "各种类型漏洞分类学习/逻辑漏洞/1、身份验证漏洞.md",
+                "file": "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/9、telnet和rdp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "各种类型漏洞分类学习/逻辑漏洞/1、身份验证漏洞.md",
+                "file": "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/9、telnet和rdp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "各种类型漏洞分类学习/逻辑漏洞/1、身份验证漏洞.md",
+                "file": "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/9、telnet和rdp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "各种类型漏洞分类学习/逻辑漏洞/1、身份验证漏洞.md"
+                "file": "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/9、telnet和rdp.md"
               }
             }
           }
@@ -146,18 +146,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67f672a737e3e380",
+  "active": "c219e8bb3c393526",
   "lastOpenFiles": [
-    "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md",
-    "收藏的文章或笔记/工具使用/2、git常用命令.md",
-    "各种类型漏洞分类学习/java反序列化漏洞学习/cc1链原理及利用.md",
-    "各种类型漏洞分类学习/java反序列化漏洞学习/cc3链原理及利用.md",
-    "各种类型漏洞分类学习/逻辑漏洞/1、身份验证漏洞.md",
+    "收藏的文章或笔记/digital-forensics/basic-computer",
+    "收藏的文章或笔记/digital-forensics",
+    "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/10、iis服务器搭建.md",
+    "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/5、dns服务器.md",
+    "收藏的文章或笔记/奇安信培训/1、操作系统/linux操作系统/2、linux高级.md",
+    "收藏的文章或笔记/各种类型漏洞分类学习/逻辑漏洞/1、身份验证漏洞.md",
     "收藏的文章或笔记/java安全.md",
-    "各种类型漏洞分类学习/逻辑漏洞",
-    "各种类型漏洞分类学习",
     "收藏的文章或笔记/技术教程文章.md",
     "收藏的文章或笔记/成体系笔记.md",
+    "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md",
+    "收藏的文章或笔记/工具使用/2、git常用命令.md",
+    "收藏的文章或笔记/各种类型漏洞分类学习/java反序列化漏洞学习/cc1链原理及利用.md",
+    "收藏的文章或笔记/各种类型漏洞分类学习/java反序列化漏洞学习/cc3链原理及利用.md",
+    "收藏的文章或笔记/各种类型漏洞分类学习/逻辑漏洞",
+    "收藏的文章或笔记/各种类型漏洞分类学习",
     "收藏的文章或笔记/工具使用/3、adb工具使用.md",
     "zsource/img/Pasted image 20231208150336.png",
     "zsource/img/Pasted image 20231208141831.png",
@@ -168,8 +173,8 @@
     "zsource/msf使用教程.md",
     "zsource/ZJCTF不过如此.md",
     "随手记/总结.md",
-    "奇安信培训/1、操作系统/linux操作系统/1、linux基础内容.md",
-    "奇安信培训/img/Pasted image 20231103111311.png",
+    "收藏的文章或笔记/奇安信培训/1、操作系统/linux操作系统/1、linux基础内容.md",
+    "收藏的文章或笔记/奇安信培训/img/Pasted image 20231103111311.png",
     "outdated/达内笔记整理/sql注入/sqlmap使用.md",
     "outdated/达内笔记整理/sql注入/普通sql注入和盲注以及防护.md",
     "outdated/达内笔记整理/google搜索.md",
@@ -177,10 +182,6 @@
     "outdated/达内笔记整理/msf基础操作.md",
     "outdated/达内笔记整理/linux常用命令.md",
     "outdated/达内笔记整理/sql注入/bp操作.md",
-    "outdated/老杜/mysql数据库/2、day02.md",
-    "outdated/老杜/mysql数据库/4、day04.md",
-    "outdated/老杜/mysql数据库/1、初识mysql单表查询结束—day01.md",
-    "README.md",
     "outdated",
     "收藏的文章或笔记/工具使用",
     "outdated/CTF总结/内网渗透",
@@ -188,7 +189,6 @@
     "outdated/CTF总结/MISC杂项",
     "outdated/CTF总结/BUUCTF",
     "CTF总结/BUUCTF.zip",
-    "blog/redis",
     "zsource/img/Pasted image 20231221200308.png",
     "zsource/img/Pasted image 20231221195615.png",
     "zsource/img/Pasted image 20231221195525.png",
