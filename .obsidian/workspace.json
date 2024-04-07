@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "93a97a2fd641eba3",
+        "id": "12992310e74dcfe3",
         "type": "tabs",
         "children": [
           {
-            "id": "67f672a737e3e380",
+            "id": "d8ddff1ca21b9792",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/9、telnet和rdp.md",
+                "file": "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/9、telnet和rdp.md",
+                "file": "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/9、telnet和rdp.md",
+                "file": "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/9、telnet和rdp.md"
+                "file": "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c219e8bb3c393526",
+  "active": "d8ddff1ca21b9792",
   "lastOpenFiles": [
+    "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/9、telnet和rdp.md",
     "收藏的文章或笔记/digital-forensics/basic-computer",
     "收藏的文章或笔记/digital-forensics",
     "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/10、iis服务器搭建.md",
@@ -188,7 +189,6 @@
     "outdated/CTF总结/pwn",
     "outdated/CTF总结/MISC杂项",
     "outdated/CTF总结/BUUCTF",
-    "CTF总结/BUUCTF.zip",
     "zsource/img/Pasted image 20231221200308.png",
     "zsource/img/Pasted image 20231221195615.png",
     "zsource/img/Pasted image 20231221195525.png",

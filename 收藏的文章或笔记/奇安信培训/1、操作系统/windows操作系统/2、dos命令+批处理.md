@@ -5,7 +5,7 @@ secpol.msc:打开本地安全策略
 四个常用命令：ipconfig、ping、netstat、systeminfo
 文件夹相关命令：E:、cd、dir、mkdir（md）、rd
 文件相关命令：
-	添加文件：echo  >或>>  注：>是覆盖而>>是
+	添加文件：echo  >或>>  注：>是覆盖而>>是追加
 	查看文件：type
 	删除文件：del       /s/q：强制删除
 	复制文件：copy
