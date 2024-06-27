@@ -19,9 +19,11 @@
             "id": "dd4b66e3b185adb6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "收藏的文章或笔记/src/1.src信息搜集.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "收藏的文章或笔记/src/1.src信息搜集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "收藏的文章或笔记/src/1.src信息搜集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "收藏的文章或笔记/src/1.src信息搜集.md"
+              }
             }
           }
         ],
@@ -151,6 +157,11 @@
   },
   "active": "dd4b66e3b185adb6",
   "lastOpenFiles": [
+    "Pasted image 20240627201209.png",
+    "README.md",
+    "收藏的文章或笔记/src/1.src信息搜集.md",
+    "Pasted image 20240627193214.png",
+    "收藏的文章或笔记/src",
     "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
     "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/9、telnet和rdp.md",
     "收藏的文章或笔记/digital-forensics/basic-computer",
@@ -183,19 +194,14 @@
     "outdated/达内笔记整理/sql注入/sqlmap使用.md",
     "outdated/达内笔记整理/sql注入/普通sql注入和盲注以及防护.md",
     "outdated/达内笔记整理/google搜索.md",
-    "outdated/达内笔记整理/nmap常用命令+hping使用.md",
-    "outdated/达内笔记整理/msf基础操作.md",
-    "outdated/达内笔记整理/linux常用命令.md",
     "outdated",
     "收藏的文章或笔记/工具使用",
     "outdated/CTF总结/内网渗透",
     "outdated/CTF总结/pwn",
     "outdated/CTF总结/MISC杂项",
-    "outdated/CTF总结/BUUCTF",
     "zsource/img/Pasted image 20231221200308.png",
     "zsource/img/Pasted image 20231221195615.png",
     "zsource/img/Pasted image 20231221195525.png",
-    "zsource/img/Pasted image 20231221194249.png",
-    "zsource/img/Pasted image 20231221194205.png"
+    "zsource/img/Pasted image 20231221194249.png"
   ]
 }
