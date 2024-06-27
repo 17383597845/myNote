@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "dd4b66e3b185adb6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +149,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d8ddff1ca21b9792",
+  "active": "dd4b66e3b185adb6",
   "lastOpenFiles": [
     "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
     "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/9、telnet和rdp.md",
