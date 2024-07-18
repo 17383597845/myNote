@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e93244f02c91c66",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +165,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dd4b66e3b185adb6",
+  "active": "0e93244f02c91c66",
   "lastOpenFiles": [
     "收藏的文章或笔记/src/1.src信息搜集.md",
     "收藏的文章或笔记/src/环境搭建+文件型xss.md",
