@@ -4,41 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "12992310e74dcfe3",
+        "id": "b52a5854c82911d4",
         "type": "tabs",
         "children": [
           {
-            "id": "d8ddff1ca21b9792",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "dd4b66e3b185adb6",
+            "id": "acbcb24e856e3938",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏的文章或笔记/src/环境搭建+文件型xss.md",
+                "file": "收藏的文章或笔记/逆向工程/c语言基础/1、c02二进制.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0e93244f02c91c66",
+            "id": "380e28aa2fda3491",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.6.5"
+                "currentVersion": "1.6.7"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 307.5
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -104,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收藏的文章或笔记/src/环境搭建+文件型xss.md",
+                "file": "收藏的文章或笔记/逆向工程/c语言基础/1、c02二进制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收藏的文章或笔记/src/环境搭建+文件型xss.md",
+                "file": "收藏的文章或笔记/逆向工程/c语言基础/1、c02二进制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏的文章或笔记/src/环境搭建+文件型xss.md"
+                "file": "收藏的文章或笔记/逆向工程/c语言基础/1、c02二进制.md"
               }
             }
           }
@@ -165,10 +157,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0e93244f02c91c66",
+  "active": "380e28aa2fda3491",
   "lastOpenFiles": [
-    "收藏的文章或笔记/src/1.src信息搜集.md",
+    "收藏的文章或笔记/逆向工程/c语言基础/1、c02二进制.md",
+    "收藏的文章或笔记/逆向工程/c语言基础",
+    "收藏的文章或笔记/逆向工程",
     "收藏的文章或笔记/src/环境搭建+文件型xss.md",
+    "收藏的文章或笔记/src/1.src信息搜集.md",
     "Pasted image 20240627201209.png",
     "README.md",
     "Pasted image 20240627193214.png",
@@ -204,12 +199,9 @@
     "收藏的文章或笔记/奇安信培训/img/Pasted image 20231103111311.png",
     "outdated/达内笔记整理/sql注入/sqlmap使用.md",
     "outdated/达内笔记整理/sql注入/普通sql注入和盲注以及防护.md",
-    "outdated/达内笔记整理/google搜索.md",
     "outdated",
     "收藏的文章或笔记/工具使用",
     "outdated/CTF总结/内网渗透",
-    "outdated/CTF总结/pwn",
-    "outdated/CTF总结/MISC杂项",
     "zsource/img/Pasted image 20231221200308.png",
     "zsource/img/Pasted image 20231221195615.png",
     "zsource/img/Pasted image 20231221195525.png"
