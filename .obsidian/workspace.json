@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b52a5854c82911d4",
+        "id": "bd88d9bcc907f9a1",
         "type": "tabs",
         "children": [
           {
-            "id": "acbcb24e856e3938",
+            "id": "3c2fbef8d3e5c751",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏的文章或笔记/逆向工程/c语言基础/1、c02二进制.md",
+                "file": "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "380e28aa2fda3491",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 200
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收藏的文章或笔记/逆向工程/c语言基础/1、c02二进制.md",
+                "file": "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收藏的文章或笔记/逆向工程/c语言基础/1、c02二进制.md",
+                "file": "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏的文章或笔记/逆向工程/c语言基础/1、c02二进制.md"
+                "file": "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md"
               }
             }
           }
@@ -157,16 +146,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "380e28aa2fda3491",
+  "active": "3c2fbef8d3e5c751",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md",
+    "收藏的文章或笔记/逆向工程/汇编/3、分段和指令.md",
+    "收藏的文章或笔记/逆向工程/汇编/1、梗概.md",
+    "收藏的文章或笔记/逆向工程/汇编/2、十六位汇编基础.md",
+    "Pasted image 20240726162126.png",
+    "Pasted image 20240726162055.png",
+    "Pasted image 20240726161753.png",
+    "Pasted image 20240726160139.png",
+    "Pasted image 20240726155725.png",
+    "Pasted image 20240726145852.png",
+    "Pasted image 20240725235251.png",
+    "Pasted image 20240726005440.png",
+    "Pasted image 20240726005234.png",
+    "Pasted image 20240726003516.png",
     "收藏的文章或笔记/逆向工程/c语言基础/1、c02二进制.md",
+    "MSDN_Oct_2001.iso",
+    "收藏的文章或笔记/逆向工程/汇编",
     "收藏的文章或笔记/逆向工程/c语言基础",
     "收藏的文章或笔记/逆向工程",
     "收藏的文章或笔记/src/环境搭建+文件型xss.md",
     "收藏的文章或笔记/src/1.src信息搜集.md",
-    "Pasted image 20240627201209.png",
     "README.md",
-    "Pasted image 20240627193214.png",
     "收藏的文章或笔记/src",
     "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
     "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/9、telnet和rdp.md",
@@ -186,24 +190,9 @@
     "收藏的文章或笔记/各种类型漏洞分类学习/逻辑漏洞",
     "收藏的文章或笔记/各种类型漏洞分类学习",
     "收藏的文章或笔记/工具使用/3、adb工具使用.md",
-    "zsource/img/Pasted image 20231208150336.png",
-    "zsource/img/Pasted image 20231208141831.png",
-    "zsource/img/Pasted image 20231202214122.png",
-    "zsource/img/Pasted image 20231129172647.png",
     "zsource/source/rsa工具集使用.md",
     "zsource/source/Mimikatz使用.md",
     "zsource/msf使用教程.md",
-    "zsource/ZJCTF不过如此.md",
-    "随手记/总结.md",
-    "收藏的文章或笔记/奇安信培训/1、操作系统/linux操作系统/1、linux基础内容.md",
-    "收藏的文章或笔记/奇安信培训/img/Pasted image 20231103111311.png",
-    "outdated/达内笔记整理/sql注入/sqlmap使用.md",
-    "outdated/达内笔记整理/sql注入/普通sql注入和盲注以及防护.md",
-    "outdated",
-    "收藏的文章或笔记/工具使用",
-    "outdated/CTF总结/内网渗透",
-    "zsource/img/Pasted image 20231221200308.png",
-    "zsource/img/Pasted image 20231221195615.png",
-    "zsource/img/Pasted image 20231221195525.png"
+    "outdated"
   ]
 }
