@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -147,23 +146,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3c2fbef8d3e5c751",
+  "active": "c219e8bb3c393526",
   "lastOpenFiles": [
-    "收藏的文章或笔记/逆向工程/汇编/3、分段和指令.md",
+    "Pasted image 20240723150603.png",
     "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md",
+    "Pasted image 20240729182125.png",
+    "Pasted image 20240729181442.png",
+    "Pasted image 20240729180921.png",
+    "Pasted image 20240729180910.png",
+    "Pasted image 20240729175556.png",
+    "Pasted image 20240729175329.png",
+    "Pasted image 20240729174226.png",
+    "Pasted image 20240729172947.png",
     "收藏的文章或笔记/逆向工程/汇编/2、十六位汇编基础.md",
     "收藏的文章或笔记/逆向工程/汇编/1、梗概.md",
+    "收藏的文章或笔记/逆向工程/汇编/3、分段和指令.md",
     "未命名.canvas",
     "Pasted image 20240726162126.png",
     "Pasted image 20240726162055.png",
-    "Pasted image 20240726161753.png",
-    "Pasted image 20240726160139.png",
-    "Pasted image 20240726155725.png",
-    "Pasted image 20240726145852.png",
-    "Pasted image 20240725235251.png",
-    "Pasted image 20240726005440.png",
-    "Pasted image 20240726005234.png",
-    "Pasted image 20240726003516.png",
     "收藏的文章或笔记/逆向工程/c语言基础/1、c02二进制.md",
     "MSDN_Oct_2001.iso",
     "收藏的文章或笔记/逆向工程/汇编",
