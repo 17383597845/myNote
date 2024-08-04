@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏的文章或笔记/逆向工程/汇编/2、十六位汇编基础.md",
+                "file": "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收藏的文章或笔记/逆向工程/汇编/2、十六位汇编基础.md",
+                "file": "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收藏的文章或笔记/逆向工程/汇编/2、十六位汇编基础.md",
+                "file": "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏的文章或笔记/逆向工程/汇编/2、十六位汇编基础.md"
+                "file": "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   "active": "3c2fbef8d3e5c751",
   "lastOpenFiles": [
     "收藏的文章或笔记/逆向工程/汇编/3、分段和指令.md",
-    "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md",
     "收藏的文章或笔记/逆向工程/汇编/2、十六位汇编基础.md",
     "收藏的文章或笔记/逆向工程/汇编/1、梗概.md",
+    "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md",
+    "收藏的文章或笔记/逆向工程/汇编/十六位汇编基础.md",
+    "收藏的文章或笔记/奇安信培训/2、数通/3、交换机工作原理与虚拟交换机.md",
     "Pasted image 20240723150603.png",
     "Pasted image 20240729182125.png",
     "Pasted image 20240729181442.png",
@@ -192,7 +194,6 @@
     "收藏的文章或笔记/工具使用/3、adb工具使用.md",
     "zsource/source/rsa工具集使用.md",
     "zsource/source/Mimikatz使用.md",
-    "zsource/msf使用教程.md",
     "outdated"
   ]
 }
