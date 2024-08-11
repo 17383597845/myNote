@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏的文章或笔记/奇安信培训/6、攻防基础/9、逻辑漏洞.md",
+                "file": "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收藏的文章或笔记/奇安信培训/6、攻防基础/9、逻辑漏洞.md",
+                "file": "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收藏的文章或笔记/奇安信培训/6、攻防基础/9、逻辑漏洞.md",
+                "file": "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏的文章或笔记/奇安信培训/6、攻防基础/9、逻辑漏洞.md"
+                "file": "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "3c2fbef8d3e5c751",
   "lastOpenFiles": [
+    "收藏的文章或笔记/奇安信培训/6、攻防基础/9、逻辑漏洞.md",
     "收藏的文章或笔记/奇安信培训/6、攻防基础/3、xss注入漏洞.md",
     "收藏的文章或笔记/奇安信培训/6、攻防基础/1、信息收集.md",
     "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md",
@@ -193,7 +194,6 @@
     "收藏的文章或笔记/各种类型漏洞分类学习/java反序列化漏洞学习/cc3链原理及利用.md",
     "收藏的文章或笔记/各种类型漏洞分类学习/逻辑漏洞",
     "收藏的文章或笔记/各种类型漏洞分类学习",
-    "收藏的文章或笔记/工具使用/3、adb工具使用.md",
     "outdated"
   ]
 }
