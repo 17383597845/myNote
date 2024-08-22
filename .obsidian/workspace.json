@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏的文章或笔记/奇安信培训/3、中间件/中间件/5、jboss.md",
+                "file": "outdated/CTF总结/杂记/18、http请求头.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收藏的文章或笔记/奇安信培训/3、中间件/中间件/5、jboss.md",
+                "file": "outdated/CTF总结/杂记/18、http请求头.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收藏的文章或笔记/奇安信培训/3、中间件/中间件/5、jboss.md",
+                "file": "outdated/CTF总结/杂记/18、http请求头.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏的文章或笔记/奇安信培训/3、中间件/中间件/5、jboss.md"
+                "file": "outdated/CTF总结/杂记/18、http请求头.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "3c2fbef8d3e5c751",
   "lastOpenFiles": [
+    "收藏的文章或笔记/奇安信培训/3、中间件/中间件/5、jboss.md",
     "收藏的文章或笔记/奇安信培训/3、中间件/中间件/4、apache.md",
     "收藏的文章或笔记/奇安信培训/3、中间件/中间件/3、tomcat.md",
     "收藏的文章或笔记/奇安信培训/3、中间件/中间件/2、nginx安装使用.md",
@@ -191,7 +192,6 @@
     "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/9、telnet和rdp.md",
     "收藏的文章或笔记/digital-forensics/basic-computer",
     "收藏的文章或笔记/digital-forensics",
-    "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/10、iis服务器搭建.md",
     "收藏的文章或笔记/各种类型漏洞分类学习/逻辑漏洞",
     "收藏的文章或笔记/各种类型漏洞分类学习",
     "outdated"
