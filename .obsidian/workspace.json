@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outdated/达内笔记整理/nmap常用命令+hping使用.md",
+                "file": "收藏的文章或笔记/kfc/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outdated/达内笔记整理/nmap常用命令+hping使用.md",
+                "file": "收藏的文章或笔记/kfc/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outdated/达内笔记整理/nmap常用命令+hping使用.md",
+                "file": "收藏的文章或笔记/kfc/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outdated/达内笔记整理/nmap常用命令+hping使用.md"
+                "file": "收藏的文章或笔记/kfc/未命名.md"
               }
             }
           }
@@ -148,6 +149,9 @@
   },
   "active": "3c2fbef8d3e5c751",
   "lastOpenFiles": [
+    "outdated/达内笔记整理/nmap常用命令+hping使用.md",
+    "收藏的文章或笔记/kfc/未命名.md",
+    "收藏的文章或笔记/kfc",
     "outdated/CTF总结/杂记/18、http请求头.md",
     "收藏的文章或笔记/奇安信培训/3、中间件/中间件/5、jboss.md",
     "收藏的文章或笔记/奇安信培训/3、中间件/中间件/4、apache.md",
@@ -187,13 +191,10 @@
     "收藏的文章或笔记/逆向工程/c语言基础",
     "收藏的文章或笔记/逆向工程",
     "收藏的文章或笔记/src/环境搭建+文件型xss.md",
-    "README.md",
     "收藏的文章或笔记/src",
-    "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
     "收藏的文章或笔记/digital-forensics/basic-computer",
     "收藏的文章或笔记/digital-forensics",
     "收藏的文章或笔记/各种类型漏洞分类学习/逻辑漏洞",
-    "收藏的文章或笔记/各种类型漏洞分类学习",
-    "outdated"
+    "收藏的文章或笔记/各种类型漏洞分类学习"
   ]
 }
