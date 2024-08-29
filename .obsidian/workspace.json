@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏的文章或笔记/kfc/未命名.md",
+                "file": "outdated/达内笔记整理/nmap常用命令+hping使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "right": {
     "id": "78202cd5d314333d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收藏的文章或笔记/kfc/未命名.md",
+                "file": "outdated/达内笔记整理/nmap常用命令+hping使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收藏的文章或笔记/kfc/未命名.md",
+                "file": "outdated/达内笔记整理/nmap常用命令+hping使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏的文章或笔记/kfc/未命名.md"
+                "file": "outdated/达内笔记整理/nmap常用命令+hping使用.md"
               }
             }
           }
@@ -149,8 +148,9 @@
   },
   "active": "3c2fbef8d3e5c751",
   "lastOpenFiles": [
-    "outdated/达内笔记整理/nmap常用命令+hping使用.md",
+    "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md",
     "收藏的文章或笔记/kfc/未命名.md",
+    "outdated/达内笔记整理/nmap常用命令+hping使用.md",
     "收藏的文章或笔记/kfc",
     "outdated/CTF总结/杂记/18、http请求头.md",
     "收藏的文章或笔记/奇安信培训/3、中间件/中间件/5、jboss.md",
@@ -190,7 +190,6 @@
     "收藏的文章或笔记/逆向工程/汇编",
     "收藏的文章或笔记/逆向工程/c语言基础",
     "收藏的文章或笔记/逆向工程",
-    "收藏的文章或笔记/src/环境搭建+文件型xss.md",
     "收藏的文章或笔记/src",
     "收藏的文章或笔记/digital-forensics/basic-computer",
     "收藏的文章或笔记/digital-forensics",
