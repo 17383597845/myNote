@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outdated/达内笔记整理/nmap常用命令+hping使用.md",
+                "file": "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outdated/达内笔记整理/nmap常用命令+hping使用.md",
+                "file": "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outdated/达内笔记整理/nmap常用命令+hping使用.md",
+                "file": "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outdated/达内笔记整理/nmap常用命令+hping使用.md"
+                "file": "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "3c2fbef8d3e5c751",
   "lastOpenFiles": [
+    "收藏的文章或笔记/工具使用/2、git常用命令.md",
     "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md",
-    "收藏的文章或笔记/kfc/未命名.md",
+    "收藏的文章或笔记/各种类型漏洞分类学习/java反序列化漏洞学习/cc3链原理及利用.md",
+    "收藏的文章或笔记/各种类型漏洞分类学习/java反序列化漏洞学习/cc1链原理及利用.md",
+    "收藏的文章或笔记/各种类型漏洞分类学习/逻辑漏洞/1、身份验证漏洞.md",
     "outdated/达内笔记整理/nmap常用命令+hping使用.md",
+    "收藏的文章或笔记/kfc/未命名.md",
     "收藏的文章或笔记/kfc",
     "outdated/CTF总结/杂记/18、http请求头.md",
     "收藏的文章或笔记/奇安信培训/3、中间件/中间件/5、jboss.md",
@@ -172,9 +176,6 @@
     "收藏的文章或笔记/逆向工程/汇编/2、十六位汇编基础.md",
     "收藏的文章或笔记/逆向工程/汇编/3、分段和指令.md",
     "Pasted image 20240726161753.png",
-    "收藏的文章或笔记/逆向工程/汇编/1、梗概.md",
-    "收藏的文章或笔记/逆向工程/汇编/十六位汇编基础.md",
-    "收藏的文章或笔记/奇安信培训/2、数通/3、交换机工作原理与虚拟交换机.md",
     "Pasted image 20240723150603.png",
     "Pasted image 20240729182125.png",
     "Pasted image 20240729181442.png",
@@ -185,7 +186,6 @@
     "Pasted image 20240729174226.png",
     "Pasted image 20240729172947.png",
     "未命名.canvas",
-    "收藏的文章或笔记/逆向工程/c语言基础/1、c02二进制.md",
     "MSDN_Oct_2001.iso",
     "收藏的文章或笔记/逆向工程/汇编",
     "收藏的文章或笔记/逆向工程/c语言基础",
