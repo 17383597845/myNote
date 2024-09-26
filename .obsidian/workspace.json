@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/xray.md",
+                "file": "收藏的文章或笔记/奇安信培训/6、攻防基础/4、csrf和ssrf.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/xray.md",
+                "file": "收藏的文章或笔记/奇安信培训/6、攻防基础/4、csrf和ssrf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/xray.md",
+                "file": "收藏的文章或笔记/奇安信培训/6、攻防基础/4、csrf和ssrf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/xray.md"
+                "file": "收藏的文章或笔记/奇安信培训/6、攻防基础/4、csrf和ssrf.md"
               }
             }
           }
@@ -160,8 +160,9 @@
   },
   "active": "3c2fbef8d3e5c751",
   "lastOpenFiles": [
-    "收藏的文章或笔记/环境配置/1、centos7或centos8安装高版本python10.md",
+    "收藏的文章或笔记/奇安信培训/6、攻防基础/3、xss注入漏洞.md",
     "收藏的文章或笔记/工具使用/xray.md",
+    "收藏的文章或笔记/环境配置/1、centos7或centos8安装高版本python10.md",
     "收藏的文章或笔记/环境配置",
     "收藏的文章或笔记/奇安信培训/6、攻防基础/6、文件包含漏洞.md",
     "收藏的文章或笔记/奇安信培训/6、攻防基础/1、信息收集.md",
@@ -187,7 +188,6 @@
     "outdated/达内笔记整理/google搜索.md",
     "收藏的文章或笔记/src/1.src信息搜集.md",
     "随手记/总结.md",
-    "收藏的文章或笔记/逆向工程/汇编/4、数据传输和指令.md",
     "Pasted image 20240726161753.png",
     "Pasted image 20240723150603.png",
     "Pasted image 20240729182125.png",
