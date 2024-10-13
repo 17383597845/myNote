@@ -160,10 +160,12 @@
   },
   "active": "3c2fbef8d3e5c751",
   "lastOpenFiles": [
+    "收藏的文章或笔记/各种类型漏洞分类学习/钓鱼攻击/1、利用window.opener.md",
+    "收藏的文章或笔记/工具使用/xray.md",
+    "收藏的文章或笔记/各种类型漏洞分类学习/钓鱼攻击",
     "收藏的文章或笔记/工具使用/4、google语法.md",
     "收藏的文章或笔记/环境配置/1、centos7或centos8安装高版本python10.md",
     "收藏的文章或笔记/未命名",
-    "收藏的文章或笔记/工具使用/xray.md",
     "收藏的文章或笔记/工具使用/2、git常用命令.md",
     "收藏的文章或笔记/工具使用/3、adb工具使用.md",
     "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md",
@@ -188,7 +190,6 @@
     "收藏的文章或笔记/奇安信培训/3、中间件/数据库/8、总结.md",
     "收藏的文章或笔记/奇安信培训/5、防火墙/1、防火墙设备系统管理.md",
     "outdated/达内笔记整理/sql注入/普通sql注入和盲注以及防护.md",
-    "outdated/达内笔记整理/msf基础操作.md",
     "Pasted image 20240726161753.png",
     "Pasted image 20240723150603.png",
     "Pasted image 20240729182125.png",
@@ -205,7 +206,6 @@
     "收藏的文章或笔记/逆向工程/c语言基础",
     "收藏的文章或笔记/逆向工程",
     "收藏的文章或笔记/src",
-    "收藏的文章或笔记/digital-forensics/basic-computer",
-    "收藏的文章或笔记/digital-forensics"
+    "收藏的文章或笔记/digital-forensics/basic-computer"
   ]
 }
