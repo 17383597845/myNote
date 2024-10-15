@@ -21,5 +21,4 @@ https://xdym11235.com/archives/38.html#%E8%BF%90%E8%A1%8Cnuclei
 ```
 screen -S my_scan
 screen -r my_scan
-
 ```
