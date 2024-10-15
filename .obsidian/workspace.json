@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outdated/ctf练题/SNERT2023.md",
+                "file": "收藏的文章或笔记/工具使用/5、流量代理.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outdated/ctf练题/SNERT2023.md",
+                "file": "收藏的文章或笔记/工具使用/5、流量代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outdated/ctf练题/SNERT2023.md",
+                "file": "收藏的文章或笔记/工具使用/5、流量代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outdated/ctf练题/SNERT2023.md"
+                "file": "收藏的文章或笔记/工具使用/5、流量代理.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "3c2fbef8d3e5c751",
   "lastOpenFiles": [
+    "outdated/ctf练题/SNERT2023.md",
     "outdated/CTF总结/MISC杂项/做题思路.md",
     "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md",
     "zsource/source/rsa工具集使用.md",
@@ -189,7 +190,6 @@
     "收藏的文章或笔记/奇安信培训/3、中间件/中间件/4、apache.md",
     "收藏的文章或笔记/奇安信培训/3、中间件/中间件/3、tomcat.md",
     "收藏的文章或笔记/奇安信培训/3、中间件/中间件/2、nginx安装使用.md",
-    "收藏的文章或笔记/奇安信培训/3、中间件/中间件/1、初识.md",
     "Pasted image 20240726161753.png",
     "Pasted image 20240723150603.png",
     "Pasted image 20240729182125.png",
