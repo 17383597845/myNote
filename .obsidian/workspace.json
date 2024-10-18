@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/5、流量代理.md",
+                "file": "收藏的文章或笔记/工具使用/7、arl灯塔部署和使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5、流量代理"
+              "title": "7、arl灯塔部署和使用"
             }
           },
           {
             "id": "c1475d444c29633c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "收藏的文章或笔记/工具使用/6、docker使用.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "6、docker使用"
             }
           },
           {
@@ -47,8 +49,7 @@
               "title": "域名泛解析"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/5、流量代理.md",
+                "file": "收藏的文章或笔记/工具使用/7、arl灯塔部署和使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "5、流量代理 的反向链接列表"
+              "title": "7、arl灯塔部署和使用 的反向链接列表"
             }
           },
           {
@@ -139,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/5、流量代理.md",
+                "file": "收藏的文章或笔记/工具使用/7、arl灯塔部署和使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "5、流量代理 的出链列表"
+              "title": "7、arl灯塔部署和使用 的出链列表"
             }
           },
           {
@@ -166,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/5、流量代理.md"
+                "file": "收藏的文章或笔记/工具使用/7、arl灯塔部署和使用.md"
               },
               "icon": "lucide-list",
-              "title": "5、流量代理 的大纲"
+              "title": "7、arl灯塔部署和使用 的大纲"
             }
           }
         ],
@@ -189,10 +190,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c1475d444c29633c",
+  "active": "3c2fbef8d3e5c751",
   "lastOpenFiles": [
-    "收藏的文章或笔记/工具使用/6、docker使用.md",
     "收藏的文章或笔记/工具使用/5、流量代理.md",
+    "收藏的文章或笔记/工具使用/7、arl灯塔部署和使用.md",
+    "收藏的文章或笔记/工具使用/6、docker使用.md",
     "outdated/ctf练题/SNERT2023.md",
     "outdated/CTF总结/MISC杂项/做题思路.md",
     "收藏的文章或笔记/工具使用/1、ctf部分工具使用.md",
@@ -220,7 +222,6 @@
     "outdated/CTF总结/杂记/18、http请求头.md",
     "收藏的文章或笔记/奇安信培训/3、中间件/中间件/5、jboss.md",
     "收藏的文章或笔记/奇安信培训/3、中间件/中间件/4、apache.md",
-    "收藏的文章或笔记/奇安信培训/3、中间件/中间件/3、tomcat.md",
     "Pasted image 20240726161753.png",
     "Pasted image 20240723150603.png",
     "Pasted image 20240729182125.png",
