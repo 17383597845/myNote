@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/7、arl灯塔部署和使用.md",
+                "file": "收藏的文章或笔记/工具使用/xray.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7、arl灯塔部署和使用"
+              "title": "xray"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/7、arl灯塔部署和使用.md",
+                "file": "收藏的文章或笔记/工具使用/xray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "7、arl灯塔部署和使用 的出链列表"
+              "title": "xray 的出链列表"
             }
           },
           {
@@ -192,8 +192,8 @@
   },
   "active": "3c2fbef8d3e5c751",
   "lastOpenFiles": [
-    "收藏的文章或笔记/工具使用/6、docker使用.md",
     "收藏的文章或笔记/工具使用/7、arl灯塔部署和使用.md",
+    "收藏的文章或笔记/工具使用/6、docker使用.md",
     "收藏的文章或笔记/工具使用/5、流量代理.md",
     "outdated/ctf练题/SNERT2023.md",
     "outdated/CTF总结/MISC杂项/做题思路.md",
