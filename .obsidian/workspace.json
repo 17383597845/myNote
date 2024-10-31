@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏的文章或笔记/奇安信培训/source/域名泛解析.md",
+                "file": "outdated/CTF总结/MISC杂项/做题思路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "域名泛解析"
+              "title": "做题思路"
             }
           }
         ],
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收藏的文章或笔记/奇安信培训/source/域名泛解析.md",
+                "file": "outdated/CTF总结/MISC杂项/做题思路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "域名泛解析 的出链列表"
+              "title": "做题思路 的出链列表"
             }
           },
           {
@@ -193,9 +193,9 @@
   },
   "active": "b315600fdbf2eb2f",
   "lastOpenFiles": [
+    "收藏的文章或笔记/奇安信培训/source/域名泛解析.md",
     "收藏的文章或笔记/工具使用/6、docker使用.md",
     "收藏的文章或笔记/工具使用/xray.md",
-    "收藏的文章或笔记/奇安信培训/source/域名泛解析.md",
     "收藏的文章或笔记/工具使用/7、arl灯塔部署和使用.md",
     "收藏的文章或笔记/工具使用/5、流量代理.md",
     "outdated/ctf练题/SNERT2023.md",
