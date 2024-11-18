@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/7、arl灯塔部署和使用.md",
+                "file": "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/12、域.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7、arl灯塔部署和使用"
+              "title": "12、域"
             }
           }
         ],
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收藏的文章或笔记/工具使用/7、arl灯塔部署和使用.md",
+                "file": "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/12、域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "7、arl灯塔部署和使用 的出链列表"
+              "title": "12、域 的出链列表"
             }
           },
           {
@@ -179,9 +179,15 @@
   },
   "active": "0f9925d347508d35",
   "lastOpenFiles": [
+    "收藏的文章或笔记/奇安信培训/1、操作系统/windows和Linux下的敏感文件.md",
+    "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/11、本地安全策略.md",
+    "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/7、ftp.md",
+    "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/3、文件系统.md",
+    "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/2、dos命令+批处理.md",
+    "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/1、账户和组.md",
+    "收藏的文章或笔记/工具使用/7、arl灯塔部署和使用.md",
     "收藏的文章或笔记/工具使用/xray.md",
     "收藏的文章或笔记/工具使用/8.msf.md",
-    "收藏的文章或笔记/工具使用/7、arl灯塔部署和使用.md",
     "收藏的文章或笔记/工具使用/6、docker使用.md",
     "outdated/CTF总结/整理/sql盲注.md",
     "outdated/CTF总结/MISC杂项/做题思路.md",
@@ -202,13 +208,7 @@
     "收藏的文章或笔记/环境配置",
     "收藏的文章或笔记/奇安信培训/6、攻防基础/6、文件包含漏洞.md",
     "收藏的文章或笔记/奇安信培训/6、攻防基础/1、信息收集.md",
-    "收藏的文章或笔记/各种类型漏洞分类学习/java反序列化漏洞学习/cc3链原理及利用.md",
-    "收藏的文章或笔记/各种类型漏洞分类学习/java反序列化漏洞学习/cc1链原理及利用.md",
-    "收藏的文章或笔记/各种类型漏洞分类学习/逻辑漏洞/1、身份验证漏洞.md",
-    "outdated/达内笔记整理/nmap常用命令+hping使用.md",
-    "收藏的文章或笔记/kfc/未命名.md",
     "收藏的文章或笔记/kfc",
-    "outdated/CTF总结/杂记/18、http请求头.md",
     "Pasted image 20240726161753.png",
     "Pasted image 20240723150603.png",
     "Pasted image 20240729182125.png",
