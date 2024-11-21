@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "5、流量代理"
             }
+          },
+          {
+            "id": "54441bb7642c7f07",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +189,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0f9925d347508d35",
+  "active": "54441bb7642c7f07",
   "lastOpenFiles": [
     "收藏的文章或笔记/奇安信培训/1、操作系统/windows操作系统/12、域.md",
     "收藏的文章或笔记/奇安信培训/1、操作系统/windows和Linux下的敏感文件.md",
